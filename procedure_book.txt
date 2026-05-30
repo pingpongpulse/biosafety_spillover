@@ -1,0 +1,1144 @@
+BioRiskNet
+Complete Project Procedure Book
+Metadata-Driven WHO Risk Group Classification and
+Zoonotic Spillover Scoring with SHAP Explainability
+Course: Biosafety and Ethics  |  4-Person Team Project
+Timeline: 4 Weeks  |  Target: PLOS ONE / Bioinformatics Advances
+Person
+Role
+Primary Responsibility
+Person 1
+Data Engineer
+Data collection, scraping, cleaning, merging
+Person 2
+ML Engineer
+Model training, validation, class imbalance
+Person 3
+Explainability & Spillover
+SHAP analysis, spillover model, dashboard
+Person 4
+Results & Validation
+Collating outputs, case studies, GitHub repo
+Chapter 0: Project Overview
+Read this chapter before doing anything else. It explains the full picture of what you are building and why.
+What is BioRiskNet?
+BioRiskNet is a dual-objective machine learning framework that does two things simultaneously:
+Model 1 — WHO Risk Group Classifier: Given a pathogen's biological metadata (host type, transmission mode, genome type, etc.), predict whether it belongs to Risk Group 1, 2, 3, or 4.
+Model 2 — Zoonotic Spillover Scorer: Given a virus's known host associations, predict the probability that it will spill over from animals into humans.
+SHAP Explainability: For every prediction, show which biological features drove the decision and by how much.
+Why Is This Novel?
+No published paper has built a multi-class (RG1-4) WHO Risk Group classifier from metadata alone with SHAP explanations. Existing tools are either binary or genome-sequence based. That gap is your contribution.
+Project Architecture at a Glance
+Week
+Who Works
+Deliverable
+Week 1
+Person 1 (lead) + all help
+Clean merged dataset CSV ready for ML
+Week 2
+Person 2 (lead) + Person 3 parallel
+Trained XGBoost model + Spillover model running
+Week 3
+Person 3 (lead) + Person 2 + Person 4
+SHAP plots + all results tables + validated outputs
+Week 4
+Person 4 (lead) + all contribute
+GitHub repo, case studies, final validated results
+Tech Stack Summary
+Tool
+Purpose
+Install Command
+Python 3.10+
+Core language
+Already installed or python.org
+pandas
+Data manipulation
+pip install pandas
+scikit-learn
+ML utilities, cross-validation
+pip install scikit-learn
+xgboost
+Main classifier
+pip install xgboost
+shap
+Explainability
+pip install shap
+imbalanced-learn
+SMOTE for class imbalance
+pip install imbalanced-learn
+requests + BeautifulSoup4
+Web scraping
+pip install requests beautifulsoup4
+matplotlib + seaborn
+Plotting
+pip install matplotlib seaborn
+biopython
+NCBI API access
+pip install biopython
+jupyter
+Notebooks for exploration
+pip install jupyter
+PERSON 1 — DATA ENGINEER
+Chapter 1: Data Collection, Scraping & Merging
+Your job this week is the most critical. Everyone else is blocked until you deliver a clean CSV. Focus entirely on this for Week 1.
+Step 1.1 — Set Up Your Environment
+Install Python and create a virtual environment
+# Open terminal / command prompt
+# Check Python version (needs 3.10+)
+python --version
+# Create project folder
+mkdir biorisknet
+cd biorisknet
+# Create virtual environment
+python -m venv venv
+# Activate it
+# On Windows:
+venv\Scripts\activate
+# On Mac/Linux:
+source venv/bin/activate
+Install all required libraries
+pip install pandas requests beautifulsoup4 biopython
+pip install scikit-learn xgboost shap imbalanced-learn
+pip install matplotlib seaborn jupyter openpyxl
+Create the project folder structure
+mkdir data
+mkdir data/raw
+mkdir data/processed
+mkdir scripts
+mkdir notebooks
+mkdir results
+mkdir results/figures
+mkdir results/tables
+Step 1.2 — Download the Olival 2017 Dataset (Virus Spillover Data)
+This is your easiest dataset. It is free, clean, and directly downloadable from GitHub.
+How to download
+# Option 1: Direct download in browser
+# Go to: https://github.com/ecohealthalliance/HP3
+# Download: associations.csv and viruses.csv
+# Save both to: biorisknet/data/raw/
+# Option 2: Use Python script (save as scripts/download_olival.py)
+Script: scripts/download_olival.py
+import requests
+import os
+base = 'https://raw.githubusercontent.com/ecohealthalliance/HP3/master/data/'
+files = ['associations.csv', 'viruses.csv', 'hosts.csv']
+for f in files:
+    url = base + f
+    r = requests.get(url)
+    if r.status_code == 200:
+        with open(f'data/raw/olival_{f}', 'wb') as out:
+            out.write(r.content)
+        print(f'Downloaded: {f}')
+    else:
+        print(f'FAILED: {f} — status {r.status_code}')
+Run it
+python scripts/download_olival.py
+# You should see 3 'Downloaded' messages
+# Check data/raw/ — you should see olival_associations.csv etc.
+Step 1.3 — Download ePATHogen Database (Risk Group Labels)
+ePATHogen is a Canadian biosafety database. It has a downloadable CSV — no scraping needed.
+How to get it
+Go to: https://ePathogen.phac-aspc.gc.ca/ePathogen/do/RSB
+Click 'Export' or 'Download CSV' on the main table
+Save as: data/raw/epathogen_raw.csv
+Script: scripts/clean_epathogen.py
+import pandas as pd
+df = pd.read_csv('data/raw/epathogen_raw.csv')
+print('Columns:', df.columns.tolist())
+print('Shape:', df.shape)
+print(df.head())
+# Keep only relevant columns (adjust names after seeing actual columns)
+# Usually: Organism, Risk Group, Transmission, Host
+keep = ['Organism', 'Risk Group', 'Transmission Route', 'Host Range']
+df_clean = df[[c for c in keep if c in df.columns]]
+df_clean.to_csv('data/raw/epathogen_clean.csv', index=False)
+print('Saved epathogen_clean.csv — shape:', df_clean.shape)
+Step 1.4 — Scrape ABSA Risk Group Database
+This is the most important dataset for Model 1. ABSA lists pathogens with WHO Risk Group labels. There is no bulk download, so we scrape it.
+WARNING: Run the scraper slowly (with time.sleep). If you scrape too fast, the server may block you. The sleep(2) in the script handles this.
+Script: scripts/scrape_absa.py
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+import time
+BASE_URL = 'https://absa.org/biosafety-resources/risk-group-database/'
+records = []
+def scrape_page(url):
+    r = requests.get(url, timeout=15)
+    if r.status_code != 200:
+        print(f'Failed: {url}')
+        return None
+    return BeautifulSoup(r.text, 'html.parser')
+def extract_records(soup):
+    rows = soup.find_all('tr')
+    for row in rows:
+        cols = row.find_all('td')
+        if len(cols) >= 3:
+            records.append({
+                'organism': cols[0].get_text(strip=True),
+                'risk_group': cols[1].get_text(strip=True),
+                'notes': cols[2].get_text(strip=True),
+            })
+# Scrape main page
+soup = scrape_page(BASE_URL)
+if soup:
+    extract_records(soup)
+    # Find pagination links
+    pages = soup.find_all('a', href=True)
+    page_links = [a['href'] for a in pages if 'page' in a['href'].lower()]
+    for link in page_links:
+        full_url = link if link.startswith('http') else BASE_URL + link
+        print(f'Scraping: {full_url}')
+        soup2 = scrape_page(full_url)
+        if soup2:
+            extract_records(soup2)
+        time.sleep(2)  # Be polite — wait 2 seconds between pages
+df = pd.DataFrame(records).drop_duplicates()
+df.to_csv('data/raw/absa_raw.csv', index=False)
+print(f'Done. Saved {len(df)} records to absa_raw.csv')
+Run it
+python scripts/scrape_absa.py
+# This may take 5-10 minutes depending on pages
+# Check data/raw/absa_raw.csv when done
+# You should see 700-900 rows
+If ABSA blocks you or the URL structure is different: Go to absa.org manually, find the Risk Group table, and use your browser's Developer Tools > Network tab to find the actual data URL. Adapt the scraper accordingly.
+Step 1.5 — Extract WHO BMBL Table Data
+The WHO BMBL (Biosafety in Microbiological and Biomedical Laboratories) document contains risk classifications in PDF tables. We extract these.
+Install PDF extractor
+pip install pdfplumber
+# Download WHO BMBL 6th Edition PDF from:
+# https://www.cdc.gov/labs/pdf/SF__19_308133-A_BMBL6_00-BOOK-WEB-final-3.pdf
+# Save as: data/raw/bmbl.pdf
+Script: scripts/extract_bmbl.py
+import pdfplumber
+import pandas as pd
+records = []
+with pdfplumber.open('data/raw/bmbl.pdf') as pdf:
+    for i, page in enumerate(pdf.pages):
+        tables = page.extract_tables()
+        for table in tables:
+            for row in table:
+                if row and len(row) >= 2:
+                    # Filter rows that look like organism + BSL level
+                    agent = str(row[0]).strip() if row[0] else ''
+                    bsl = str(row[1]).strip() if row[1] else ''
+                    if agent and bsl and any(c.isdigit() for c in bsl):
+                        records.append({'organism': agent, 'bsl_level': bsl, 'page': i+1})
+df = pd.DataFrame(records).drop_duplicates(subset=['organism'])
+df.to_csv('data/raw/bmbl_extracted.csv', index=False)
+print(f'Extracted {len(df)} records from BMBL PDF')
+Step 1.6 — Merge All Datasets Into One Master CSV
+This is the most important step. You will combine ABSA, ePATHogen, BMBL, and Olival into a single clean CSV that the ML team will use.
+Script: scripts/merge_datasets.py
+import pandas as pd
+import numpy as np
+# ── Load datasets ──────────────────────────────────────────
+absa = pd.read_csv('data/raw/absa_raw.csv')
+epatho = pd.read_csv('data/raw/epathogen_clean.csv')
+bmbl = pd.read_csv('data/raw/bmbl_extracted.csv')
+olival_v = pd.read_csv('data/raw/olival_viruses.csv')
+olival_a = pd.read_csv('data/raw/olival_associations.csv')
+# ── Standardize column names ───────────────────────────────
+absa = absa.rename(columns={'organism': 'name', 'risk_group': 'rg_label'})
+epatho = epatho.rename(columns={'Organism': 'name', 'Risk Group': 'rg_label'})
+bmbl = bmbl.rename(columns={'organism': 'name', 'bsl_level': 'rg_label'})
+# ── Normalize Risk Group labels to integers 1-4 ────────────
+def normalize_rg(val):
+    val = str(val).strip().upper()
+    mapping = {
+        'RG1': 1, 'RG2': 2, 'RG3': 3, 'RG4': 4,
+        'RISK GROUP 1': 1, 'RISK GROUP 2': 2,
+        'RISK GROUP 3': 3, 'RISK GROUP 4': 4,
+        '1': 1, '2': 2, '3': 3, '4': 4,
+        'BSL-1': 1, 'BSL-2': 2, 'BSL-3': 3, 'BSL-4': 4,
+        'BSL 1': 1, 'BSL 2': 2, 'BSL 3': 3, 'BSL 4': 4,
+    }
+    return mapping.get(val, np.nan)
+for df in [absa, epatho, bmbl]:
+    df['rg_label'] = df['rg_label'].apply(normalize_rg)
+# ── Combine classification datasets ───────────────────────
+combined_rg = pd.concat([
+    absa[['name', 'rg_label']],
+    epatho[['name', 'rg_label']],
+    bmbl[['name', 'rg_label']],
+], ignore_index=True)
+# Drop rows with missing labels
+combined_rg = combined_rg.dropna(subset=['rg_label'])
+combined_rg['rg_label'] = combined_rg['rg_label'].astype(int)
+# Handle duplicates: where sources disagree, take the max (more conservative)
+combined_rg = combined_rg.groupby('name', as_index=False)['rg_label'].max()
+print('Risk Group dataset shape:', combined_rg.shape)
+print('Label distribution:')
+print(combined_rg['rg_label'].value_counts())
+# ── Add biological features ────────────────────────────────
+# These features need to be manually coded or looked up from literature
+# For now, create a template that Person 2 can fill with encoding
+feature_cols = ['genome_type', 'transmission_route', 'host_range',
+                'environmental_stability', 'treatment_available',
+                'infectious_dose', 'zoonotic']
+for col in feature_cols:
+    combined_rg[col] = np.nan  # Person 2 will encode these
+# ── Save final datasets ────────────────────────────────────
+combined_rg.to_csv('data/processed/rg_dataset.csv', index=False)
+olival_v.to_csv('data/processed/spillover_dataset.csv', index=False)
+print('\nSaved rg_dataset.csv and spillover_dataset.csv to data/processed/')
+print('DONE — hand off to Person 2 now')
+Run it
+python scripts/merge_datasets.py
+# Check data/processed/ for the two output files
+# Share rg_dataset.csv and spillover_dataset.csv with Person 2
+Step 1.7 — Feature Lookup Table (Manual Step)
+This step requires manual research. For each pathogen in rg_dataset.csv, you need to fill in the biological features. Person 1 and Person 4 should split this work.
+Open data/processed/rg_dataset.csv in Excel. For each organism, fill in these columns using Wikipedia, CDC pathogen pages, or ICTV:
+Column
+Possible Values
+Example
+genome_type
+DNA, RNA, dsDNA, ssRNA+, ssRNA-
+Influenza = ssRNA-
+transmission_route
+airborne, contact, vector, fecal-oral, droplet
+COVID = airborne
+host_range
+narrow, broad, human-only
+Ebola = narrow
+environmental_stability
+low, medium, high
+Anthrax = high
+treatment_available
+yes, no, partial
+Rabies = yes (PEP)
+infectious_dose
+low, medium, high
+Norovirus = low
+zoonotic
+yes, no
+H1N1 = yes
+Save the completed file as data/processed/rg_dataset_features.csv and share with Person 2.
+PERSON 2 — ML ENGINEER
+Chapter 2: Machine Learning Model — WHO Risk Group Classifier
+You need rg_dataset_features.csv from Person 1 before you can start model training. You can begin Step 2.1 and 2.2 while waiting.
+Step 2.1 — Install and Set Up
+# Activate the virtual environment (same one as Person 1)
+source venv/bin/activate  # Mac/Linux
+venv\Scripts\activate    # Windows
+# These should already be installed. Verify:
+python -c "import xgboost; import shap; import sklearn; print('All good')"
+Step 2.2 — Encode Features
+Machine learning models need numbers, not text. This script converts all text features into numeric codes.
+Script: scripts/encode_features.py
+import pandas as pd
+import numpy as np
+from sklearn.preprocessing import LabelEncoder
+df = pd.read_csv('data/processed/rg_dataset_features.csv')
+print('Loaded dataset shape:', df.shape)
+print('Columns:', df.columns.tolist())
+# Drop rows where label is missing
+df = df.dropna(subset=['rg_label'])
+# Define categorical feature columns
+cat_cols = ['genome_type', 'transmission_route', 'host_range',
+            'environmental_stability', 'treatment_available',
+            'infectious_dose', 'zoonotic']
+# Encode each categorical column
+encoders = {}
+for col in cat_cols:
+    if col in df.columns:
+        df[col] = df[col].fillna('unknown')
+        le = LabelEncoder()
+        df[col + '_enc'] = le.fit_transform(df[col])
+        encoders[col] = le
+        print(f'Encoded {col}: {dict(zip(le.classes_, le.transform(le.classes_)))}')
+# Select feature columns for model
+feature_cols = [c + '_enc' for c in cat_cols if c in df.columns]
+X = df[feature_cols]
+y = df['rg_label'].astype(int) - 1  # Convert 1-4 to 0-3 for XGBoost
+print('\nFeature matrix shape:', X.shape)
+print('Label distribution (0=RG1, 1=RG2, 2=RG3, 3=RG4):')
+print(y.value_counts().sort_index())
+# Save encoded dataset
+X['rg_label'] = y
+X.to_csv('data/processed/encoded_dataset.csv', index=False)
+print('\nSaved encoded_dataset.csv')
+Run it
+python scripts/encode_features.py
+Step 2.3 — Handle Class Imbalance with SMOTE
+RG3 and RG4 organisms are rare. If you train without fixing this, the model will just predict RG2 for everything. SMOTE creates synthetic examples of the minority classes.
+Script: scripts/apply_smote.py
+import pandas as pd
+from imblearn.over_sampling import SMOTE
+from collections import Counter
+df = pd.read_csv('data/processed/encoded_dataset.csv')
+X = df.drop('rg_label', axis=1)
+y = df['rg_label']
+print('Before SMOTE:', Counter(y))
+smote = SMOTE(random_state=42, k_neighbors=3)
+X_resampled, y_resampled = smote.fit_resample(X, y)
+print('After SMOTE:', Counter(y_resampled))
+# Save resampled dataset
+df_resampled = pd.DataFrame(X_resampled, columns=X.columns)
+df_resampled['rg_label'] = y_resampled
+df_resampled.to_csv('data/processed/smote_dataset.csv', index=False)
+print('Saved smote_dataset.csv')
+Step 2.4 — Train the XGBoost Classifier
+Script: scripts/train_model.py
+import pandas as pd
+import numpy as np
+import xgboost as xgb
+from sklearn.model_selection import StratifiedKFold, cross_val_score
+from sklearn.metrics import (classification_report, confusion_matrix,
+                             accuracy_score, f1_score)
+import pickle
+import json
+# Load data
+df = pd.read_csv('data/processed/smote_dataset.csv')
+X = df.drop('rg_label', axis=1)
+y = df['rg_label']
+# ── Define model ──────────────────────────────────────────
+model = xgb.XGBClassifier(
+    n_estimators=300,
+    max_depth=6,
+    learning_rate=0.05,
+    subsample=0.8,
+    colsample_bytree=0.8,
+    use_label_encoder=False,
+    eval_metric='mlogloss',
+    random_state=42,
+    num_class=4
+)
+# ── 5-fold stratified cross validation ────────────────────
+cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
+cv_scores = cross_val_score(model, X, y, cv=cv, scoring='f1_macro')
+print('Cross-validation F1-macro scores:', cv_scores)
+print(f'Mean: {cv_scores.mean():.3f} +/- {cv_scores.std():.3f}')
+# ── Train final model on all data ─────────────────────────
+model.fit(X, y)
+# ── Evaluate on training set (for paper reporting) ────────
+y_pred = model.predict(X)
+print('\nClassification Report:')
+print(classification_report(y, y_pred,
+      target_names=['RG1','RG2','RG3','RG4']))
+# ── Save model and results ────────────────────────────────
+with open('results/xgboost_model.pkl', 'wb') as f:
+    pickle.dump(model, f)
+results = {
+    'cv_f1_scores': cv_scores.tolist(),
+    'cv_mean': float(cv_scores.mean()),
+    'cv_std': float(cv_scores.std()),
+    'feature_names': X.columns.tolist()
+}
+with open('results/model_results.json', 'w') as f:
+    json.dump(results, f, indent=2)
+print('\nModel saved to results/xgboost_model.pkl')
+print('Results saved to results/model_results.json')
+Run it
+python scripts/train_model.py
+# This takes 1-3 minutes
+# Share results/xgboost_model.pkl with Person 3
+Step 2.5 — Generate Confusion Matrix Plot
+Script: scripts/plot_confusion.py
+import pandas as pd
+import pickle
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.metrics import confusion_matrix
+from sklearn.model_selection import cross_val_predict, StratifiedKFold
+import xgboost as xgb
+df = pd.read_csv('data/processed/smote_dataset.csv')
+X = df.drop('rg_label', axis=1)
+y = df['rg_label']
+with open('results/xgboost_model.pkl', 'rb') as f:
+    model = pickle.load(f)
+# Cross-validated predictions for honest confusion matrix
+cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
+y_pred = cross_val_predict(model, X, y, cv=cv)
+cm = confusion_matrix(y, y_pred)
+plt.figure(figsize=(8, 6))
+sns.heatmap(cm, annot=True, fmt='d', cmap='Blues',
+            xticklabels=['RG1','RG2','RG3','RG4'],
+            yticklabels=['RG1','RG2','RG3','RG4'])
+plt.title('BioRiskNet — Confusion Matrix (5-fold CV)', fontsize=14, fontweight='bold')
+plt.xlabel('Predicted Risk Group')
+plt.ylabel('True Risk Group')
+plt.tight_layout()
+plt.savefig('results/figures/confusion_matrix.png', dpi=300, bbox_inches='tight')
+plt.close()
+print('Saved: results/figures/confusion_matrix.png')
+python scripts/plot_confusion.py
+PERSON 3 — EXPLAINABILITY & SPILLOVER
+Chapter 3: SHAP Explainability + Spillover Model
+You need xgboost_model.pkl from Person 2 to start SHAP. You can start the Spillover model (Step 3.3+) independently using the Olival dataset from Person 1.
+Step 3.1 — SHAP Global Feature Importance
+SHAP (SHapley Additive exPlanations) tells us which biological features the model thinks are most important for determining risk group. This is the key explainability result for your paper.
+Script: scripts/shap_global.py
+import pandas as pd
+import pickle
+import shap
+import matplotlib.pyplot as plt
+import numpy as np
+# Load model and data
+df = pd.read_csv('data/processed/smote_dataset.csv')
+X = df.drop('rg_label', axis=1)
+y = df['rg_label']
+with open('results/xgboost_model.pkl', 'rb') as f:
+    model = pickle.load(f)
+# Create SHAP explainer
+explainer = shap.TreeExplainer(model)
+shap_values = explainer.shap_values(X)
+# ── Plot 1: Summary plot (all classes) ────────────────────
+shap.summary_plot(
+    shap_values, X,
+    plot_type='bar',
+    class_names=['RG1','RG2','RG3','RG4'],
+    show=False
+)
+plt.title('SHAP Feature Importance — All Risk Groups', fontweight='bold')
+plt.tight_layout()
+plt.savefig('results/figures/shap_summary_bar.png', dpi=300, bbox_inches='tight')
+plt.close()
+print('Saved: shap_summary_bar.png')
+# ── Plot 2: Beeswarm for RG3 specifically ─────────────────
+# RG3 is most clinically important — show what drives high risk
+if isinstance(shap_values, list):
+    shap_rg3 = shap_values[2]  # Index 2 = RG3 (0-indexed)
+else:
+    shap_rg3 = shap_values
+shap.summary_plot(shap_rg3, X, show=False)
+plt.title('SHAP Beeswarm — Drivers of Risk Group 3 Classification', fontweight='bold')
+plt.tight_layout()
+plt.savefig('results/figures/shap_beeswarm_rg3.png', dpi=300, bbox_inches='tight')
+plt.close()
+print('Saved: shap_beeswarm_rg3.png')
+python scripts/shap_global.py
+Step 3.2 — SHAP Case Studies (Individual Pathogen Explanations)
+Pick 3 real pathogens (e.g., SARS-CoV-2, Ebola, E. coli) and show how the model explains its decision for each. This is compelling for the paper.
+Script: scripts/shap_case_studies.py
+import pandas as pd
+import pickle
+import shap
+import matplotlib.pyplot as plt
+df = pd.read_csv('data/processed/smote_dataset.csv')
+orig = pd.read_csv('data/processed/rg_dataset_features.csv')
+X = df.drop('rg_label', axis=1)
+with open('results/xgboost_model.pkl', 'rb') as f:
+    model = pickle.load(f)
+explainer = shap.TreeExplainer(model)
+# Case study pathogens — find their index in the dataset
+# Adjust names to match what's in your dataset
+case_studies = ['SARS-CoV-2', 'Ebola virus', 'Escherichia coli']
+for pathogen in case_studies:
+    matches = orig[orig['name'].str.contains(pathogen, case=False, na=False)]
+    if matches.empty:
+        print(f'Not found: {pathogen}')
+        continue
+    idx = matches.index[0]
+    if idx >= len(X):
+        print(f'Index out of range for: {pathogen}')
+        continue
+    instance = X.iloc[[idx]]
+    shap_vals = explainer.shap_values(instance)
+    pred = model.predict(instance)[0]
+    rg = pred + 1
+    print(f'{pathogen}: Predicted RG{rg}')
+    # Waterfall plot for this instance
+    if isinstance(shap_vals, list):
+        sv = shap_vals[pred]
+    else:
+        sv = shap_vals
+    shap.waterfall_plot(
+        shap.Explanation(
+            values=sv[0],
+            base_values=explainer.expected_value[pred] if isinstance(explainer.expected_value, list) else explainer.expected_value,
+            data=instance.iloc[0],
+            feature_names=X.columns.tolist()
+        ),
+        show=False
+    )
+    safe_name = pathogen.replace(' ', '_').replace('-', '_')
+    plt.title(f'SHAP Explanation: {pathogen} (Predicted RG{rg})', fontweight='bold')
+    plt.tight_layout()
+    plt.savefig(f'results/figures/shap_case_{safe_name}.png', dpi=300, bbox_inches='tight')
+    plt.close()
+    print(f'Saved: shap_case_{safe_name}.png')
+python scripts/shap_case_studies.py
+Step 3.3 — Build the Spillover Risk Model
+Model 2 uses the Olival 2017 virus-host dataset to predict the probability that a mammalian virus spills over into humans.
+Script: scripts/train_spillover.py
+import pandas as pd
+import numpy as np
+import xgboost as xgb
+from sklearn.model_selection import cross_val_score, StratifiedKFold
+from sklearn.metrics import roc_auc_score, classification_report
+from sklearn.preprocessing import LabelEncoder
+from imblearn.over_sampling import SMOTE
+import pickle
+# Load Olival data
+viruses = pd.read_csv('data/raw/olival_viruses.csv')
+assoc = pd.read_csv('data/raw/olival_associations.csv')
+print('Viruses columns:', viruses.columns.tolist())
+print('Associations columns:', assoc.columns.tolist())
+# Create binary spillover label
+# 'IsZoonotic' or similar column — check actual column name
+# 1 = known to infect humans, 0 = not known
+if 'IsZoonotic' in viruses.columns:
+    viruses['spillover'] = (viruses['IsZoonotic'] == 1).astype(int)
+elif 'hHostCount' in viruses.columns:
+    viruses['spillover'] = (viruses['hHostCount'] > 0).astype(int)
+else:
+    # Fallback: check associations for human host
+    human_viruses = assoc[assoc['hHostName'].str.contains('Homo sapiens', na=False)]['vVirusNameCorrected'].unique()
+    viruses['spillover'] = viruses['vVirusNameCorrected'].isin(human_viruses).astype(int)
+print('Spillover distribution:', viruses['spillover'].value_counts().to_dict())
+# Select features
+# These are numeric columns in Olival dataset
+feature_candidates = [
+    'vDomains', 'vNonSegmented', 'vEnveloped',
+    'hHostCount', 'hWildDomestic', 'hSpeciesAverageMass',
+    'phyloDistCG', 'NaiveBAYES'
+]
+available = [c for c in feature_candidates if c in viruses.columns]
+print('Available features:', available)
+df = viruses[available + ['spillover']].dropna()
+X = df[available]
+y = df['spillover']
+print('Dataset size after cleaning:', len(df))
+# Handle class imbalance
+smote = SMOTE(random_state=42, k_neighbors=3)
+X_res, y_res = smote.fit_resample(X, y)
+# Train spillover model
+model = xgb.XGBClassifier(
+    n_estimators=200,
+    max_depth=5,
+    learning_rate=0.05,
+    use_label_encoder=False,
+    eval_metric='logloss',
+    random_state=42
+)
+cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
+auc_scores = cross_val_score(model, X_res, y_res, cv=cv, scoring='roc_auc')
+print(f'Spillover AUC: {auc_scores.mean():.3f} +/- {auc_scores.std():.3f}')
+model.fit(X_res, y_res)
+with open('results/spillover_model.pkl', 'wb') as f:
+    pickle.dump(model, f)
+print('Spillover model saved to results/spillover_model.pkl')
+python scripts/train_spillover.py
+Step 3.4 — Generate Spillover SHAP Plot
+# After running train_spillover.py, run shap on the spillover model
+# Script: scripts/shap_spillover.py
+import pandas as pd
+import pickle
+import shap
+import matplotlib.pyplot as plt
+# (Load same data as train_spillover.py — copy those lines here)
+# Then:
+with open('results/spillover_model.pkl', 'rb') as f:
+    model = pickle.load(f)
+explainer = shap.TreeExplainer(model)
+shap_values = explainer.shap_values(X_res)
+shap.summary_plot(shap_values, X_res, show=False)
+plt.title('SHAP Feature Importance — Zoonotic Spillover Model', fontweight='bold')
+plt.tight_layout()
+plt.savefig('results/figures/shap_spillover.png', dpi=300, bbox_inches='tight')
+plt.close()
+print('Saved: shap_spillover.png')
+PERSON 4 — RESULTS & VALIDATION
+Chapter 4: Results Collation, Validation & GitHub
+You are the integrator. Your job is to take everything Person 2 and Person 3 produce, verify it makes biological sense, run the case studies, and make the project presentable for the paper team. You can start Step 4.1 in Week 3 once figures start arriving.
+Step 4.1 — Collect and Organise All Outputs
+Create a shared folder called results/final/ and collect every output from Person 2 and Person 3 into it. Use this checklist:
+File
+From
+What to check
+xgboost_model.pkl
+Person 2
+File exists and loads without error
+model_results.json
+Person 2
+CV F1-macro is above 0.60
+confusion_matrix.png
+Person 2
+300 DPI, labels readable
+spillover_model.pkl
+Person 3
+File exists and loads without error
+shap_summary_bar.png
+Person 3
+300 DPI, all 4 RG classes visible
+shap_beeswarm_rg3.png
+Person 3
+300 DPI, feature names readable
+shap_case_*.png
+Person 3
+3 files present, one per pathogen
+shap_spillover.png
+Person 3
+300 DPI, feature names readable
+Script: scripts/check_outputs.py
+import os, pickle, json
+required_files = [
+    'results/xgboost_model.pkl',
+    'results/spillover_model.pkl',
+    'results/model_results.json',
+    'results/figures/confusion_matrix.png',
+    'results/figures/shap_summary_bar.png',
+    'results/figures/shap_beeswarm_rg3.png',
+    'results/figures/shap_spillover.png',
+]
+print('=== Output Check ===')
+all_good = True
+for f in required_files:
+    exists = os.path.exists(f)
+    status = 'OK' if exists else 'MISSING'
+    print(f'  [{status}] {f}')
+    if not exists: all_good = False
+# Check model loads
+try:
+    with open('results/xgboost_model.pkl', 'rb') as f:
+        model = pickle.load(f)
+    print('  [OK] xgboost_model.pkl loads cleanly')
+except Exception as e:
+    print(f'  [FAIL] xgboost_model.pkl: {e}')
+    all_good = False
+# Check metrics
+try:
+    with open('results/model_results.json') as f:
+        r = json.load(f)
+    cv = r.get('cv_mean', 0)
+    status = 'OK' if cv >= 0.60 else 'LOW — check model'
+    print(f'  [{status}] CV F1-macro = {cv:.3f}')
+except Exception as e:
+    print(f'  [FAIL] model_results.json: {e}')
+print('\nAll outputs ready!' if all_good else '\nSome files missing — follow up with Person 2/3')
+python scripts/check_outputs.py
+Step 4.2 — Validate SHAP Interpretations
+This is the most important step. SHAP plots are only useful if the features they highlight actually make biological sense. Your job is to cross-check every top feature against known biosafety science.
+For each of the top 3 SHAP features from shap_summary_bar.png, answer these questions and write them up in a short validation note (results/shap_validation.txt):
+What is the feature? (e.g. transmission_route, host_range, genome_type)
+What value does the model say increases RG level? (e.g. airborne transmission → higher RG)
+Does this match what biosafety experts actually say? Check WHO BMBL or CDC agent summaries.
+If yes — note it as validated. If no — flag it as a potential model artefact for the team to investigate.
+Example validation note format:
+# results/shap_validation.txt
+Feature: transmission_route
+Model says: airborne >> contact >> vector in raising RG
+Biology check: CONFIRMED. WHO BMBL states airborne pathogens
+  (e.g. M. tuberculosis RG3, SARS-CoV-2) require higher containment
+  due to ease of spread. This feature is biologically valid.
+Feature: environmental_stability
+Model says: high stability >> raises RG
+Biology check: CONFIRMED. B. anthracis (RG3) spores survive decades
+  in soil. High stability = harder to decontaminate = higher risk.
+Feature: treatment_available
+Model says: no treatment >> raises RG
+Biology check: CONFIRMED. Ebola (RG4) had no approved treatment
+  for decades. Availability of treatment directly affects containment
+  protocols and is a WHO criterion for risk group assignment.
+Step 4.3 — Run Real Pathogen Case Studies
+This is the most compelling part of the results section. You will load the trained model and run it on 3 well-known pathogens, then compare the model's prediction to the actual known BSL level.
+Script: scripts/case_studies.py
+import pickle
+import pandas as pd
+import numpy as np
+with open('results/xgboost_model.pkl', 'rb') as f:
+    model = pickle.load(f)
+# Define 3 case study pathogens manually
+# Values must match your encoding scheme from Person 2
+# Check scripts/encode_features.py for the exact integer mappings
+# Example: assuming encoding is alphabetical order of categories
+# You MUST verify these numbers match your actual LabelEncoder output
+case_studies = {
+    'SARS-CoV-2': {
+        'genome_type_enc': 3,        # ssRNA+
+        'transmission_route_enc': 0, # airborne
+        'host_range_enc': 1,         # broad
+        'environmental_stability_enc': 1, # medium
+        'treatment_available_enc': 2, # partial
+        'infectious_dose_enc': 0,    # low
+        'zoonotic_enc': 1,           # yes
+    },
+    'Ebola virus': {
+        'genome_type_enc': 2,        # ssRNA-
+        'transmission_route_enc': 1, # contact
+        'host_range_enc': 0,         # narrow
+        'environmental_stability_enc': 0, # low
+        'treatment_available_enc': 2, # partial
+        'infectious_dose_enc': 0,    # low
+        'zoonotic_enc': 1,           # yes
+    },
+    'Escherichia coli K12': {
+        'genome_type_enc': 0,        # dsDNA
+        'transmission_route_enc': 2, # fecal-oral
+        'host_range_enc': 1,         # broad
+        'environmental_stability_enc': 1, # medium
+        'treatment_available_enc': 0, # yes
+        'infectious_dose_enc': 2,    # high
+        'zoonotic_enc': 0,           # no
+    },
+}
+known_rg = {'SARS-CoV-2': 3, 'Ebola virus': 4, 'Escherichia coli K12': 1}
+print('=== BioRiskNet Case Study Results ===')
+print(f'{"Pathogen":<25} {"Predicted RG":<15} {"Known RG":<12} {"Match"}')
+print('-' * 65)
+for name, features in case_studies.items():
+    X = pd.DataFrame([features])
+    pred = model.predict(X)[0] + 1  # Convert 0-indexed back to 1-4
+    known = known_rg[name]
+    match = 'YES' if pred == known else f'NO (off by {abs(pred-known)})'
+    print(f'{name:<25} RG{pred:<14} RG{known:<11} {match}')
+print('\nSave this output to results/case_study_results.txt')
+IMPORTANT: Before running this script, open scripts/encode_features.py and check the exact integer mappings your LabelEncoder produced for each category. The numbers in the case_studies dict above are examples — yours will likely be different.
+python scripts/case_studies.py > results/case_study_results.txt
+cat results/case_study_results.txt
+Step 4.4 — Build the Results Summary Table
+Compile all metrics into one clean summary table. This is what goes directly into the paper's Results section.
+Script: scripts/build_summary_table.py
+import json
+import pandas as pd
+with open('results/model_results.json') as f:
+    r = json.load(f)
+summary = {
+    'Model': ['RG Classifier (XGBoost)', 'Spillover Scorer (XGBoost)'],
+    'Dataset': ['ABSA + ePATHogen + BMBL (~1000 organisms)', 'Olival 2017 (~586 viruses)'],
+    'Primary Metric': ['F1-macro (5-fold CV)', 'AUC-ROC (5-fold CV)'],
+    'Score': [f"{r['cv_mean']:.3f} ± {r['cv_std']:.3f}", 'Fill from Person 3 output'],
+    'Class Imbalance Fix': ['SMOTE', 'SMOTE'],
+    'Explainability': ['SHAP TreeExplainer', 'SHAP TreeExplainer'],
+}
+df = pd.DataFrame(summary)
+df.to_csv('results/summary_table.csv', index=False)
+print(df.to_string(index=False))
+print('\nSaved: results/summary_table.csv')
+python scripts/build_summary_table.py
+Step 4.5 — Set Up GitHub Repository
+Every published paper needs a public code repository. Reviewers and readers will check it. This is your responsibility to set up cleanly.
+Step 4.5.1 — Create requirements.txt
+# Run from inside the virtual environment
+pip freeze > requirements.txt
+# Check it looks reasonable (should have xgboost, shap, sklearn etc.)
+cat requirements.txt
+Step 4.5.2 — Write the README.md
+# Create README.md in your biorisknet/ folder with this content:
+# BioRiskNet
+## Metadata-Driven WHO Risk Group Classification and
+## Zoonotic Spillover Scoring with SHAP Explainability
+## Setup
+pip install -r requirements.txt
+## Run in order
+1. python scripts/download_olival.py
+2. python scripts/clean_epathogen.py
+3. python scripts/scrape_absa.py
+4. python scripts/extract_bmbl.py
+5. python scripts/merge_datasets.py
+6. python scripts/encode_features.py
+7. python scripts/apply_smote.py
+8. python scripts/train_model.py
+9. python scripts/plot_confusion.py
+10. python scripts/train_spillover.py
+11. python scripts/shap_global.py
+12. python scripts/shap_case_studies.py
+13. python scripts/shap_spillover.py
+14. python scripts/case_studies.py
+## Datasets
+- Olival 2017: https://github.com/ecohealthalliance/HP3
+- ePATHogen: https://ePathogen.phac-aspc.gc.ca
+- ABSA Risk Group DB: https://absa.org
+- WHO BMBL: https://www.cdc.gov/labs/BMBL.html
+Step 4.5.3 — Push to GitHub
+# Create a new repo on github.com first (call it 'biorisknet')
+# Then in your terminal:
+cd biorisknet
+git init
+git add .
+git commit -m 'BioRiskNet: initial release'
+git remote add origin https://github.com/YOUR_USERNAME/biorisknet.git
+git push -u origin main
+# Copy the repo URL — you will need it for the paper's
+# Data Availability statement
+Step 4.6 — Final Handoff Checklist
+Complete this checklist before telling the team you are done. Everything here goes directly into the paper.
+results/final/ folder has all 8 figures at 300 DPI
+results/summary_table.csv is complete with both model scores filled in
+results/case_study_results.txt shows predictions for all 3 pathogens
+results/shap_validation.txt has biological validation for top 3 SHAP features
+GitHub repo is public and README explains how to run everything
+requirements.txt is in the repo
+GitHub URL is shared with the team for the paper's Data Availability section
+MASTER WEEK-BY-WEEK PLAN — ALL 4 PEOPLE
+Chapter 5: Coordinated Timeline
+WEEK 1 — DATA FOUNDATION
+Person
+Day 1-2
+Day 3-4
+Day 5-7
+Deliverable
+Person 1
+Set up env, download Olival + ePATHogen
+Scrape ABSA DB
+Merge all datasets, feature template
+rg_dataset.csv + spillover_dataset.csv
+Person 2
+Set up env, read Olival paper
+Study XGBoost docs, prepare encoding script
+Review Person 1 data, plan feature encoding
+Ready to start Week 2 immediately
+Person 3
+Set up env, read SHAP paper
+Explore Olival dataset columns and structure
+Write spillover model plan + first draft script
+Ready to start spillover in Week 2
+Person 4
+Set up env, read check_outputs.py
+Study SHAP interpretation guides online
+Draft SHAP validation template document
+Ready to validate results in Week 3
+WEEK 2 — PARALLEL MODEL BUILDING
+Person 2 and Person 3 work fully in parallel this week. Person 3 does NOT wait for Person 2 — they use Olival data directly from Person 1.
+Person
+Day 1-2
+Day 3-4
+Day 5-7
+Deliverable
+Person 1
+Help with feature lookup table (filling biological values)
+Fill feature columns for 200+ organisms
+QA check on full dataset, fix any issues
+Completed rg_dataset_features.csv
+Person 2
+Encode features, apply SMOTE
+Train XGBoost, tune hyperparameters
+Plot confusion matrix, save model pkl
+xgboost_model.pkl + model_results.json
+Person 3
+Start spillover model using Olival CSV (independent)
+Train spillover XGBoost, validate AUC
+Run SHAP on spillover model, save plots
+spillover_model.pkl + shap_spillover.png
+Person 4
+Review Olival dataset to understand spillover features
+Study case study pathogens (SARS-CoV-2, Ebola, E. coli)
+Prepare case_studies.py encoding values
+Case study script drafted and ready
+WEEK 3 — SHAP, CASE STUDIES & VALIDATION
+Person
+Day 1-2
+Day 3-4
+Day 5-7
+Deliverable
+Person 1
+Support Person 3 with any data queries
+Add any missing organisms to dataset if needed
+Final dataset QA and documentation
+Final clean datasets + data notes
+Person 2
+Generate all result tables (per-class F1 etc.)
+Review Person 3 SHAP plots for consistency
+Build summary_table.csv with Person 4
+All results tables finalized
+Person 3
+Run SHAP global plots on RG classifier
+SHAP case studies for 3 pathogens
+Hand all figures to Person 4
+All figures in results/figures/ at 300 DPI
+Person 4
+Run check_outputs.py, collect all figures
+Run case_studies.py and validate predictions
+Write shap_validation.txt (biological check)
+Validated results + case study output
+WEEK 4 — GITHUB, FINAL VALIDATION & PAPER HANDOFF
+Person
+Day 1-2
+Day 3-4
+Day 5-7
+Deliverable
+Person 1
+Write data collection section notes for paper team
+Document scraping steps in README
+Final review of all raw data files
+Data documentation complete
+Person 2
+Finalize all result tables and figures
+Write methods notes (ML pipeline) for paper team
+Respond to any team queries on model
+Final figures + ML methods notes
+Person 3
+Finalize all SHAP figures + captions
+Write SHAP interpretation notes for paper team
+Proofread all figure labels and titles
+Final SHAP package for paper team
+Person 4
+Set up GitHub repo + write README.md
+Push all code, verify repo is public
+Share GitHub URL + full results package with paper team
+Public GitHub repo + complete results
+TROUBLESHOOTING & COMMON ERRORS
+Chapter 6: When Things Go Wrong
+Error
+Likely Cause
+Fix
+ABSA scraper returns 0 rows
+Page structure changed
+Open absa.org manually, inspect HTML with browser DevTools, update tag names in scraper
+SMOTE fails with k_neighbors error
+Too few samples in minority class
+Reduce k_neighbors=1 in SMOTE
+XGBoost: ValueError num_class
+Label encoding mismatch
+Ensure y is 0-indexed: y = y - 1
+SHAP: TreeExplainer error
+Model/data mismatch
+Re-load model and data fresh in same script
+pdfplumber extracts garbage from BMBL
+Scanned PDF not text-based
+Use pytesseract OCR: pip install pytesseract
+Olival dataset column not found
+Column names differ across versions
+Print df.columns first and update script accordingly
+Low accuracy (under 60%)
+Too little data or poor features
+Add more organisms via NCBI, or try Random Forest instead
+pip install fails
+Proxy/network issue
+Try: pip install --user package_name
+Golden Rule: If something breaks, print the dataframe shape and column names first. 90% of bugs come from unexpected column names or NaN values.
+QUICK REFERENCE — CHEAT SHEET
+Chapter 7: Quick Reference Card
+All Scripts in Order
+Order
+Script
+Run By
+Input
+Output
+1
+download_olival.py
+Person 1
+Internet
+data/raw/olival_*.csv
+2
+clean_epathogen.py
+Person 1
+epathogen_raw.csv
+epathogen_clean.csv
+3
+scrape_absa.py
+Person 1
+Internet
+absa_raw.csv
+4
+extract_bmbl.py
+Person 1
+bmbl.pdf
+bmbl_extracted.csv
+5
+merge_datasets.py
+Person 1
+All raw CSVs
+rg_dataset.csv
+6
+encode_features.py
+Person 2
+rg_dataset_features.csv
+encoded_dataset.csv
+7
+apply_smote.py
+Person 2
+encoded_dataset.csv
+smote_dataset.csv
+8
+train_model.py
+Person 2
+smote_dataset.csv
+xgboost_model.pkl
+9
+plot_confusion.py
+Person 2
+model + data
+confusion_matrix.png
+10
+train_spillover.py
+Person 3
+olival_viruses.csv
+spillover_model.pkl
+11
+shap_global.py
+Person 3
+model + data
+shap_summary_bar.png
+12
+shap_case_studies.py
+Person 3
+model + data
+shap_case_*.png
+13
+shap_spillover.py
+Person 3
+spillover model
+shap_spillover.png
+14
+check_outputs.py
+Person 4
+results/ folder
+validation report
+15
+case_studies.py
+Person 4
+model + encodings
+case_study_results.txt
+16
+build_summary_table.py
+Person 4
+model_results.json
+summary_table.csv
+Key Metrics to Report in Paper
+Metric
+Model
+Who Produces It
+Target Range
+F1-macro (5-fold CV)
+RG Classifier
+Person 2
+> 0.70
+Per-class F1 (RG1-RG4)
+RG Classifier
+Person 2
+Report all 4
+Confusion Matrix
+RG Classifier
+Person 2
+Visual — 300 DPI
+AUC-ROC (5-fold CV)
+Spillover Model
+Person 3
+> 0.75
+Top 3 SHAP features
+Both models
+Person 3
+Must be biologically validated
+Case study predictions
+RG Classifier
+Person 4
+Match known BSL for 2/3 pathogens
+Handoff Chain — Who Waits for Who
+From
+To
+What is handed off
+When
+Person 1
+Person 2
+rg_dataset_features.csv
+End of Week 1
+Person 1
+Person 3
+olival_viruses.csv + associations.csv
+End of Week 1 (Person 3 starts immediately)
+Person 2
+Person 3
+xgboost_model.pkl
+End of Week 2
+Person 2 + Person 3
+Person 4
+All .pkl files + all figures
+End of Week 3
+Person 4
+Paper team
+GitHub URL + results package
+End of Week 4
+Golden Rule for Person 3: Do NOT wait for Person 2's model to start. Begin the spillover model on Olival data from Day 1 of Week 2. The SHAP on the RG classifier comes later — that is the only step that needs Person 2's model.

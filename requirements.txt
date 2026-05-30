@@ -1,0 +1,27 @@
+# Core
+pandas>=2.2
+numpy>=1.26
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.2
+
+# Bio / data access
+biopython>=1.83
+
+# ML + explainability (needed by downstream people, ok to preinstall)
+scikit-learn>=1.5
+xgboost>=2.1
+shap>=0.46
+imbalanced-learn>=0.12
+
+# Plotting / notebooks
+matplotlib>=3.9
+seaborn>=0.13
+jupyter>=1.0
+openpyxl>=3.1
+
+# PDF table extraction for BMBL step
+pdfplumber>=0.11
+
+# Already installed in your env, kept here for reproducibility
+pymupdf>=1.24

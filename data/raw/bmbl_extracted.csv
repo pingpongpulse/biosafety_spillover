@@ -1,0 +1,85 @@
+organism,bsl_level,page
+European bat 1 lyssavirus,EBLV-1,300
+European bat 2 lyssavirus,EBLV-2,300
+Rift Valley fever,#1 MP-12,322
+Japanese encephalitis,14-14-2,322
+Dengue virus 1,DENV-1,340
+Dengue virus 2,DENV-2,340
+Dengue virus 3,DENV-3,340
+Dengue virus 4,DENV-4,340
+Tǎchéng tick 1,TTV-1,351
+Huángpi tick 1,HTV-1,355
+3,Liquid waste can be collected in a 4 L waste bottle initially containing 600 ml 6 N NaOH.,388
+6,"Tissues are embedded in a disposable embedding mold. If used, forceps are decontaminated
+as in Table 4.",389
+7,"In preparing sections, cut-resistant gloves can be worn; section waste is collected and
+disposed of in a regulated medical waste receptacle. The knife stage is wiped with 2 N
+NaOH, or sodium hypochlorite (20,000 ppm) followed by distilled water. The knife used is
+discarded immediately in a “regulated medical waste sharps” receptacle. Slides are labeled
+with “CJD Precautions.” The sectioned block is sealed with paraffin.",389
+8,"Routine staining:
+a. slides are processed by hand using disposable specimen cups or in a TSE-dedicated
+stainer;
+b. after placing the coverslip on, slides are decontaminated by soaking them for 10–60
+min in 2 N NaOH or sodium hypochlorite (20,000 ppm) followed by distilled water; and
+c. slides are labeled as “Infectious-CJD.”",389
+1,"Immerse in 1 N NaOH or sodium hypochlorite (20,000 ppm available chlorine) for
+1 hour. Transfer into water and autoclave (gravity displacement) at 121ºC for 1 hour.
+Clean and sterilize by conventional means. [Note: Sodium hypochlorite may be
+corrosive to some instruments, including autoclaves.]",390
+2,"Immerse in a pan containing 1 N NaOH, heat in a gravity displacement autoclave at
+121ºC for 30 minutes. Clean-rinse in water and sterilize by conventional means.",390
+4,"Surfaces or heat-sensitive instruments can be treated with 2 N NaOH or sodium
+hypochlorite (20,000 ppm) for 1 hour. Ensure surfaces remain wet for entire period, then
+rinse well with water. Before chemical treatment, it is strongly recommended that gross
+contamination of surfaces be reduced because the presence of excess organic material
+will reduce the strength of either NaOH or sodium hypochlorite solutions.",390
+5,"2% Environ LpH® (EPA Reg. No. 1043-118; no longer commercially available) may be
+used on washable, hard, non-porous surfaces (such as floors, tables, equipment, and
+counters), items, such as non-disposable instruments, sharps, and sharp containers,
+and/or laboratory waste solutions (such as formalin or other liquids). This product is
+currently being used under FIFRA Section 18 exemptions in a number of states. Users
+should consult with the state environmental protection office prior to use. Items may be
+immersed for 0.5–16 h, rinsed with water, and sterilized using conventional methods.",390
+Hydrogen peroxide,3–6%,435
+Formaldehyde,1–8%,435
+Peracetic Acid,"0.08%–0.23% with peroxide
+concentrations of 1–7.35%",435
+Phenolics,0.5–3%,435
+Mycoplasma spp.,"M.agalactiae,
+M. bovis,
+M.capricolum
+capripneumoniae (F 38),
+M. gallisepticum,
+M. hyopneumoniae,
+M. mycoides capri (PG 3),
+M. mycoides (large colony
+type),
+M. mycoides mycoides
+(small colony type),
+M. synoviae",476
+Herpesviridae,"Bovine Herpes Virus 1,
+Equine Herpes Virus,
+Gallid Herpesvirus 1,
+Gallid Alphaherpesvirus 2,
+Koi Herpesvirus, Malignant
+Catarrhal Fever Virus,
+Pseudorabies Virus",481
+Botulinum Neurotoxin,"1a, 2, 4,
+6c, 10b",482
+Clostridium perfringens epsilon toxin,"1, 3, 4a,
+10b",482
+T-2 Toxin,"1, 3, 4,
+5, 10b",482
+Bovine Spongiform Encephalopathy,"1,7b,10",482
+"Botulinum
+neurotoxin A–G",≥ 0.1% a,508
+Ricin,≥ 1.0% d,508
+Saxitoxin,≥ 0.1% e,508
+Palytoxin,≥ 0.1% e,508
+T-2 mycotoxin,"≥ 2.5% e,f",508
+Brevetoxin (PbTx-2),"≥ 2.5% e,f",508
+Ease of use,"Lysozyme is generally
+heat stable and effective
+at low concentrations
+(~1%)",520

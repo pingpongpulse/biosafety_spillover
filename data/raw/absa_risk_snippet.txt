@@ -1,0 +1,10 @@
+br>
+<!--<strong>Australia/New Zealand (2010):</strong> <br>-->
+<strong>Belgium (2008):</strong>  2<br>
+<strong>Canada ePATHogen:</strong>  2 <br />&nbsp;&nbsp;&nbsp;&nbsp;<strong>notes:</strong> This risk group applies to the species as a whole, and may not apply to every strain.<br>
+<strong>Canada PSDS:</strong> <a target="_blank" href="https://www.canada.ca/en/public-health/services/laboratory-biosafety-biosecurity/pathogen-safety-data-sheets-risk-assessment/clostridium-perfringens.html">https://www.canada.ca/en/public-health/services/laboratory-biosafety-biosecurity/pathogen-safety-data-sheets-risk-assessment/clostridium-perfringens.html</a>
+<br>
+<strong>EU (2000):</strong>  2<br>
+<strong>Germany (2024):</strong>  2
+ <br />&nbsp;&nbsp;&nbsp;&nbsp;<strong>notes:</strong> ht, T<br><!--
+<s

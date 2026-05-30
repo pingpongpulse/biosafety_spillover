@@ -1,0 +1,1681 @@
+organism,risk_group,notes,source_url,query_term
+adiacens,2,(Streptococcus adjacens),https://my.absa.org/RiskGroups,abiotrophia
+balaena,2,PV (Streptococcus balaenus),https://my.absa.org/RiskGroups,abiotrophia
+defectiva,2,(Streptococcus defectivus),https://my.absa.org/RiskGroups,abiotrophia
+elegans,2,(Streptococcus elegans),https://my.absa.org/RiskGroups,abiotrophia
+corymbifera,2,"Absidia ramosa | h,v | formerly Lichtheimia corymbifera",https://my.absa.org/RiskGroups,absidia
+spp,2,Absidia corymbifera (synoym of Absidia ramosa) ; Absidia coerulea,https://my.absa.org/RiskGroups,absidia
+castellanii,2,,https://my.absa.org/RiskGroups,acanthamoeba
+culbertsoni,2,,https://my.absa.org/RiskGroups,acanthamoeba
+spp,2,"Human and animal pathogen risk group 2 | AAH, AHH, GAE, PAM, ZOP",https://my.absa.org/RiskGroups,acanthamoeba
+ethanolgignens,2,t | PV,https://my.absa.org/RiskGroups,acetivibrio
+axanthum,2,t | PV,https://my.absa.org/RiskGroups,acholeplasma
+granularum,2,t | PV,https://my.absa.org/RiskGroups,acholeplasma
+hippikon,2,t | PV,https://my.absa.org/RiskGroups,acholeplasma
+laidlawii,2,t | PV,https://my.absa.org/RiskGroups,acholeplasma
+modicum,2,t | PV,https://my.absa.org/RiskGroups,acholeplasma
+morum,2,t | PV,https://my.absa.org/RiskGroups,acholeplasma
+oculi,2,t | PV,https://my.absa.org/RiskGroups,acholeplasma
+xylosoxidans subsp. denitrificans,2,,https://my.absa.org/RiskGroups,achromobacter
+xylosoxidans subsp. xylosoxidans,2,,https://my.absa.org/RiskGroups,achromobacter
+piechaudii,2,Achromobacter piechaudii,https://my.absa.org/RiskGroups,achromobacter
+fermentas,2,ht,https://my.absa.org/RiskGroups,acidaminococcus
+spp.,2,plant pathogen,https://my.absa.org/RiskGroups,acidovorax
+baumannii,2,Formerly Acinetobacter calcoaceticus,https://my.absa.org/RiskGroups,acinetobacter
+calcoaceticus,2,,https://my.absa.org/RiskGroups,acinetobacter
+haemolyticus,2,,https://my.absa.org/RiskGroups,acinetobacter
+johnsonii,2,,https://my.absa.org/RiskGroups,acinetobacter
+junii,2,,https://my.absa.org/RiskGroups,acinetobacter
+lwoffi,2,TA,https://my.absa.org/RiskGroups,acinetobacter
+spp.,2,,https://my.absa.org/RiskGroups,acinetobacter
+falciforme,2,"h,v",https://my.absa.org/RiskGroups,acremonium
+kiliense,2,"h,v",https://my.absa.org/RiskGroups,acremonium
+recifei,2,h,https://my.absa.org/RiskGroups,acremonium
+actinomycetemcomiana,2,Haemophilus actinomycetemcomitans,https://my.absa.org/RiskGroups,actinobacillus
+capsulatus,2,t | PV,https://my.absa.org/RiskGroups,actinobacillus
+delphinicola,2,t | PV?,https://my.absa.org/RiskGroups,actinobacillus
+equuli,2,ht | PV,https://my.absa.org/RiskGroups,actinobacillus
+hominis,2,,https://my.absa.org/RiskGroups,actinobacillus
+lignieresii,2,ht | PV,https://my.absa.org/RiskGroups,actinobacillus
+muris,2,PV,https://my.absa.org/RiskGroups,actinobacillus
+pleuropneumoniae,2,t | PV (Haemophilus pleuropneumoniae),https://my.absa.org/RiskGroups,actinobacillus
+rossii,2,t | PV,https://my.absa.org/RiskGroups,actinobacillus
+seminis,2,t | PV,https://my.absa.org/RiskGroups,actinobacillus
+suis,2,ht | PV,https://my.absa.org/RiskGroups,actinobacillus
+urea,2,(Pasteurella ureae),https://my.absa.org/RiskGroups,actinobacillus
+actinomycetemcomitans,2,(Actinobacillus actinomycetemcomitans),https://my.absa.org/RiskGroups,actinobacillus
+pleuropneumoniae,2,PV (Actinobacillus pleuropneumoniae),https://my.absa.org/RiskGroups,actinobacillus
+ureae,2,refer to Actinobacillus ureae,https://my.absa.org/RiskGroups,actinobacillus
+schaalii,2,,https://my.absa.org/RiskGroups,actinobaculum
+suis,2,t | PV (Actinomyces suis),https://my.absa.org/RiskGroups,actinobaculum
+suis,2,PV (Actinobaculum suis,https://my.absa.org/RiskGroups,actinobaculum
+madurae,2,ht,https://my.absa.org/RiskGroups,actinomadura
+pelletieri,2,,https://my.absa.org/RiskGroups,actinomadura
+bovis,2,t | PV,https://my.absa.org/RiskGroups,actinomyces
+europaeus,2,,https://my.absa.org/RiskGroups,actinomyces
+gerencseriae,2,,https://my.absa.org/RiskGroups,actinomyces
+graevenitzii,2,,https://my.absa.org/RiskGroups,actinomyces
+hordeovulneris,2,t | PV,https://my.absa.org/RiskGroups,actinomyces
+hyovaginalis,2,t | PV,https://my.absa.org/RiskGroups,actinomyces
+israelii,2,,https://my.absa.org/RiskGroups,actinomyces
+meyeri,2,,https://my.absa.org/RiskGroups,actinomyces
+naeslundii,2,ht,https://my.absa.org/RiskGroups,actinomyces
+neuii,2,,https://my.absa.org/RiskGroups,actinomyces
+odontolyticus,2,ht,https://my.absa.org/RiskGroups,actinomyces
+pyogenes,2,Formerly Corynebacterium pyogenes | Arcanobacterium pyogenes,https://my.absa.org/RiskGroups,actinomyces
+radingae,2,,https://my.absa.org/RiskGroups,actinomyces
+spp.,2,species which are known to be pathogens in humans,https://my.absa.org/RiskGroups,actinomyces
+turicensis,2,,https://my.absa.org/RiskGroups,actinomyces
+viscosus,2,t,https://my.absa.org/RiskGroups,actinomyces
+haemolyticum,2,Actinomyces haemolyticum,https://my.absa.org/RiskGroups,actinomyces
+"Adenovirus (human, all types)",2,There are separate webpages for Adenovirus (excluding serotypes 40 and 41) and Adenovirus (excluding serotypes 40 and 41). The links for both pages are present in the previous column cell. | AR,https://my.absa.org/RiskGroups,adenoviridae
+Adenovirus of the guinea pig (GPAV),2,TEN,https://my.absa.org/RiskGroups,adenoviridae
+Aviadenoviruses,2,"PM, TEN",https://my.absa.org/RiskGroups,adenoviridae
+pullorum,2,t | PV,https://my.absa.org/RiskGroups,aegyptianella
+christensenii,2,+,https://my.absa.org/RiskGroups,aerococcus
+urinae,2,,https://my.absa.org/RiskGroups,aerococcus
+viridans,2,"TA, ht | TA",https://my.absa.org/RiskGroups,aerococcus
+allosaccharophila,2,,https://my.absa.org/RiskGroups,aeromonas
+bestiarum,2,ht+,https://my.absa.org/RiskGroups,aeromonas
+caviae,2,ht,https://my.absa.org/RiskGroups,aeromonas
+hydrophilia,2,,https://my.absa.org/RiskGroups,aeromonas
+jandaei,2,ht,https://my.absa.org/RiskGroups,aeromonas
+punctata,2,ht,https://my.absa.org/RiskGroups,aeromonas
+salmonicida,2,t2,https://my.absa.org/RiskGroups,aeromonas
+schubertii,2,,https://my.absa.org/RiskGroups,aeromonas
+sobria,2,ht,https://my.absa.org/RiskGroups,aeromonas
+trota,2,,https://my.absa.org/RiskGroups,aeromonas
+tructi,2,,https://my.absa.org/RiskGroups,aeromonas
+veronii,2,ht,https://my.absa.org/RiskGroups,aeromonas
+broomeae,2,,https://my.absa.org/RiskGroups,afipia
+clevelandensis,2,,https://my.absa.org/RiskGroups,afipia
+felis,2,ht,https://my.absa.org/RiskGroups,afipia
+capsulatus,3,"Listed as human and animal pathogen risk group 3; (mitosporic state : Histoplasma capsulatum) | h, v; teleomorph of Histoplasma capsulatum var. capsulatum; teleomorph of Histoplasma capsulatum var. duboisii; Emmonsiella capsulata , obsolete synonym | Histoplasma capsulatum var capsulatum",https://my.absa.org/RiskGroups,ajellomyces
+dermatitidis,3,Both human and animal risk group 3 pathogen; (mitosporic state : Blastomyces dermatitidis) | See Blastomyces dermatitidis | t | h.v,https://my.absa.org/RiskGroups,ajellomyces
+dermatitidis,3,"Ajellomyces dermatitidis | t | h, v | Ajellomyces dermatitidis)",https://my.absa.org/RiskGroups,ajellomyces
+capsulatum var. capsulatum,3,"See Histoplasma spp. | teleomorph : Ajellomyces capsulatus | Ajellomyces capsulatus | h, v Histoplasma capsulatum var. capsulatum (dimorphic) | (var capsulatum, farcinimosum, duboisii))",https://my.absa.org/RiskGroups,ajellomyces
+capsulatum var. duboisii,3,"See Histoplasma spp. | teleomorph : Ajellomyces capsulatus | h, v Histoplasma capsulatum var. duboisii (dimorphic)",https://my.absa.org/RiskGroups,ajellomyces
+farcinimosum,3,See Histoplasma spp. | teleomorph : Ajellomyces capsulatus | (obsolete) H. capsulatum | Classified under SAPO,https://my.absa.org/RiskGroups,ajellomyces
+denitrificans,1,,https://my.absa.org/RiskGroups,alcaligenes
+faecalis,2,ht,https://my.absa.org/RiskGroups,alcaligenes
+xylosoxidans,1,,https://my.absa.org/RiskGroups,alcaligenes
+alcaligenes,2,,https://my.absa.org/RiskGroups,alcaligenes
+otitis,2,,https://my.absa.org/RiskGroups,alloiococcus
+enterica,2,+,https://my.absa.org/RiskGroups,allomonas
+haloplanktis,1,PI Pseudoalteromonas haloplanktis,https://my.absa.org/RiskGroups,alteromonas
+autotrophica,2,PIIC Pseudonocardia autotrophica,https://my.absa.org/RiskGroups,amycolata
+succiniciproducens,2,ht,https://my.absa.org/RiskGroups,anaerobiospirillum
+thomasii,2,ht,https://my.absa.org/RiskGroups,anaerobiospirillum
+furcosus,2,Bacteroides furcosus,https://my.absa.org/RiskGroups,anaerorhabdus
+caudatum,2,t | PV,https://my.absa.org/RiskGroups,anaplasma
+centrale,2,t | PV,https://my.absa.org/RiskGroups,anaplasma
+marginale,2,t | PV,https://my.absa.org/RiskGroups,anaplasma
+ovis,2,t | PV,https://my.absa.org/RiskGroups,anaplasma
+spp.,2,t,https://my.absa.org/RiskGroups,anaplasma
+braziliense,2,Human and animal risk group 2 pathogen | Z,https://my.absa.org/RiskGroups,ancylostoma
+ceylanicum,2,Z,https://my.absa.org/RiskGroups,ancylostoma
+duodenale,2,Z | AHH,https://my.absa.org/RiskGroups,ancylostoma
+spp,2,"Human hookworms | AHH, ZOP",https://my.absa.org/RiskGroups,ancylostoma
+cantonensis,2,"Z | AHH, ZOP",https://my.absa.org/RiskGroups,angiostrongylus
+costaricensis,2,Z | AHH,https://my.absa.org/RiskGroups,angiostrongylus
+spp,2,"AAH, AHH",https://my.absa.org/RiskGroups,angiostrongylus
+simplex,2,Z,https://my.absa.org/RiskGroups,anisakis
+astaci,3,based on previous edition | v,https://my.absa.org/RiskGroups,aphanomyces
+propionica,2,Propionibacterium propionicum,https://my.absa.org/RiskGroups,arachnia
+propionicum,2,Arachnia propionica | Old name: Arachnia propionica,https://my.absa.org/RiskGroups,arachnia
+bernardiae,2,,https://my.absa.org/RiskGroups,arcanobacterium
+haemolyticum,2,Corynebacterium haemolyticum | ht,https://my.absa.org/RiskGroups,arcanobacterium
+phocae,2,t | PV?,https://my.absa.org/RiskGroups,arcanobacterium
+pyogenes,2,,https://my.absa.org/RiskGroups,arcanobacterium
+butzleri,2,ht,https://my.absa.org/RiskGroups,arcobacter
+cryaerophilus,2,ht | PV,https://my.absa.org/RiskGroups,arcobacter
+Amapari virus,2,,https://my.absa.org/RiskGroups,arenaviridae
+Equine arteritis,2,PM,https://my.absa.org/RiskGroups,arenaviridae
+Flexal virus,3,PHV,https://my.absa.org/RiskGroups,arenaviridae
+Guanarito virus,4,PHV,https://my.absa.org/RiskGroups,arenaviridae
+Ippy virus,2,,https://my.absa.org/RiskGroups,arenaviridae
+Junin virus,4,Except the candid #1 vaccine strain listed in Appendix B-II-D Risk Group2 (RG2) – Viruses | PHV,https://my.absa.org/RiskGroups,arenaviridae
+Lactate dehydrogenase-elevating virus,2,PM,https://my.absa.org/RiskGroups,arenaviridae
+Lassa virus,4,PHV,https://my.absa.org/RiskGroups,arenaviridae
+LCM-Lassa complex,4,Lassa RG 4; Lymphocytic strains RG 3 | PHV,https://my.absa.org/RiskGroups,arenaviridae
+Lymphocytic choriomeningitis (neurotropic) virus,3,RG 2 in animals | PHV,https://my.absa.org/RiskGroups,arenaviridae
+Lymphocytic choriomeningitis (non-neurotropic) strains,3,PHV,https://my.absa.org/RiskGroups,arenaviridae
+Machupo virus,4,PHV,https://my.absa.org/RiskGroups,arenaviridae
+Mobala virus,3,PHV,https://my.absa.org/RiskGroups,arenaviridae
+Mopeia viruses,4,PHV,https://my.absa.org/RiskGroups,arenaviridae
+Parana virus,2,,https://my.absa.org/RiskGroups,arenaviridae
+Pichinde virus,2,,https://my.absa.org/RiskGroups,arenaviridae
+Sabia virus,4,PHV,https://my.absa.org/RiskGroups,arenaviridae
+Simian haemorrhagic fever virus,2,PM,https://my.absa.org/RiskGroups,arenaviridae
+Tacaribe complex,4,"NULL; see previous edition | Junin virus | for Guanarito, Junin, Sabia, Machupo; Flexal RG 3; Other RG 2",https://my.absa.org/RiskGroups,arenaviridae
+Tamiami virus,2,,https://my.absa.org/RiskGroups,arenaviridae
+Lujo virus,4,,https://my.absa.org/RiskGroups,arenaviridae
+Chapare,4,,https://my.absa.org/RiskGroups,arenaviridae
+hinshawii,2,All serotypes,https://my.absa.org/RiskGroups,arizona
+nasoniae,1,n | PI,https://my.absa.org/RiskGroups,arsenophonus
+creatinolyticus,2,,https://my.absa.org/RiskGroups,arthrobacter
+cumminsii,2,,https://my.absa.org/RiskGroups,arthrobacter
+woluwensis,2,,https://my.absa.org/RiskGroups,arthrobacter
+benhamiae,2,"t, Z | h,v",https://my.absa.org/RiskGroups,arthroderma
+simii,2,"human and animal pathogen risk group 2; (mitosporic state: Trichophyton simii) | t | v, h",https://my.absa.org/RiskGroups,arthroderma
+vanbreuseghemii,2,"(mitosporic state : Trichophyton interdigitale) | t, Z | h,v",https://my.absa.org/RiskGroups,arthroderma
+canis,2,"See Microsporum spp. | teleomorph : Arthroderma otae | A, t, Z | v, h | See Microsporum spp.; Allergen",https://my.absa.org/RiskGroups,arthroderma
+gallinae,2,"See Microsporum spp. | teleomorph : Arthroderma grubyi | t | v; Trichophyton gallinae, obsolete synonym | See Microsporum spp.; Allergen",https://my.absa.org/RiskGroups,arthroderma
+gypseum,2,"See Microsporum spp. | teleomorph Arthroderma gypseum & Arthroderma
+incurvatum | t | v, h; Achorion gypseum, obsolete synonym; Arthroderma gypseum, teleomorph ;Arthroderma incurvatum, teleomorph | See Microsporum spp.; Allergen",https://my.absa.org/RiskGroups,arthroderma
+nanum,2,"See Microsporum spp. | teleomorph : Arthroderma obtusum | t | v,h; Arthroderma obtusum, teleomorph | See Microsporum spp.; Allergen",https://my.absa.org/RiskGroups,arthroderma
+persicolor,2,"See Microsporum spp. | teleomorph: Arthroderma persicolor | v, h; Arthroderma persicolor , teleomorph; Trichophyton persicolor, synonym | See Microsporum spp.; Allergen",https://my.absa.org/RiskGroups,arthroderma
+gypsea,2,Arthroderma gypseum; mitosporic state : Microsporum gypseum | (obsolete) Arthroderma gypseum,https://my.absa.org/RiskGroups,arthroderma
+obtusa,2,Arthroderma obtusum; mitosporic state Microsporum nanum | (obsolete) Arthroderma obtusum,https://my.absa.org/RiskGroups,arthroderma
+otae,2,Arthroderma otae; mitosporic state: Microsporum canis | (obsolete) Arthroderma otae,https://my.absa.org/RiskGroups,arthroderma
+persicolor,2,Arthroderma persicolor; mitosporic state: Microsporum persicolor | (obsolete) Arthroderma persicolor,https://my.absa.org/RiskGroups,arthroderma
+erinacei,2,"See Trichophyton spp. | teleomorph: Arthroderma benhamiae | t, Z | (obsolete) T. mentagrophytes var. erinacei",https://my.absa.org/RiskGroups,arthroderma
+simii,2,"See Trichophyton spp. | teleomorph: Arthroderma simii | t | v, h",https://my.absa.org/RiskGroups,arthroderma
+lumbricoides,2,"G, C | A | A, Z | AHH",https://my.absa.org/RiskGroups,ascaris
+spp,2,,https://my.absa.org/RiskGroups,ascaris
+suum,2,"A | A, Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,ascaris
+brasiliensis,2,,https://my.absa.org/RiskGroups,aspergillus
+flavus,2,"C | A, T, TA | h, v, p",https://my.absa.org/RiskGroups,aspergillus
+fumigatus,2,"C | Both human and animal risk group 2 pathogen | A | A, T | h, v A. phialiseptus, obsolete synonym",https://my.absa.org/RiskGroups,aspergillus
+nidulans,2,"+, A, t | h,v",https://my.absa.org/RiskGroups,aspergillus
+niger,2,"Plant only | A, T, TA | h,v",https://my.absa.org/RiskGroups,aspergillus
+ochraceus,2,v,https://my.absa.org/RiskGroups,aspergillus
+spp,2,A,https://my.absa.org/RiskGroups,aspergillus
+ustus,2,X,https://my.absa.org/RiskGroups,aspergillus
+Astroviruses,2,"PM, PH",https://my.absa.org/RiskGroups,astroviridae
+fossor,2,t,https://my.absa.org/RiskGroups,atopobium
+minutum,2,,https://my.absa.org/RiskGroups,atopobium
+parvulum,2,,https://my.absa.org/RiskGroups,atopobium
+rimae,2,,https://my.absa.org/RiskGroups,atopobium
+vaginae,2,,https://my.absa.org/RiskGroups,atopobium
+divergens,2,"RG 3 in animals | Z | AHH, ZOP | A",https://my.absa.org/RiskGroups,babesia
+microti,2,"RG 3 in animals | Z | AHH, ZOP",https://my.absa.org/RiskGroups,babesia
+spp,2,"AAH, AHH, ZOP",https://my.absa.org/RiskGroups,babesia
+anthracis,3,"Biosafety level 3 practices and facilities are recommended for work with anthrax; Agriculture Canada may also require special conditions for the use or importation of this agent | T, V, Z | Except for attenuated starins devoid of pX02 and/or pX01 | Vaccine available",https://my.absa.org/RiskGroups,bacillus
+cereus,2,"T, TA | Biovar anthracis | PP? PV?",https://my.absa.org/RiskGroups,bacillus
+lentimorbus,1,PI,https://my.absa.org/RiskGroups,bacillus
+popiliae,1,PI,https://my.absa.org/RiskGroups,bacillus
+pseudomycoides,2,,https://my.absa.org/RiskGroups,bacillus
+sphaericus,1,PI PIIC,https://my.absa.org/RiskGroups,bacillus
+thuringiensis,2,"+, n | PI PIIC",https://my.absa.org/RiskGroups,bacillus
+cereus Biovar anthracis,3,,https://my.absa.org/RiskGroups,bacillus
+larvae,3,"+, n2 | PI, old name Bacillus larvae",https://my.absa.org/RiskGroups,bacillus
+caccae,2,,https://my.absa.org/RiskGroups,bacteroides
+capillosus,2,,https://my.absa.org/RiskGroups,bacteroides
+coagulans,2,,https://my.absa.org/RiskGroups,bacteroides
+distasonis,2,,https://my.absa.org/RiskGroups,bacteroides
+eggerthii,2,,https://my.absa.org/RiskGroups,bacteroides
+forsythus,2,,https://my.absa.org/RiskGroups,bacteroides
+fragilis,2,"TA, ht | TA",https://my.absa.org/RiskGroups,bacteroides
+helcogenes,2,t | PV,https://my.absa.org/RiskGroups,bacteroides
+ovatus,2,,https://my.absa.org/RiskGroups,bacteroides
+putredinis,2,,https://my.absa.org/RiskGroups,bacteroides
+pyogenes,2,ht | PV,https://my.absa.org/RiskGroups,bacteroides
+ruminicola,2,Prevotella brevis,https://my.absa.org/RiskGroups,bacteroides
+splanchnicus,2,,https://my.absa.org/RiskGroups,bacteroides
+tectus,2,PV,https://my.absa.org/RiskGroups,bacteroides
+thetaiotaomicron,2,,https://my.absa.org/RiskGroups,bacteroides
+uniformis,2,,https://my.absa.org/RiskGroups,bacteroides
+ureolyticus,2,,https://my.absa.org/RiskGroups,bacteroides
+pneumosintes,2,formerly bacteroides pneumosintes,https://my.absa.org/RiskGroups,bacteroides
+nodosus,2,formerly bacteroides nodosus | PV,https://my.absa.org/RiskGroups,bacteroides
+multacida,2,old name Bacteroides multacidus,https://my.absa.org/RiskGroups,bacteroides
+endodontalis,2,Bacteroides endodontalis | Old name: Bacteroides endodontalis,https://my.absa.org/RiskGroups,bacteroides
+gingivalis,2,Bacteroides gingivalis (Human opportunistic pathogen) | ht | Old name: Bacteroides gingivalis,https://my.absa.org/RiskGroups,bacteroides
+levii,2,ht | Old name: Bacteroides levii,https://my.absa.org/RiskGroups,bacteroides
+macacae,2,ht | PV; Old name: Bacteroides macacae,https://my.absa.org/RiskGroups,bacteroides
+bivia,2,ht | Old name: Bacteroides bivius,https://my.absa.org/RiskGroups,bacteroides
+brevis,2,"ht | (Prevotella ruminicola subsp. brevis, Bacteroides ruminicola subsp. brevis)",https://my.absa.org/RiskGroups,bacteroides
+buccae,2,ht | Old name: Bacteroides buccae,https://my.absa.org/RiskGroups,bacteroides
+buccalis,2,Old name: Bacteroides buccalis,https://my.absa.org/RiskGroups,bacteroides
+corporis,2,Old name: Bacteroides corporis,https://my.absa.org/RiskGroups,bacteroides
+denticola,2,ht | Old name: Bacteroides denticola,https://my.absa.org/RiskGroups,bacteroides
+disiens,2,Old name: Bacteroides disiens,https://my.absa.org/RiskGroups,bacteroides
+intermedia,2,ht | Old name: Bacteroides intermedius,https://my.absa.org/RiskGroups,bacteroides
+loescheii,2,Old name: Bacteroides loescheii,https://my.absa.org/RiskGroups,bacteroides
+melaninogenica,2,"ht | Old name:Bacteroides melaninogenicus, Bacteroides melaninogenicus subsp. Melaninogenicus",https://my.absa.org/RiskGroups,bacteroides
+oralis,2,ht | Old name:Bacteroides oralis,https://my.absa.org/RiskGroups,bacteroides
+oris,2,Old name: Bacteroides oris,https://my.absa.org/RiskGroups,bacteroides
+ruminicola,2,Old name:Bacteroides ruminicola subsp. Ruminicola,https://my.absa.org/RiskGroups,bacteroides
+praeacuta,2,"Bacteroides praeacutus, Clostridium hastiforme | ht | Old name: Bacteroides praeacutus",https://my.absa.org/RiskGroups,bacteroides
+Invertebrate baculoviruses,2,A containment level appropriate for RG1 human agents is recommended for their use.,https://my.absa.org/RiskGroups,baculoviridae
+coli,2,"Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,balantidium
+alpica,2,,https://my.absa.org/RiskGroups,balneatrix
+alsatica,3,ht,https://my.absa.org/RiskGroups,bartonella
+bacilliformis,3,,https://my.absa.org/RiskGroups,bartonella
+clarridgeiae,3,Z,https://my.absa.org/RiskGroups,bartonella
+doshiae,3,t | PV,https://my.absa.org/RiskGroups,bartonella
+elizabethae,3,Z,https://my.absa.org/RiskGroups,bartonella
+grahamii,3,Z | PV,https://my.absa.org/RiskGroups,bartonella
+henselae,2,Z,https://my.absa.org/RiskGroups,bartonella
+quintana,2,Rochalimaea quintana | Z,https://my.absa.org/RiskGroups,bartonella
+spp.,3,Rochalimaea spp.,https://my.absa.org/RiskGroups,bartonella
+talpae,3,t | PV,https://my.absa.org/RiskGroups,bartonella
+taylorii,3,t | PV,https://my.absa.org/RiskGroups,bartonella
+tribocorum,3,t,https://my.absa.org/RiskGroups,bartonella
+vinsonii,2,t (subsp. vinsonii) | PV,https://my.absa.org/RiskGroups,bartonella
+weisii,3,,https://my.absa.org/RiskGroups,bartonella
+haptosporus,2,"t | h, v B. ranarum",https://my.absa.org/RiskGroups,basidiobolus
+alginolytica,2,"TA, Z | TA",https://my.absa.org/RiskGroups,beneckea
+parahaemolytica,2,,https://my.absa.org/RiskGroups,beneckea
+vulnificia,2,Vibrio vulnificus,https://my.absa.org/RiskGroups,beneckea
+alginolyticus,2,"Beneckea alginolytica | TA, Z | TA; (= Beneckea alginolytica)",https://my.absa.org/RiskGroups,beneckea
+parahaemolyticus,2,Benecka parahaemolytica | Z | (= Beneckea parahaemolytic),https://my.absa.org/RiskGroups,beneckea
+vulnificus,2,Beneckea vulnifica | Z | Old name:  Beneckea vulnifica,https://my.absa.org/RiskGroups,beneckea
+zoohelcum,2,Z,https://my.absa.org/RiskGroups,bergeyella
+dentium,2,,https://my.absa.org/RiskGroups,bifidobacterium
+wadsworthia,2,ht,https://my.absa.org/RiskGroups,bilophila
+Drosophila X virus,2,,https://my.absa.org/RiskGroups,birnaviridae
+Infectious bursal disease virus,2,t2 | PM,https://my.absa.org/RiskGroups,birnaviridae
+Infectious pancreatic necrosis virus,3,t2,https://my.absa.org/RiskGroups,birnaviridae
+Rotifer birnavirus,2,,https://my.absa.org/RiskGroups,birnaviridae
+hominis,2,"Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,blastocystis
+dermatitidis,3,Blastomyces dermatitidis; mitosporic Ajellomycetaceae | (obsolete) Blastomyces dermatitidis,https://my.absa.org/RiskGroups,blastomyces
+avium,2,t | PV,https://my.absa.org/RiskGroups,bordetella
+bronchiseptica,2,ht,https://my.absa.org/RiskGroups,bordetella
+hinzii,2,ht,https://my.absa.org/RiskGroups,bordetella
+holmesii,2,,https://my.absa.org/RiskGroups,bordetella
+parapertussis,2,ht,https://my.absa.org/RiskGroups,bordetella
+pertussis,2,"V | T, V | Vaccine available",https://my.absa.org/RiskGroups,bordetella
+trematum,2,,https://my.absa.org/RiskGroups,bordetella
+Borna disease virus,2,RG 3 in animals | PM,https://my.absa.org/RiskGroups,bornaviridae
+afzelii,2,Z,https://my.absa.org/RiskGroups,borrelia
+anserina,2,t,https://my.absa.org/RiskGroups,borrelia
+baltazardii,2,Z,https://my.absa.org/RiskGroups,borrelia
+brasiliensis,2,t | PV,https://my.absa.org/RiskGroups,borrelia
+burgdorferi,2,,https://my.absa.org/RiskGroups,borrelia
+caucasica,2,Z,https://my.absa.org/RiskGroups,borrelia
+coriaceae,3,t | PV,https://my.absa.org/RiskGroups,borrelia
+crocidurae,2,Z,https://my.absa.org/RiskGroups,borrelia
+dugesii,2,t | PV,https://my.absa.org/RiskGroups,borrelia
+duttoni,2,Z,https://my.absa.org/RiskGroups,borrelia
+garinii,2,,https://my.absa.org/RiskGroups,borrelia
+graingeri,2,Z,https://my.absa.org/RiskGroups,borrelia
+harveyi,2,t | PV,https://my.absa.org/RiskGroups,borrelia
+hermsii,2,Z,https://my.absa.org/RiskGroups,borrelia
+hispanica,2,Z,https://my.absa.org/RiskGroups,borrelia
+latyschewii,2,Z,https://my.absa.org/RiskGroups,borrelia
+mazzottii,2,Z,https://my.absa.org/RiskGroups,borrelia
+miyamotoi,2,Z,https://my.absa.org/RiskGroups,borrelia
+parkeri,2,Z,https://my.absa.org/RiskGroups,borrelia
+persica,2,Z,https://my.absa.org/RiskGroups,borrelia
+recurrentis,2,,https://my.absa.org/RiskGroups,borrelia
+spp.,2,mammalian spp. | species which are known to be pathogens in humans,https://my.absa.org/RiskGroups,borrelia
+tanukii,2,t+ | PV,https://my.absa.org/RiskGroups,borrelia
+theileri,2,t | PV,https://my.absa.org/RiskGroups,borrelia
+tillae,2,t | PV,https://my.absa.org/RiskGroups,borrelia
+turdi,2,t+ | PV,https://my.absa.org/RiskGroups,borrelia
+turicatae,2,Z,https://my.absa.org/RiskGroups,borrelia
+valaisiana,2,Z,https://my.absa.org/RiskGroups,borrelia
+venezuelensis,2,Z,https://my.absa.org/RiskGroups,borrelia
+aalborgi,2,ht,https://my.absa.org/RiskGroups,brachyspira
+alvinipulli,2,t,https://my.absa.org/RiskGroups,brachyspira
+hyodysenteriae,2,t,https://my.absa.org/RiskGroups,brachyspira
+innocens,2,t,https://my.absa.org/RiskGroups,brachyspira
+pilosicoli,2,ht,https://my.absa.org/RiskGroups,brachyspira
+hyodysenteriae,2,"Treponema hyodysenteriae , Brachyspira hyodysenteriae | PV;  (Treponema hyodysenteriae,Serpula hyodysenteriae)",https://my.absa.org/RiskGroups,brachyspira
+intermedia,2,Brachyspira intermedia | PV,https://my.absa.org/RiskGroups,brachyspira
+pilosicol,2,Brachyspira pilosicoli,https://my.absa.org/RiskGroups,brachyspira
+avium,2,t,https://my.absa.org/RiskGroups,brevibacterium
+mcbrellneri,2,,https://my.absa.org/RiskGroups,brevibacterium
+otitidis,2,+,https://my.absa.org/RiskGroups,brevibacterium
+andersonii,2,t | PV,https://my.absa.org/RiskGroups,brevinema
+diminuta,2,+,https://my.absa.org/RiskGroups,brevundimonas
+abortus,3,"iosafety level 2 practices for activities involving clinical materials of human or animal origin; Biosafety level 3 containment, practices and facilities for all manipulations of cultures and for experimental animal studies. | Z | Except for the attenduate strains 19 or RB51",https://my.absa.org/RiskGroups,brucella
+canis,3,"Biosafety level 2 practices for activities involving clinical materials of human or animal origin; Biosafety level 3 containment, practices and facilities for all manipulations of cultures and for experimental animal studies. | Z",https://my.absa.org/RiskGroups,brucella
+melitensis,3,"Biosafety level 2 practices for activities involving clinical materials of human or animal origin; Biosafety level 3 containment, practices and facilities for all manipulations of cultures and for experimental animal studies. | Z",https://my.absa.org/RiskGroups,brucella
+neotomae,3,Z,https://my.absa.org/RiskGroups,brucella
+ovis,3,Z,https://my.absa.org/RiskGroups,brucella
+spp.,3,"Australia (except B. ovis) | Biosafety level 2 practices for activities involving clinical materials of human or animal origin; Biosafety level 3 containment, practices and facilities for all manipulations of cultures and for experimental animal studies.",https://my.absa.org/RiskGroups,brucella
+suis,3,"Biosafety level 2 practices for activities involving clinical materials of human or animal origin; Biosafety level 3 containment, practices and facilities for all manipulations of cultures and for experimental animal studies. | Z",https://my.absa.org/RiskGroups,brucella
+malayi,2,"syn. Wuchereria malayi | Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,brugia
+pahangi,2,"Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,brugia
+spp,2,Filaria worms | AHH,https://my.absa.org/RiskGroups,brugia
+timori,2,,https://my.absa.org/RiskGroups,brugia
+Aino virus,3,,https://my.absa.org/RiskGroups,bunyaviridae
+Akabane virus,3,t3,https://my.absa.org/RiskGroups,bunyaviridae
+Belgrade (see Dobrava),3,Hantavirus spp. | also known as Dobrava | PHV,https://my.absa.org/RiskGroups,bunyaviridae
+Bhanja,3,PHV,https://my.absa.org/RiskGroups,bunyaviridae
+Bruconha virus,3,see previous edition,https://my.absa.org/RiskGroups,bunyaviridae
+Bunya viruses (Bunyaviridae),3,"other known to be pathogenic, unless listed",https://my.absa.org/RiskGroups,bunyaviridae
+Bunyamwera virus,2,PHV,https://my.absa.org/RiskGroups,bunyaviridae
+Bunyavirus,3,,https://my.absa.org/RiskGroups,bunyaviridae
+Cache Valley virus,2,RG 3 in animals,https://my.absa.org/RiskGroups,bunyaviridae
+California encephalitis virus,3,PHV,https://my.absa.org/RiskGroups,bunyaviridae
+Crimean-Congo haemorrhagic fever,4,PHV,https://my.absa.org/RiskGroups,bunyaviridae
+Dobrava/Belgrade virus (DOBV),3,Hantavirus spp. | PHV,https://my.absa.org/RiskGroups,bunyaviridae
+Germiston,3,RG 2 in animals,https://my.absa.org/RiskGroups,bunyaviridae
+Hanta virus,3,"Hantavirus spp. | other, unless listed; Seoul and Hantaan RG 3 | PHV; Prospect Hill virus and Thottapalayam virus are 2 | Prospect Hill and Puumala (2)",https://my.absa.org/RiskGroups,bunyaviridae
+Hantaan (Korean haemorrhagic fever),3,A (and related viruses) Animal inoculation to be performed under PC4 containment | Hantavirus spp. | PHV,https://my.absa.org/RiskGroups,bunyaviridae
+Hazara virus,4,PHV,https://my.absa.org/RiskGroups,bunyaviridae
+Kairi virus,3,,https://my.absa.org/RiskGroups,bunyaviridae
+Nairobi Sheep Disease,3,PHV | Ganjam virus,https://my.absa.org/RiskGroups,bunyaviridae
+Oropouche virus,3,PHV,https://my.absa.org/RiskGroups,bunyaviridae
+Other bunyaviridae known to be pathogenic,2,,https://my.absa.org/RiskGroups,bunyaviridae
+other hantaviruses,3,Animal inoculations to be performed under PC4 containment | Hantavirus spp.,https://my.absa.org/RiskGroups,bunyaviridae
+Prospect Hill virus,2,,https://my.absa.org/RiskGroups,bunyaviridae
+Puumala virus,3,Hantavirus spp.,https://my.absa.org/RiskGroups,bunyaviridae
+"Rift Valley Fever, (Zinga virus)",3,"Except vaccine strain MP-12 (RG2) | V | EPD, PHV",https://my.absa.org/RiskGroups,bunyaviridae
+Sandfly fever virus,2,PH,https://my.absa.org/RiskGroups,bunyaviridae
+Seoul virus,3,Hantavirus spp. | PHV,https://my.absa.org/RiskGroups,bunyaviridae
+Sin Nombre virus (former Muerto Canyon),3,Hantavirus spp. | PHV,https://my.absa.org/RiskGroups,bunyaviridae
+Tensaw virus,2,,https://my.absa.org/RiskGroups,bunyaviridae
+Toscana virus,2,PH,https://my.absa.org/RiskGroups,bunyaviridae
+Turuna virus,2,,https://my.absa.org/RiskGroups,bunyaviridae
+Uukuniemi virus,2,PH,https://my.absa.org/RiskGroups,bunyaviridae
+Zinga (See Rift Valley Fever),3,V,https://my.absa.org/RiskGroups,bunyaviridae
+caryophylli,2,PP QUA,https://my.absa.org/RiskGroups,burkholderia
+cepacia,2,"TA, ht, p | PP TA",https://my.absa.org/RiskGroups,burkholderia
+cocovenenans,2,,https://my.absa.org/RiskGroups,burkholderia
+mallei,3,"Pseudomonas mallei | Biosafety level 3 practices and containment for activities utilizing infectious body fluids, tissues and cultures; Agriculture Canada may impose additional requirements or restrictions on the use of this agent. | Z",https://my.absa.org/RiskGroups,burkholderia
+multivorans,2,,https://my.absa.org/RiskGroups,burkholderia
+pseudomallei,3,Pseudomonas pseudomallei | b f | Biosafety level 3 practices and containment for activities utilizing infectious body fluids and tissues; also for activities with a high potential for aerosol or droplet production or the production of large quantities of infectious materials; Agriculture Canada may impose additional requirements or restrictions on the use of this agent. | ht,https://my.absa.org/RiskGroups,burkholderia
+spp.,2,except B. mallei & B. Pseudomallei,https://my.absa.org/RiskGroups,burkholderia
+vietnamiensis,2,,https://my.absa.org/RiskGroups,burkholderia
+cepacia,2,"PP, TA (Burkholderia cepacia)",https://my.absa.org/RiskGroups,burkholderia
+solanacearum,2,"p2 | PP; QUA; old name: Burkholderia solanacearum,  Pseudomonas solanacearum",https://my.absa.org/RiskGroups,burkholderia
+Bovine enteric calicivirus,2,t2 | PM,https://my.absa.org/RiskGroups,caliciviridae
+Calicivirus,2,,https://my.absa.org/RiskGroups,caliciviridae
+Calicivirus,2,Hepatitis E RG 3 (**),https://my.absa.org/RiskGroups,caliciviridae
+Canine calicivirus,2,t2 | PM,https://my.absa.org/RiskGroups,caliciviridae
+Feline calicivirus,2,Other caliciviridae | t2 | PM,https://my.absa.org/RiskGroups,caliciviridae
+Hepatitis E virus,3,May be dangerous for pregnant women | * | (**) | ** PH,https://my.absa.org/RiskGroups,caliciviridae
+Norovirus (former Norwalk virus),2,Norwalk Virus | PH,https://my.absa.org/RiskGroups,caliciviridae
+Porcine enteric calicivirus,2,t2 | PM,https://my.absa.org/RiskGroups,caliciviridae
+Rabbit haemorrhagic disease,3,NULL; see previous edition | t2 | PM,https://my.absa.org/RiskGroups,caliciviridae
+San Miguel sealion virus,3,t3 | PM,https://my.absa.org/RiskGroups,caliciviridae
+Sapovirus (former Sapporo virus),2,(like viruses),https://my.absa.org/RiskGroups,caliciviridae
+Vesicular exanthema of swine virus,3,t3 | PM,https://my.absa.org/RiskGroups,caliciviridae
+granulomatis,2,,https://my.absa.org/RiskGroups,calymmatobacterium
+coli,2,Z,https://my.absa.org/RiskGroups,campylobacter
+concisus,2,,https://my.absa.org/RiskGroups,campylobacter
+curvus,2,,https://my.absa.org/RiskGroups,campylobacter
+fetus,2,"(subsp. fetus, veneralis)",https://my.absa.org/RiskGroups,campylobacter
+gracilis,2,,https://my.absa.org/RiskGroups,campylobacter
+hyointestinalis,2,,https://my.absa.org/RiskGroups,campylobacter
+jejuni,2,"(subsp.doylei, jejuni)",https://my.absa.org/RiskGroups,campylobacter
+lari,2,Z,https://my.absa.org/RiskGroups,campylobacter
+mucosalis,2,t | PV,https://my.absa.org/RiskGroups,campylobacter
+rectus,2,Z,https://my.absa.org/RiskGroups,campylobacter
+sputorum,2,,https://my.absa.org/RiskGroups,campylobacter
+upsaliensis,2,Z,https://my.absa.org/RiskGroups,campylobacter
+cinaedi,2,ht | PV; old name Campylobacter cinaedi,https://my.absa.org/RiskGroups,campylobacter
+fennelliae,2,PV; old name Campylobacter fennelliae,https://my.absa.org/RiskGroups,campylobacter
+mustelae,2,"t | PV; old name Campylobacter mustelae, Campylobacter pylori subsp. mustelae",https://my.absa.org/RiskGroups,campylobacter
+pylori,2,old name Campylobacter pylori; Campylobacter pylori subsp. pylori),https://my.absa.org/RiskGroups,campylobacter
+albicans,2,"(mitosporic Saccharomycetales); both human and animal risk group 2 pathogen | A | A, t | h, v C. claussenii, C. langeroni, C. stellatoidea, Monilia albicans, obsolute synonym",https://my.absa.org/RiskGroups,candida
+glabrata,2,"human and animal pathogen risk group 2 ;(Torulopsis glabrata) (mitosporic Saccharomycetales) | h,v",https://my.absa.org/RiskGroups,candida
+parapsilosis,2,"h,v",https://my.absa.org/RiskGroups,candida
+tropicalis,2,"h,v,TA",https://my.absa.org/RiskGroups,candida
+hepatica,3,Z,https://my.absa.org/RiskGroups,capillaria
+philippinensis,2,Z | AHH,https://my.absa.org/RiskGroups,capillaria
+canimorsus,2,ht,https://my.absa.org/RiskGroups,capnocytophaga
+cynodegmi,2,ht,https://my.absa.org/RiskGroups,capnocytophaga
+gingivalis,2,,https://my.absa.org/RiskGroups,capnocytophaga
+granulosa,3,TMP,https://my.absa.org/RiskGroups,capnocytophaga
+haemolytica,2,TMP,https://my.absa.org/RiskGroups,capnocytophaga
+ochracea,2,,https://my.absa.org/RiskGroups,capnocytophaga
+sputigena,2,,https://my.absa.org/RiskGroups,capnocytophaga
+piscicola,1,,https://my.absa.org/RiskGroups,carnobacterium
+morbi,2,,https://my.absa.org/RiskGroups,catonella
+davisae,2,,https://my.absa.org/RiskGroups,cedecea
+lapagei,2,,https://my.absa.org/RiskGroups,cedecea
+neteri,2,,https://my.absa.org/RiskGroups,cedecea
+hominis,2,+,https://my.absa.org/RiskGroups,cellulomonas
+periodontii,2,,https://my.absa.org/RiskGroups,centipeda
+ulmi,3,based on previous edition | plant only | p,https://my.absa.org/RiskGroups,ceratocystis
+stenoceras,2,"h; Ceratocystis stenoceras, obsolete synonym",https://my.absa.org/RiskGroups,ceratocystis
+muridarum,2,t,https://my.absa.org/RiskGroups,chlamydia
+pecorum,2,t | PV,https://my.absa.org/RiskGroups,chlamydia
+pneumoniae,2,ht,https://my.absa.org/RiskGroups,chlamydia
+psittaci,3,other strains | Z | (some strains are less virulent (strains of non-avian origin) and may be handled in the same way as organisms of group 2) | (non-avain strains),https://my.absa.org/RiskGroups,chlamydia
+psittaci (avian strains),3,Z,https://my.absa.org/RiskGroups,chlamydia
+suis,2,t,https://my.absa.org/RiskGroups,chlamydia
+trachomatis,2,,https://my.absa.org/RiskGroups,chlamydia
+pecorum,2,see chlamydia spp,https://my.absa.org/RiskGroups,chlamydia
+pneumoniae,2,see chlamydia spp | see chlamydia pneumoniae,https://my.absa.org/RiskGroups,chlamydia
+psittaci,3,"see chlamydia psittaci | avian strains, non-avian are RG 2 | see chlamydia psittaci (avian), non avian are RG 2 | Z | avian (non-avian RG 2)",https://my.absa.org/RiskGroups,chlamydia
+burnetii,3,"Except the Phase II, Nine Mile strain listed in Appendix B-II-A, Risk Group 2 (RG2) - Bacterial Agents Including Chlamydia | Australia (cultures, animal work and concentrates) (Special precautions: V, P); | Z",https://my.absa.org/RiskGroups,chlamydia
+tularensis (Type A),3,"Except those strains listed in Appendix B-II-A, Risk Group 2 (RG2) - Bacterial Agents Including Chlamydia | Z, (subsp. holarctica, mediasiatica) | Except for attenduated strains UTAH 112, live vaccine strain and B38 | (subsp. Holarctica, mediasiatica, tularensis)",https://my.absa.org/RiskGroups,chlamydia
+abortus,2,,https://my.absa.org/RiskGroups,chlamydophila
+caviae,2,,https://my.absa.org/RiskGroups,chlamydophila
+felis,2,,https://my.absa.org/RiskGroups,chlamydophila
+violaceum,2,ht,https://my.absa.org/RiskGroups,chromobacterium
+gleum,2,,https://my.absa.org/RiskGroups,chryseobacterium
+indologenes,2,formerly flavobacterium | ht,https://my.absa.org/RiskGroups,chryseobacterium
+indoltheticum,1,,https://my.absa.org/RiskGroups,chryseobacterium
+meningosepticum,2,Elizabethkingia meningoseptica | see flavobacterium meningosepticum,https://my.absa.org/RiskGroups,chryseobacterium
+scophthalmum,2,formerly flavobacterium | t | PV,https://my.absa.org/RiskGroups,chryseobacterium
+meningosepticum,2,(Chryseobacterium meningosepticum) | Elizabethkingia meningoseptica,https://my.absa.org/RiskGroups,chryseobacterium
+Chicken anaemia virus,2,t2 | PM,https://my.absa.org/RiskGroups,circoviridae
+Porcine circovirus,2,t2 | PM,https://my.absa.org/RiskGroups,circoviridae
+amalonaticus,2,,https://my.absa.org/RiskGroups,citrobacter
+braakii,2,,https://my.absa.org/RiskGroups,citrobacter
+farmeri,2,,https://my.absa.org/RiskGroups,citrobacter
+freundii,2,,https://my.absa.org/RiskGroups,citrobacter
+koseri,2,,https://my.absa.org/RiskGroups,citrobacter
+rodentium,2,t | PV,https://my.absa.org/RiskGroups,citrobacter
+sedlakii,2,,https://my.absa.org/RiskGroups,citrobacter
+werkmanii,2,,https://my.absa.org/RiskGroups,citrobacter
+youngae,2,,https://my.absa.org/RiskGroups,citrobacter
+arxii,3,for spp | X,https://my.absa.org/RiskGroups,cladophialophora
+bantiana,3,"for spp | RG 2 in animals | Formerly Filobasidiella neofonnans var. neoformans | t | h,v",https://my.absa.org/RiskGroups,cladophialophora
+carrionii,2,"for spp | h,v",https://my.absa.org/RiskGroups,cladophialophora
+bantianum,3,"RG 2 in animals, Cladophialophora bantiana | See Cladophialophora bantiana | (obsolete) Cladophialophora bantiana | (formerly Xylohypha bantiana)",https://my.absa.org/RiskGroups,cladophialophora
+carrionii,2,Cladophialophora carrionii | (obsolete) Cladophialophora carrionii,https://my.absa.org/RiskGroups,cladophialophora
+trichoides,3,"Cladosporium (Xylohypha) trichoides | Cladophialophora bantiana | (obsolete) synonym of Cladophialaphora bantiana, Xylohypha bantiana, Xylohypha trichoides",https://my.absa.org/RiskGroups,cladophialophora
+bantiana,3,see Chladophialophora bantiana | (obsolete) Cladophialophora bantiana | see Cladophilophora bantiana,https://my.absa.org/RiskGroups,cladophialophora
+michiganensis,2,"PP, QUA (including: subsp. insidiosus, michiganensis, sepedonicus); (subsp. Nebraskensis, tessellarius are RG 1, PP)",https://my.absa.org/RiskGroups,clavibacter
+sinensis,2,"Z | AAH, AHH, ZOP | Opisthorchis sinensis",https://my.absa.org/RiskGroups,clonorchis
+viverrini,2,"See also: Opisthorchis viverrini | AAH, AHH, ZOP | Opisthorchis viverrini",https://my.absa.org/RiskGroups,clonorchis
+sinensis,2,(Clonorchis sinensis),https://my.absa.org/RiskGroups,clonorchis
+viverrini,2,Opisthorchis spp. | Z | AAH ZOP | (Clonorchis viverrini),https://my.absa.org/RiskGroups,clonorchis
+absonum,2,,https://my.absa.org/RiskGroups,clostridium
+argentinense,2,,https://my.absa.org/RiskGroups,clostridium
+baratii,2,Z,https://my.absa.org/RiskGroups,clostridium
+bifermentans,2,,https://my.absa.org/RiskGroups,clostridium
+botulinum,3,"T | T, Z",https://my.absa.org/RiskGroups,clostridium
+cadaveris,2,,https://my.absa.org/RiskGroups,clostridium
+carnis,2,,https://my.absa.org/RiskGroups,clostridium
+chauvoei,2,see previous edition | ht | PV,https://my.absa.org/RiskGroups,clostridium
+clostridioforme,2,,https://my.absa.org/RiskGroups,clostridium
+colinum,2,t | PV,https://my.absa.org/RiskGroups,clostridium
+difficile,2,see previous edition,https://my.absa.org/RiskGroups,clostridium
+equi,2,see previous edition,https://my.absa.org/RiskGroups,clostridium
+frigidicarnis,2,,https://my.absa.org/RiskGroups,clostridium
+ghonii,2,,https://my.absa.org/RiskGroups,clostridium
+glycolicum,2,,https://my.absa.org/RiskGroups,clostridium
+grantii,1,,https://my.absa.org/RiskGroups,clostridium
+haemolyticum,2,see previous edition | ht,https://my.absa.org/RiskGroups,clostridium
+hastiforme,2,,https://my.absa.org/RiskGroups,clostridium
+histolyticum,2,see previous edition,https://my.absa.org/RiskGroups,clostridium
+indolis,2,,https://my.absa.org/RiskGroups,clostridium
+innocuum,2,,https://my.absa.org/RiskGroups,clostridium
+kluyveri,2,,https://my.absa.org/RiskGroups,clostridium
+limosum,2,,https://my.absa.org/RiskGroups,clostridium
+malenominatum,2,,https://my.absa.org/RiskGroups,clostridium
+novyi,2,see previous edition | ht,https://my.absa.org/RiskGroups,clostridium
+oroticum,2,,https://my.absa.org/RiskGroups,clostridium
+paraputrificum,2,,https://my.absa.org/RiskGroups,clostridium
+perfringens,2,"This risk group applies to the species as a whole, and may not apply to every strain. | ht, T",https://my.absa.org/RiskGroups,clostridium
+piliforme,2,t | PV,https://my.absa.org/RiskGroups,clostridium
+putrificum,2,,https://my.absa.org/RiskGroups,clostridium
+ramosum,2,,https://my.absa.org/RiskGroups,clostridium
+septicum,2,see previous edition,https://my.absa.org/RiskGroups,clostridium
+sordellii,2,see previous edition,https://my.absa.org/RiskGroups,clostridium
+sphenoides,2,,https://my.absa.org/RiskGroups,clostridium
+sporogenes,2,,https://my.absa.org/RiskGroups,clostridium
+spp.,2,"This risk group applies to theï¿½Clostridiumï¿½genus as a whole, and may not apply to every species within the genus.",https://my.absa.org/RiskGroups,clostridium
+subterminale,2,,https://my.absa.org/RiskGroups,clostridium
+symbiosum,2,,https://my.absa.org/RiskGroups,clostridium
+tertium,2,ht,https://my.absa.org/RiskGroups,clostridium
+tetani,2,"T | T, V | T, V, ht | T,V",https://my.absa.org/RiskGroups,clostridium
+immitis,3,"Sporulating cultures; contaminated soil | A | A, t | h, v (dimorphic) Blastomycoides immitis, C. esteriformis, Geotrichum immite, Glenospora metaeuropea, Glenosporum louisianoideum, Pasadasia esteriformis, Trichosporon proteolyticum, obsolete synonym",https://my.absa.org/RiskGroups,coccidioides
+posadasii,3,Except for the following attenuated strains  _CHS5 and _CTS2/_ARD1/_CTS3 | Allergen,https://my.absa.org/RiskGroups,coccidioides
+hominivorax,2,RG 3 in animals | AAH AHH ZOP,https://my.absa.org/RiskGroups,cochliomyia
+terrigena,2,,https://my.absa.org/RiskGroups,comamonas
+osculatum,2,Z,https://my.absa.org/RiskGroups,contracaecum
+Avian infectious bronchitis virus,2,t2,https://my.absa.org/RiskGroups,coronaviridae
+Berne virus,2,PM,https://my.absa.org/RiskGroups,coronaviridae
+Bovine coronavirus,2,PM,https://my.absa.org/RiskGroups,coronaviridae
+Breda virus,2,t2 | PM,https://my.absa.org/RiskGroups,coronaviridae
+Canine coronavirus,2,t2 | PM,https://my.absa.org/RiskGroups,coronaviridae
+Coronavirus,3,Human Coronavirus (excluding SARS-CoV),https://my.absa.org/RiskGroups,coronaviridae
+Feline infectious peritonitis virus,2,t2 | PM,https://my.absa.org/RiskGroups,coronaviridae
+Human coronavirus,3,from cultures and concentrates | Human Coronavirus (excluding SARS-CoV) | PH,https://my.absa.org/RiskGroups,coronaviridae
+Middle eastern respiratory (MERS),3,Middle East respiratory syndrome coronavirus (MERS-CoV) | Middle East Respiratory Syndrome Coronavirus (MERS-CoV),https://my.absa.org/RiskGroups,coronaviridae
+Murine hepatitis virus,2,t2 | PM,https://my.absa.org/RiskGroups,coronaviridae
+Porcine epidemic diarrhoea virus,2,t2 | PM,https://my.absa.org/RiskGroups,coronaviridae
+Porcine haemagglutinating encephalomyelitis virus,2,t2 | PM,https://my.absa.org/RiskGroups,coronaviridae
+Porcine transmissible gastroenteritis virus,2,t2,https://my.absa.org/RiskGroups,coronaviridae
+Rat coronavirus,2,t2 | PM,https://my.absa.org/RiskGroups,coronaviridae
+SARS,3,"SARS-associated coronavirus (SARS-CoV) | Severe acute respiratory syndrome (SARS) associated coronavirus | SARS CoV | NYR, PHV",https://my.absa.org/RiskGroups,coronaviridae
+Turkey coronavirus,2,PM,https://my.absa.org/RiskGroups,coronaviridae
+accolens,2,,https://my.absa.org/RiskGroups,corynebacterium
+afermentans,2,"subsp. afermentans, lipophilum)",https://my.absa.org/RiskGroups,corynebacterium
+amycolatum,2,ht,https://my.absa.org/RiskGroups,corynebacterium
+argentoratense,2,,https://my.absa.org/RiskGroups,corynebacterium
+auris,2,,https://my.absa.org/RiskGroups,corynebacterium
+beticola,2,p | PP?,https://my.absa.org/RiskGroups,corynebacterium
+bovis,2,see previous edition | ht,https://my.absa.org/RiskGroups,corynebacterium
+coyleae,2,,https://my.absa.org/RiskGroups,corynebacterium
+cystitidis,2,t | PV,https://my.absa.org/RiskGroups,corynebacterium
+diphtheriae,2,"T | T, V | T,V",https://my.absa.org/RiskGroups,corynebacterium
+hoagii,2,,https://my.absa.org/RiskGroups,corynebacterium
+imitans,2,,https://my.absa.org/RiskGroups,corynebacterium
+jeikeium,2,,https://my.absa.org/RiskGroups,corynebacterium
+kroppenstedtii,2,+,https://my.absa.org/RiskGroups,corynebacterium
+macginleyi,2,TMP,https://my.absa.org/RiskGroups,corynebacterium
+mastitidis,2,t | PV,https://my.absa.org/RiskGroups,corynebacterium
+matruchotii,2,,https://my.absa.org/RiskGroups,corynebacterium
+minutissimum,2,,https://my.absa.org/RiskGroups,corynebacterium
+mucifaciens,2,,https://my.absa.org/RiskGroups,corynebacterium
+mycetoides,2,,https://my.absa.org/RiskGroups,corynebacterium
+phocae,2,,https://my.absa.org/RiskGroups,corynebacterium
+pilosum,2,,https://my.absa.org/RiskGroups,corynebacterium
+propinquum,2,,https://my.absa.org/RiskGroups,corynebacterium
+pseudodiphteriticum,2,,https://my.absa.org/RiskGroups,corynebacterium
+pseudotuberculosis,2,"T, Z",https://my.absa.org/RiskGroups,corynebacterium
+renale,2,see previous edition | t | PV,https://my.absa.org/RiskGroups,corynebacterium
+striatum,2,,https://my.absa.org/RiskGroups,corynebacterium
+ulcerans,2,"see previous edition | T, Z",https://my.absa.org/RiskGroups,corynebacterium
+urealyticum,2,ht,https://my.absa.org/RiskGroups,corynebacterium
+xerosis,2,t+,https://my.absa.org/RiskGroups,corynebacterium
+equi,2,Corynebacterium equi | (Corynebacterium equi),https://my.absa.org/RiskGroups,corynebacterium
+ruminatium,3,PV,https://my.absa.org/RiskGroups,cowdria
+bacillisporus,2,Cryptococcus neoformans var. gattii (teleomorph : Filobasidiella bacillispora) (mitosporic Tremellaceae) | (obsolete) Cryptococcus neoformans var. gattii,https://my.absa.org/RiskGroups,cryptococcus
+neoformans,3,"(var gattii, neoformans)(synonym of Cryptococcus bacillisporus) (teleomorph : Filobasidiella bacillispora) (mitosporic Tremellaceae) | A (var. neoformans, gattii); (Filobasidiella bacillispora) | A, t | h, v C. meningitidis, Saccharomyces neoformans, Torulopsis neoformans, obsolte synonym | A",https://my.absa.org/RiskGroups,cryptococcus
+bacillispora,2,mitosporic state : Cryptococcus bacillisporus | A,https://my.absa.org/RiskGroups,cryptococcus
+neoformans,3,"mitosporic state : Cryptococcus neoformans | A | A, t | h,v | Sexual state of Cryptococcus neoformans var neoformans",https://my.absa.org/RiskGroups,cryptococcus
+parvum,2,"Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,cryptosporidium
+spp,2,"G | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,cryptosporidium
+flaccumfaciens,2,"p2 | PP, QUA",https://my.absa.org/RiskGroups,curtobacterium
+cayetanensis,2,Z | AHH,https://my.absa.org/RiskGroups,cyclospora
+cellulosae,2,"Hydatid cyst, larva of T. solium | Taenia saginata",https://my.absa.org/RiskGroups,cysticercus
+columnaris,2,PV,https://my.absa.org/RiskGroups,cytophaga
+psychrophila,2,PV,https://my.absa.org/RiskGroups,cytophaga
+hydatis,2,t2 | PV  (Cytophaga aquatilis),https://my.absa.org/RiskGroups,cytophaga
+johnsoniae,2,t2 | PV  (Cytophaga johnsonae),https://my.absa.org/RiskGroups,cytophaga
+gallopava,2,Ochroconis gallopavum | (obsolete) Ochroconis gallopavum,https://my.absa.org/RiskGroups,dactylaria
+chelonae,2,PV,https://my.absa.org/RiskGroups,dermatiphulus
+congolensis,2,RG 3 in animals | Z,https://my.absa.org/RiskGroups,dermatophilus
+congolensis,2,,https://my.absa.org/RiskGroups,dermatophilus
+dendriticum,2,"Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,dicrocoelium
+fragilis,2,,https://my.absa.org/RiskGroups,dientamoeba
+perstans,2,AAH AHH ZOP | See Mansonella,https://my.absa.org/RiskGroups,dipetalonema
+spp,2,AAH AHH ZOP | See Mansonella,https://my.absa.org/RiskGroups,dipetalonema
+streptocerca,2,AHH | Mansonella streptocerca,https://my.absa.org/RiskGroups,dipetalonema
+latum,2,"Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,diphyllobothrium
+caninum,2,Z | AHH ZOP,https://my.absa.org/RiskGroups,dipylidium
+pigrum,2,"PIIC, TMP",https://my.absa.org/RiskGroups,dolosigranulum
+medinensis,2,"Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,dracunculus
+granulosus,3,"See Echinococcus spp. | (**) | Z | **, AAH, AHH, PIH, ZOP, OST | Classified under SAPO",https://my.absa.org/RiskGroups,echinococcus
+multilocularis,3,"See Echinococcus spp. | (**) | Z | **, AAH,  AHH, OST, PIH, ZOP | Classified under SAPO",https://my.absa.org/RiskGroups,echinococcus
+spp,2,G,https://my.absa.org/RiskGroups,echinococcus
+vogeli,3,"See Echinococcus spp. | (**) | Z | **, AAH,  AHH, OST, PIH, ZOP",https://my.absa.org/RiskGroups,echinococcus
+anguillimortifera,2,PV,https://my.absa.org/RiskGroups,edwardsiella
+ictulari,2,RG 3 in animals | ht | PV,https://my.absa.org/RiskGroups,edwardsiella
+tarda,2,RG 3 in animals | ht,https://my.absa.org/RiskGroups,edwardsiella
+canis,2,Z | PV,https://my.absa.org/RiskGroups,ehrlichia
+chaffeensis,2,Z,https://my.absa.org/RiskGroups,ehrlichia
+equi,2,PV,https://my.absa.org/RiskGroups,ehrlichia
+ewingii,2,Z | PV,https://my.absa.org/RiskGroups,ehrlichia
+muris,2,Z | PV,https://my.absa.org/RiskGroups,ehrlichia
+phagocytophila,2,PV,https://my.absa.org/RiskGroups,ehrlichia
+risticii,2,PV,https://my.absa.org/RiskGroups,ehrlichia
+sennetsu,3,Rickettsia sennetsu,https://my.absa.org/RiskGroups,ehrlichia
+sennetsu,3,Rickettsia - all species | Refer to : Ehrlichia sennetsu | See Ehrlichia sennetsu,https://my.absa.org/RiskGroups,ehrlichia
+corrodens,2,,https://my.absa.org/RiskGroups,eikenella
+bovis,1,t2,https://my.absa.org/RiskGroups,eimeria
+suis,1,t2,https://my.absa.org/RiskGroups,eimeria
+tenella,1,t2,https://my.absa.org/RiskGroups,eimeria
+parva,2,"(var crescens, parva) | (var. parva, crescens) | t | v, (dimorphic) Chrysosporium parvum var. parvum, Chrysosporium parvum, obsolete synonym | (var parva, crescens)",https://my.absa.org/RiskGroups,emmonsia
+brevis,2,ht | (Flavobacterium breve),https://my.absa.org/RiskGroups,empedobacter
+cuniculi,2,Z | AAH ZOP,https://my.absa.org/RiskGroups,encephalitozoon
+hellem,2,Z | AHH,https://my.absa.org/RiskGroups,encephalitozoon
+intestinalis,2,Z,https://my.absa.org/RiskGroups,encephalitozoon
+dispar,1,AHH ZOP,https://my.absa.org/RiskGroups,entamoeba
+histolytica,2,"G | Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,entamoeba
+aerogenes,2,Enterobacter cloacae | ht | (=Klebsiella mobilis),https://my.absa.org/RiskGroups,enterobacter
+agglomerans,2,"(see Pantoea agglomerans), PP?",https://my.absa.org/RiskGroups,enterobacter
+amnigenus,2,TA,https://my.absa.org/RiskGroups,enterobacter
+asburiae,2,,https://my.absa.org/RiskGroups,enterobacter
+cancerogenus,2,(Erwinia cancerogena),https://my.absa.org/RiskGroups,enterobacter
+cloacae,2,ht,https://my.absa.org/RiskGroups,enterobacter
+gergoviae,2,,https://my.absa.org/RiskGroups,enterobacter
+hormaechei,2,ht,https://my.absa.org/RiskGroups,enterobacter
+intermedius,2,,https://my.absa.org/RiskGroups,enterobacter
+sakazakii,2,,https://my.absa.org/RiskGroups,enterobacter
+spp.,2,"This risk group applies to the genus as a whole, and may not apply to every species within the genus.",https://my.absa.org/RiskGroups,enterobacter
+mobilis,2,(= Enterobacter aerogenes),https://my.absa.org/RiskGroups,enterobacter
+agglomerans,2,PP? (old name Enterobacter agglomerans),https://my.absa.org/RiskGroups,enterobacter
+vermicularis,2,AHH,https://my.absa.org/RiskGroups,enterobius
+avium,2,,https://my.absa.org/RiskGroups,enterococcus
+dispar,2,,https://my.absa.org/RiskGroups,enterococcus
+durans,2,"TA, ht | TA (Streptococcus durans)",https://my.absa.org/RiskGroups,enterococcus
+faecalis,2,TA | (Streptococcus faecalis),https://my.absa.org/RiskGroups,enterococcus
+faecium,2,TA | TA (Streptococcus faecium),https://my.absa.org/RiskGroups,enterococcus
+flavescens,2,,https://my.absa.org/RiskGroups,enterococcus
+gallinarum,2,ht | PV (Streptococcus gallinarum),https://my.absa.org/RiskGroups,enterococcus
+hirae,2,ht | PV,https://my.absa.org/RiskGroups,enterococcus
+pseudoavium,2,t | PV,https://my.absa.org/RiskGroups,enterococcus
+raffinosus,2,,https://my.absa.org/RiskGroups,enterococcus
+solitarius,2,,https://my.absa.org/RiskGroups,enterococcus
+spp.,2,Australia (Vancomycin-resistant strains),https://my.absa.org/RiskGroups,enterococcus
+bieneusi,2,Z,https://my.absa.org/RiskGroups,enterocytozoon
+coccoides,2,t | PV,https://my.absa.org/RiskGroups,eperythrozoon
+ovis,2,PV,https://my.absa.org/RiskGroups,eperythrozoon
+parvum,2,t | PV,https://my.absa.org/RiskGroups,eperythrozoon
+suis,2,PV,https://my.absa.org/RiskGroups,eperythrozoon
+wenyonii,2,PV,https://my.absa.org/RiskGroups,eperythrozoon
+floccosum,2,"(mitosporic Arthrodermataceae); both human and animal risk group 2 pathogen | A | h, Acrothecium floccosum, E. clypeiforme, E. inguinale, E. plicarum, Trichophyton cruris, Trichophyton floccosum, Trichophyton inguinale, Trichophyton intertriginis, Trichothecium floccosum, obsolete synonym",https://my.absa.org/RiskGroups,epidermophyton
+sennetsu,2,,https://my.absa.org/RiskGroups,erlichia
+amylovora,2,"p2 | PP, QUA, RE 1",https://my.absa.org/RiskGroups,erwinia
+chrysanthemi,2,"Dickeya chrysanthemi | PP, QUA",https://my.absa.org/RiskGroups,erwinia
+herbicola,2,PP? (Pantoea agglomerans),https://my.absa.org/RiskGroups,erwinia
+rhusiopathiae,2,Z | PV,https://my.absa.org/RiskGroups,erysipelothrix
+spp.,2,see previous edition,https://my.absa.org/RiskGroups,erysipelothrix
+coli,3,"All enteropathogenic, enterotoxigenic, enteroinvasive and strains bearing K1 antigen, including E. coli O157:H7 | Australia (Pathogenic E. coli; except Vero cytotoxin-producing (VTEC) strains and genetically crippled strains) | (cytoxic strains are RG 3 incl. O157:H7); T(*) | (**) verocytoxigenic strains O157:H7 or O103, RG3 | (enterohaemorraghic strains, e.g., 157:H7, O13), others RG-2, * | IMP ((enterohemorrhagic (EHEC) strains such as O157:H7 or O103 are RG 3!  **, EHEC) | (with the exception of non-pathogenic strains) (verocytotoxigenic strains are RG 3, eg O157:H7 or O103), T",https://my.absa.org/RiskGroups,escherichia
+coli (K12),1,see previous edition,https://my.absa.org/RiskGroups,escherichia
+fergusonii,2,with the exception of non-pathogenic strains | ht,https://my.absa.org/RiskGroups,escherichia
+hermannii,2,,https://my.absa.org/RiskGroups,escherichia
+vulneris,2,,https://my.absa.org/RiskGroups,escherichia
+aerofaciens,2,,https://my.absa.org/RiskGroups,eubacterium
+brachy,2,,https://my.absa.org/RiskGroups,eubacterium
+combesii,2,,https://my.absa.org/RiskGroups,eubacterium
+contortum,2,,https://my.absa.org/RiskGroups,eubacterium
+exiguum,2,,https://my.absa.org/RiskGroups,eubacterium
+fossor,2,PV,https://my.absa.org/RiskGroups,eubacterium
+infirmum,2,PV,https://my.absa.org/RiskGroups,eubacterium
+lentum,2,PV,https://my.absa.org/RiskGroups,eubacterium
+limosum,2,+,https://my.absa.org/RiskGroups,eubacterium
+moniliforme,2,,https://my.absa.org/RiskGroups,eubacterium
+nitritogenes,2,PIIC,https://my.absa.org/RiskGroups,eubacterium
+nodatum,2,,https://my.absa.org/RiskGroups,eubacterium
+saphenum,2,,https://my.absa.org/RiskGroups,eubacterium
+sulci,2,PIIC,https://my.absa.org/RiskGroups,eubacterium
+tarantellus,2,Eubacterium tarantellae | PV (E. tarantellae),https://my.absa.org/RiskGroups,eubacterium
+tardum,2,,https://my.absa.org/RiskGroups,eubacterium
+tenue,2,,https://my.absa.org/RiskGroups,eubacterium
+timidum,2,,https://my.absa.org/RiskGroups,eubacterium
+tortuosum,2,ht,https://my.absa.org/RiskGroups,eubacterium
+ventriosum,2,,https://my.absa.org/RiskGroups,eubacterium
+alactolyticus,2,Eubacterium alactolyticum | Old name: Eubacterium alactolyticum,https://my.absa.org/RiskGroups,eubacterium
+yurii,2,"(including subsp. margaretiae, schtitka, yurii",https://my.absa.org/RiskGroups,eurbacterium
+americana,2,,https://my.absa.org/RiskGroups,ewingella
+castellanii,2,Exophiala castellanii | h | See Exophiala spp.,https://my.absa.org/RiskGroups,exophiala
+dermatitidis,2,Exophiala (Wangiella) dermatitidis | Phialophora dermatitidis ; Wangiella dermatitidis | t | (obsolete) Wangiella dermatitidis,https://my.absa.org/RiskGroups,exophiala
+mansonii,2,Exophiala castellanii | See Exophiala spp.,https://my.absa.org/RiskGroups,exophiala
+spinifera,2,"Phialophora spinifera, Rhinocladiella spinifera | h,v | See Exophiala spp.",https://my.absa.org/RiskGroups,exophiala
+spinifera,2,Exophiala spinifera; mitosporic Herpotrichiellaceae | (obsolete) Exophiala spinifera,https://my.absa.org/RiskGroups,exophiala
+rectivirgula,2,PIIC (see Saccharopolyspora rectivirgula),https://my.absa.org/RiskGroups,faenia
+rectivirgula,2,"Faenia rectivirgula, Micropolyspora faeni | + | PIIC, Old names: Micropolyspora rectivirgula , Micropolyspora faeni,Faenia rectivirgula",https://my.absa.org/RiskGroups,faenia
+grandis,2,,https://my.absa.org/RiskGroups,falcivibrio
+vaginalis,2,,https://my.absa.org/RiskGroups,falcivibrio
+gigantica,2,"Fasciola hepatica | Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,fasciola
+hepatica,2,"Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,fasciola
+buski,2,"Z | AAH, AHH",https://my.absa.org/RiskGroups,fasciolopsis
+Ebola virus,4,PHV,https://my.absa.org/RiskGroups,filoviridae
+Marburg virus,4,PHV,https://my.absa.org/RiskGroups,filoviridae
+Absettarov,4,NYR | Strain of Central European tick-borne encephalitis virus (Far Eastern subgrou),https://my.absa.org/RiskGroups,flaviviridae
+Border disease virus,2,t2 | PM,https://my.absa.org/RiskGroups,flaviviridae
+Bovine diarrhoea virus,2,t2,https://my.absa.org/RiskGroups,flaviviridae
+Central European encephalitis,4,"(**), V",https://my.absa.org/RiskGroups,flaviviridae
+Dengue virus,3,"Serotypes 1, 2, 3, and 4 | Dengue 1, 2, 3 and 4 | Type 1-4 | type 1-4 | PHV | (Types 1-4)",https://my.absa.org/RiskGroups,flaviviridae
+Far Eastern Tick-borne encephalitis,4,,https://my.absa.org/RiskGroups,flaviviridae
+Flaviviruses,2,those known to be pathogenic,https://my.absa.org/RiskGroups,flaviviridae
+Hanzalova,4,NYR PH | Vaccine available All strains including Whitepox virus,https://my.absa.org/RiskGroups,flaviviridae
+Hepatitis C virus,3,"(**), D | ** PH | *",https://my.absa.org/RiskGroups,flaviviridae
+Hepatitis G virus,3,"(**), D | **, PH",https://my.absa.org/RiskGroups,flaviviridae
+Hog cholera virus (Classical Swine Fever virus),4,t2/t3 | EPD PM,https://my.absa.org/RiskGroups,flaviviridae
+Hypr virus,4,NYR PH | Vaccine available,https://my.absa.org/RiskGroups,flaviviridae
+Israel turkey meningoencephalitis virus,3,t3,https://my.absa.org/RiskGroups,flaviviridae
+Japanese B encephalitis virus,3,Except those strains listed in Appendix B-II-D Risk Group2 (RG2) - Viruses | Vaccination available | V | Japanese encephalitis virus (except for the vaccine strain 14-14-2 virus) | Classified under SAPO,https://my.absa.org/RiskGroups,flaviviridae
+"Japanese encephalitis, Nakayama virus",3,virus strain SA 14-14-2 | Vaccination available | Japanese encephalitis virus (except for the vaccine strain 14-14-2 virus) | PHV,https://my.absa.org/RiskGroups,flaviviridae
+Kokobera virus,2,,https://my.absa.org/RiskGroups,flaviviridae
+Koutango virus,3,PHV,https://my.absa.org/RiskGroups,flaviviridae
+Kumlinge virus,4,NYR PH | Species in Tick-borne encephalitis virus group,https://my.absa.org/RiskGroups,flaviviridae
+Kunjin,2,West Nile virus (WNV),https://my.absa.org/RiskGroups,flaviviridae
+Kyasanur forest disease virus,4,V | PHV,https://my.absa.org/RiskGroups,flaviviridae
+Louping ill virus,3,(**) | PHV | *,https://my.absa.org/RiskGroups,flaviviridae
+Murray Valley encephalitis virus,3,PHV,https://my.absa.org/RiskGroups,flaviviridae
+Negishi virus,3,Species in Tick-borne encephalitis virus group,https://my.absa.org/RiskGroups,flaviviridae
+Omsk hemorrhagic fever virus,4,"V, Tick-borne encephalitis | PHV",https://my.absa.org/RiskGroups,flaviviridae
+Powassan virus,3,PHV,https://my.absa.org/RiskGroups,flaviviridae
+Rocio virus,3,,https://my.absa.org/RiskGroups,flaviviridae
+Russian spring-summer encephalitis,4,"NULL; see previous edition | V, Tick-borne encephalitis | NYR, PHV",https://my.absa.org/RiskGroups,flaviviridae
+Sal Vieja virus,3,,https://my.absa.org/RiskGroups,flaviviridae
+Sammarez reef virus,2,NULL; see previous edition,https://my.absa.org/RiskGroups,flaviviridae
+San Perlita virus,3,,https://my.absa.org/RiskGroups,flaviviridae
+Sarafend,2,,https://my.absa.org/RiskGroups,flaviviridae
+Saumarez Reef,3,,https://my.absa.org/RiskGroups,flaviviridae
+Spondweni virus,3,Subspecies of Zika virus,https://my.absa.org/RiskGroups,flaviviridae
+St. Louis encephalitis virus,3,NULL; see previous edition | RG 2 in animals | PHV,https://my.absa.org/RiskGroups,flaviviridae
+Tick-borne encephalitis virus,4,"Except Louping ill, Negishi and Powassan viruses",https://my.absa.org/RiskGroups,flaviviridae
+Wesselsbron virus,3,(**) | PHV,https://my.absa.org/RiskGroups,flaviviridae
+West Nile virus,3,PHV,https://my.absa.org/RiskGroups,flaviviridae
+Yellow fever virus (vaccine strain 17D),2,V,https://my.absa.org/RiskGroups,flaviviridae
+"Yellow fever virus, wild type",3,V | PHV,https://my.absa.org/RiskGroups,flaviviridae
+Zika virus,2,,https://my.absa.org/RiskGroups,flaviviridae
+Siberian tick-borne encephalitis virus,3,,https://my.absa.org/RiskGroups,flaviviridae
+branchiophilum,2,t2 | PV,https://my.absa.org/RiskGroups,flavobacterium
+columnare,2,t2 | PV  (Flexibacter columnaris),https://my.absa.org/RiskGroups,flavobacterium
+mizutaii,2,(Sphingobacterium mizutaii),https://my.absa.org/RiskGroups,flavobacterium
+psychrophilum,2,t2 | PV (Flexibacter psychrophilus),https://my.absa.org/RiskGroups,flavobacterium
+yabuuchiae,2,(syn.: Sphingobacterium spiritivorum),https://my.absa.org/RiskGroups,flavobacterium
+odoratus,2,(old name Flavobacterium odoratum),https://my.absa.org/RiskGroups,flavobacterium
+multivorum,2,Old name: Flavobacterium multivorum,https://my.absa.org/RiskGroups,flavobacterium
+spiritivorum,2,Old name:Flavobacterium spiritivorum,https://my.absa.org/RiskGroups,flavobacterium
+thalpophilum,2,Old name: Flavobacterium thalpophilum,https://my.absa.org/RiskGroups,flavobacterium
+maritimus,2,PV,https://my.absa.org/RiskGroups,flexibacter
+ovolyticus,2,PV,https://my.absa.org/RiskGroups,flexibacter
+bozemaniae,2,Legionella spp | Legionella bozemanii/bozemanae | Legionella | (Legionella bozemaniae) | Legionella bozmanii,https://my.absa.org/RiskGroups,fluoribacter
+dumoffii,2,Legionella spp | Legionella dumoffii | (Legionella dumoffii),https://my.absa.org/RiskGroups,fluoribacter
+gormanii,2,Legionella spp | Legionella gormanii | (Legionella gormanii),https://my.absa.org/RiskGroups,fluoribacter
+bozemanii,2,All species and all Legionella-like organisms | refer to Fluoribacter bozemaniae,https://my.absa.org/RiskGroups,fluoribacter
+spp.,2,All species and all Legionella-like organisms | See also Fluoribacter bozemanae,https://my.absa.org/RiskGroups,fluoribacter
+compacta,2,"Phialophora compacta, Rhinocladiella compacta) (mitosporic Ascomycota) | h, F. compactum, Phialaphora compactum, Rhinocladiella compactum, obsolete synonym",https://my.absa.org/RiskGroups,fonsecaea
+pedrosoi,2,"Phialophora pedrosoi, Rhinocladiella pedrosoi | h, Hormodendrum pedrosoi, Phialophora pedrosi, Rhinocladiella pedrosoi, obsolete synonym",https://my.absa.org/RiskGroups,fonsecaea
+compacta,2,Fonsecaea compacta; mitosporic Ascomycota | (obsolete) Fonsecaea compacta,https://my.absa.org/RiskGroups,fonsecaea
+compacta,2,"Fonsecaea compacta (synoym of Phialophora compacta, Rhinocladiella compacta) (mitosporic Ascomycota) | (obselete) Fosecaea compacta",https://my.absa.org/RiskGroups,fonsecaea
+pedrosoi,2,"Listed as both human and animal pathogen risk group 2; Fonsecaea pedrosoi (synoym of Phialophora pedrosoi, Rhinocladiella pedrosoi) | (obsolete) Fonsecaea pedrosoi",https://my.absa.org/RiskGroups,fonsecaea
+novocida,2,,https://my.absa.org/RiskGroups,francisella
+philomiragia,2,Yersinia philomiragia | ht | (Yersinia philomiragia),https://my.absa.org/RiskGroups,francisella
+tularensis (Type B),3,"Specifically *F. tularensis subspecies novicida [aka F. novicida], strain Utah 112; *F. tularensis subspecies holarctica LVS; *F. tularensis biovar tularensis strain ATCC 6223 (aka strain B38). *For research involving high concentrations, BL3 practices should be considered. | Z, (subsp. tularensis) | Except for attenduated strains UTAH 112, live vaccine strain and B38",https://my.absa.org/RiskGroups,francisella
+chlamydosporium,2,"+, p | X",https://my.absa.org/RiskGroups,fusarium
+moniliforme,2,plant pathogen; (teleomorph Gibberella fujikuroi) | See Fusarium spp.,https://my.absa.org/RiskGroups,fusarium
+solani,2,"plant pathogen | A, p, T | p,h",https://my.absa.org/RiskGroups,fusarium
+moniliformis,2,"plant pathogen; (anamorph Fusarium verticillioides);  (mitosporic state : Fusarium verticillioides) | A, p, T | p",https://my.absa.org/RiskGroups,fusarium
+haematococca,2,"mitsporic state: Fusarium solani | A, p, T | X",https://my.absa.org/RiskGroups,fusarium
+alocis,2,,https://my.absa.org/RiskGroups,fusobacterium
+gonidiaformans,2,,https://my.absa.org/RiskGroups,fusobacterium
+mortiferum,2,,https://my.absa.org/RiskGroups,fusobacterium
+naviforme,2,ht,https://my.absa.org/RiskGroups,fusobacterium
+necrogenes,2,,https://my.absa.org/RiskGroups,fusobacterium
+necrophorum,2,"ht | (subsp. funduliforme, necrophorum)",https://my.absa.org/RiskGroups,fusobacterium
+nucleatum,2,"(including: subsp. animalis, fusiforme, nucleatum, polymorphum, vincentii)",https://my.absa.org/RiskGroups,fusobacterium
+periodonticum,2,,https://my.absa.org/RiskGroups,fusobacterium
+prausnitzii,2,,https://my.absa.org/RiskGroups,fusobacterium
+russii,2,,https://my.absa.org/RiskGroups,fusobacterium
+spp.,2,"This risk group applies to the genus as a whole, but does not necessarily reflect the risk group classification of every species within the genus.",https://my.absa.org/RiskGroups,fusobacterium
+sulci,2,,https://my.absa.org/RiskGroups,fusobacterium
+ulcerans,2,,https://my.absa.org/RiskGroups,fusobacterium
+varium,2,ht | (Fusobacterium pseudonecrophorum),https://my.absa.org/RiskGroups,fusobacterium
+vaginalis,2,Haemophilus vaginalis | (Haemophilus vaginalis),https://my.absa.org/RiskGroups,gardnerella
+vaginalis,2,(Gardnerella vaginalis) | Gardnerella vaginalis,https://my.absa.org/RiskGroups,gardnerella
+bergeri,2,,https://my.absa.org/RiskGroups,gemella
+haemolysans,2,,https://my.absa.org/RiskGroups,gemella
+morbillorum,2,(Streptococcus morbillorum),https://my.absa.org/RiskGroups,gemella
+palaticanis,2,,https://my.absa.org/RiskGroups,gemella
+sanguinis,2,,https://my.absa.org/RiskGroups,gemella
+spp.,2,"This risk group classification applies to the genus as a whole, but may not be representative of every species within the genus.",https://my.absa.org/RiskGroups,genus
+spp.,2,"his risk group classification applies to the genus as a whole, and may not reflect the risk group classification of every species within the genus.",https://my.absa.org/RiskGroups,genus
+Reoviruses,2,Mostly 2 depending on genus; some 3,https://my.absa.org/RiskGroups,genus
+duodenalis,2,"Syn. Giardia lamblia, Giardia intestinalis | Giardia lamblia | Z | Giardia lamblia, AAH, AHH, ZOP",https://my.absa.org/RiskGroups,giardia
+intestinalis,2,"Syn. Giardia lamblia, Giardia intestinalis | Giardia lamblia | Z | Giardia lamblia, AAH, AHH, ZOP",https://my.absa.org/RiskGroups,giardia
+lamblia,2,"Also known as Giardia duodenalis and Giardia intestinalis | syn. Giardia intestinalis, G. duodenalis | Giardia intestinalis | Z | AAH, AHH, ZOP | (Giardia intestinalis)",https://my.absa.org/RiskGroups,giardia
+spp,2,other species than listed,https://my.absa.org/RiskGroups,giardia
+sanguinis,2,ht,https://my.absa.org/RiskGroups,globicatella
+spinigerum,2,Z,https://my.absa.org/RiskGroups,gnathostoma
+pulchrum,2,Z | AAH AHH ZOP,https://my.absa.org/RiskGroups,gongylonema
+aichiensis,2,(Rhodococcus aichiensis),https://my.absa.org/RiskGroups,gordonia
+bronchialis,2,(Rhodococcus bronchialis),https://my.absa.org/RiskGroups,gordonia
+sputi,2,(Rhodococcus sputi),https://my.absa.org/RiskGroups,gordonia
+terrae,2,(Rhodococcus terrae),https://my.absa.org/RiskGroups,gordonia
+chubuensis,2,(syn.: Gordonia sputi),https://my.absa.org/RiskGroups,gordonia
+canis,2,t | PV,https://my.absa.org/RiskGroups,haemobartonella
+felis,2,PV,https://my.absa.org/RiskGroups,haemobartonella
+contortus,2,t2,https://my.absa.org/RiskGroups,haemonchus
+aegyptius,2,,https://my.absa.org/RiskGroups,haemophilus
+aphrophilus,2,,https://my.absa.org/RiskGroups,haemophilus
+ducreyi,2,,https://my.absa.org/RiskGroups,haemophilus
+felis,2,t | PV,https://my.absa.org/RiskGroups,haemophilus
+haemoglobinophilus,2,PV,https://my.absa.org/RiskGroups,haemophilus
+influenzae,2,V,https://my.absa.org/RiskGroups,haemophilus
+paracuniculus,2,t | PV,https://my.absa.org/RiskGroups,haemophilus
+paragallinarum,2,(serotype A); see previous edition | PV,https://my.absa.org/RiskGroups,haemophilus
+parahaemolyticus,2,,https://my.absa.org/RiskGroups,haemophilus
+parainfluenzae,2,,https://my.absa.org/RiskGroups,haemophilus
+paraphrohaemolyticus,2,,https://my.absa.org/RiskGroups,haemophilus
+paraphrophilus,2,,https://my.absa.org/RiskGroups,haemophilus
+parasuis,2,t | PV,https://my.absa.org/RiskGroups,haemophilus
+piscium,2,t | PV,https://my.absa.org/RiskGroups,haemophilus
+segni,2,,https://my.absa.org/RiskGroups,haemophilus
+equigenitalis,2,Haemophilus equigenitalis | t | PV ; Old name: Haemophilus equigenitalis,https://my.absa.org/RiskGroups,haemophilus
+alvei,2,"(Human opportunistic pathogen) | TA, ht",https://my.absa.org/RiskGroups,hafnia
+seregens,2,,https://my.absa.org/RiskGroups,hallella
+kunzii,2,,https://my.absa.org/RiskGroups,helcococcus
+ovis,2,t,https://my.absa.org/RiskGroups,helcococcus
+acinonychis,2,t | PV,https://my.absa.org/RiskGroups,helicobacter
+bilis,2,t | PV,https://my.absa.org/RiskGroups,helicobacter
+bizzozeronii,2,ht | TMP,https://my.absa.org/RiskGroups,helicobacter
+canis,2,ht | PV,https://my.absa.org/RiskGroups,helicobacter
+cholecystus,2,t | PV,https://my.absa.org/RiskGroups,helicobacter
+hepaticus,2,t | PV,https://my.absa.org/RiskGroups,helicobacter
+muridarum,2,t | PV,https://my.absa.org/RiskGroups,helicobacter
+pullorum,2,ht | PV,https://my.absa.org/RiskGroups,helicobacter
+Duck hepatidis B,2,t2 | PM,https://my.absa.org/RiskGroups,hepadnaviridae
+Ground squirrel hepatitis B virus,3,t2 | PM,https://my.absa.org/RiskGroups,hepadnaviridae
+Hepatitis B virus,3,"Vaccination available | (**), V, D | ** PH | * Vaccine available",https://my.absa.org/RiskGroups,hepadnaviridae
+Hepatitis D virus,3,"(**), V, D | ** | * Vaccine available",https://my.absa.org/RiskGroups,hepadnaviridae
+Woodchuck hepatitis B virus,3,t2 | PM,https://my.absa.org/RiskGroups,hepadnaviridae
+Alcelaphine herpesvirus 1 (Bovine malignant catarrhal fever),3,t2 | PM,https://my.absa.org/RiskGroups,herpesviridae
+Baboon herpesvirus (Cercopithecine herpesvirus 2),3,RG 2 in animals | t2 | PM,https://my.absa.org/RiskGroups,herpesviridae
+Bovine herpesvirus 1,2,t2 | PM,https://my.absa.org/RiskGroups,herpesviridae
+Bovine herpesviruses 2 to 4,2,t2 | PM,https://my.absa.org/RiskGroups,herpesviridae
+Canid herpesvirus 1,2,PM,https://my.absa.org/RiskGroups,herpesviridae
+Caprine herpesvirus 1,2,t2 | PM,https://my.absa.org/RiskGroups,herpesviridae
+Carp herpesvirus,2,PM,https://my.absa.org/RiskGroups,herpesviridae
+Catfish herpesvirus,2,t2,https://my.absa.org/RiskGroups,herpesviridae
+Channel catfish virus disease (CCV) (Herpesvirus ictalurus),2,t2 | PM,https://my.absa.org/RiskGroups,herpesviridae
+Cytomegalovirus (CMV),2,Respiratory protection should be considered | PH,https://my.absa.org/RiskGroups,herpesviridae
+"Cytomegaloviruses of mouse, guinea pig and rat",2,t2 | PM,https://my.absa.org/RiskGroups,herpesviridae
+Epstein-Barr virus (EBV),2,PH,https://my.absa.org/RiskGroups,herpesviridae
+Equid herpesvirus 1 (EHV-1),2,PM,https://my.absa.org/RiskGroups,herpesviridae
+"Equid herpesviruses 2, 3 (EHV-2, 3)",2,"t2 | PM, TEN",https://my.absa.org/RiskGroups,herpesviridae
+Felid herpesvirus 1,2,t2 | PM,https://my.absa.org/RiskGroups,herpesviridae
+Gamma herpes,2,Herpes 6 and 7 and Lymphocryptovirus (EB-like viruses),https://my.absa.org/RiskGroups,herpesviridae
+Herpes saimiri,2,PM,https://my.absa.org/RiskGroups,herpesviridae
+Herpes simplex viruses,2,types 1 and 2 | PH | (Types 1-2),https://my.absa.org/RiskGroups,herpesviridae
+Herpes virus B (Herpesvirus simiae),4,Herpes B or Monkey B virus | Ceropithecine herpesvirus 1 | PHV,https://my.absa.org/RiskGroups,herpesviridae
+Herpes zoster,2,,https://my.absa.org/RiskGroups,herpesviridae
+Herpesvirus ateles,3,"For strains that are infectious to human cells, otherwise RG1 | PM",https://my.absa.org/RiskGroups,herpesviridae
+Herpesvirus HHV 6 - 8,2,PH | (HHV 6-8),https://my.absa.org/RiskGroups,herpesviridae
+Herpesvirus of the rabbit,2,,https://my.absa.org/RiskGroups,herpesviridae
+Herpesvirus saimiri,2,"For strains that are infectious to human cells, otherwise RG1 | PM",https://my.absa.org/RiskGroups,herpesviridae
+Herpesvirus simiae (B virus),4,"Monkey B virus | **, V, D | PHV",https://my.absa.org/RiskGroups,herpesviridae
+Herpesviruses of crustaceans and molluscs,2,,https://my.absa.org/RiskGroups,herpesviridae
+Herpesviruses of reptiles,2,,https://my.absa.org/RiskGroups,herpesviridae
+Herpesviruses of sheep and goat,2,PM,https://my.absa.org/RiskGroups,herpesviridae
+"Herpesviruses of the frog (Fv4, FV5-8)",2,PM,https://my.absa.org/RiskGroups,herpesviridae
+Human B lymphotropic virus,2,Human herpesvirus 6 | HBLV-HHV6,https://my.absa.org/RiskGroups,herpesviridae
+Lymphocrypto virus,2,"EB-like viruses; see previous edition | PM, PH",https://my.absa.org/RiskGroups,herpesviridae
+Marek's disease virus,2,"For strains that are infectious to human cells, otherwise RG1 | t2 | PM",https://my.absa.org/RiskGroups,herpesviridae
+Murine cytomegalovirus,2,"For strains that are infectious to human cells, otherwise RG1 | t2 | PM",https://my.absa.org/RiskGroups,herpesviridae
+Oncorhynchus-Masou virus,2,PM,https://my.absa.org/RiskGroups,herpesviridae
+Phocid herpesvirus 1,2,,https://my.absa.org/RiskGroups,herpesviridae
+Pigeon herpesvirus infection,2,PM,https://my.absa.org/RiskGroups,herpesviridae
+Pike herpesvirus,2,,https://my.absa.org/RiskGroups,herpesviridae
+Pseudorabies virus,3,t2/t3 | PM,https://my.absa.org/RiskGroups,herpesviridae
+"Rhadinovirus, except H. ateles and H. saimiri",2,PM | HHV8,https://my.absa.org/RiskGroups,herpesviridae
+"Rhadinovirus, except H.ateles,H. saimiri",2,PM | HHV8,https://my.absa.org/RiskGroups,herpesviridae
+Salmonid herpesvirus (Herpesvirus salmonis),3,t2 | PM,https://my.absa.org/RiskGroups,herpesviridae
+Suid herpesvirus 2,2,PM,https://my.absa.org/RiskGroups,herpesviridae
+Turbot herpesvirus disease,2,,https://my.absa.org/RiskGroups,herpesviridae
+Varicella Zoster virus,2,Vaccination available | PH,https://my.absa.org/RiskGroups,herpesviridae
+spp,3,for capsulatum,https://my.absa.org/RiskGroups,histoplasma
+werneckii,2,+ | h,https://my.absa.org/RiskGroups,hortaea
+diminuta,2,"G | Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,hymenolepis
+nana,2,G (human origin) | Z | AHH,https://my.absa.org/RiskGroups,hymenolepis
+spp,2,"AAH, see vampirolepis",https://my.absa.org/RiskGroups,hymenolepis
+Bullfrog (TEV),2,,https://my.absa.org/RiskGroups,iridoviridae
+Erythrocytic necrosis virus,3,t2,https://my.absa.org/RiskGroups,iridoviridae
+"Frog viruses (FV 1 to 3, FV 9 to 24)",2,t2 | PM,https://my.absa.org/RiskGroups,iridoviridae
+Gecko virus,2,,https://my.absa.org/RiskGroups,iridoviridae
+"Iridoviruses of chilids, perch, goldfish, common cod, carp and cat-fish",2,,https://my.absa.org/RiskGroups,iridoviridae
+Iridoviruses of crustaceans and mollusces,2,,https://my.absa.org/RiskGroups,iridoviridae
+Leopard frog iridoviruses (I 4 to 5),2,,https://my.absa.org/RiskGroups,iridoviridae
+Lymphocystis disease virus,2,t2,https://my.absa.org/RiskGroups,iridoviridae
+"Newt viruses (T 6 to 21, LT 1 to 4)",2,,https://my.absa.org/RiskGroups,iridoviridae
+Tipula iridescent virus (TIV),2,,https://my.absa.org/RiskGroups,iridoviridae
+belli,2,Z | AHH,https://my.absa.org/RiskGroups,isopora
+spp,2,other species than listed | AAH,https://my.absa.org/RiskGroups,isopora
+ignava,2,,https://my.absa.org/RiskGroups,johnsonella
+denitrificans,2,t | PV; old name old name Listeria denitrificans,https://my.absa.org/RiskGroups,jonesia
+denitrificans,2,,https://my.absa.org/RiskGroups,kingella
+kingae,2,,https://my.absa.org/RiskGroups,kingella
+oralis,2,,https://my.absa.org/RiskGroups,kingella
+indologenes,2,Kingella indologenes | Old name:  Kingella indologenes,https://my.absa.org/RiskGroups,kingella
+ornithinolytica,2,,https://my.absa.org/RiskGroups,klebsiella
+oxytoca,2,ht,https://my.absa.org/RiskGroups,klebsiella
+ozaenae,2,(Klebsiella pneumoniae subsp. ozaenae),https://my.absa.org/RiskGroups,klebsiella
+pneumoniae,2,"(subsp. ozaenae, pneumoniae, rhinoscleromatis) | (including: subsp. pneumoniae, ozaenae, rhinoscleromatis",https://my.absa.org/RiskGroups,klebsiella
+rhinoscleromatis,2,refer to Klebsiella pneumoniae subsp. rhinoscleromatis,https://my.absa.org/RiskGroups,klebsiella
+spp.,2,All species except K. oxytoca (RG1),https://my.absa.org/RiskGroups,klebsiella
+ascorbata,2,,https://my.absa.org/RiskGroups,kluyvera
+cryocrescens,2,,https://my.absa.org/RiskGroups,kluyvera
+georgiana,2,TMP,https://my.absa.org/RiskGroups,kluyvera
+trabulsii,2,,https://my.absa.org/RiskGroups,koserella
+catenaformis,2,,https://my.absa.org/RiskGroups,lactobacillus
+rhamnosus,2,TA | PIIC,https://my.absa.org/RiskGroups,lactobacillus
+uli,2,,https://my.absa.org/RiskGroups,lactobacillus
+garvieae,2,ht | PV,https://my.absa.org/RiskGroups,lactococcus
+intracellularis,2,t | PV,https://my.absa.org/RiskGroups,lawsonia
+adecarboxylata,2,,https://my.absa.org/RiskGroups,leclercia
+anisa,2,All species and all Legionella-like organisms,https://my.absa.org/RiskGroups,legionella
+birminghamensis,2,All species and all Legionella-like organisms,https://my.absa.org/RiskGroups,legionella
+cincinnatiensis,2,All species and all Legionella-like organisms,https://my.absa.org/RiskGroups,legionella
+feeleii,2,All species and all Legionella-like organisms,https://my.absa.org/RiskGroups,legionella
+hackeliae,2,All species and all Legionella-like organisms,https://my.absa.org/RiskGroups,legionella
+jordanis,2,All species and all Legionella-like organisms,https://my.absa.org/RiskGroups,legionella
+lansingensis,2,All species and all Legionella-like organisms,https://my.absa.org/RiskGroups,legionella
+longbeachae,2,All species and all Legionella-like organisms,https://my.absa.org/RiskGroups,legionella
+parisiensis,2,+ | All species and all Legionella-like organisms | PIIC,https://my.absa.org/RiskGroups,legionella
+pneumophila,2,"(subsp. fraseri, pascullei, pneumophila) | All species and all Legionella-like organisms",https://my.absa.org/RiskGroups,legionella
+sainthelensi,2,All species and all Legionella-like organisms,https://my.absa.org/RiskGroups,legionella
+tucsonensis,2,All species and all Legionella-like organisms | (formerly Legionella),https://my.absa.org/RiskGroups,legionella
+wadsworthii,2,All species and all Legionella-like organisms,https://my.absa.org/RiskGroups,legionella
+maceachernii,2,Legionella maceachernii | Old name:Legionella maceachernii,https://my.absa.org/RiskGroups,legionella
+micdadei,2,Legionella micdadei | Old name:Legionella micdadei,https://my.absa.org/RiskGroups,legionella
+aethiopica,2,"Z | AHH, ZOP",https://my.absa.org/RiskGroups,leishmania
+braziliensis,3,"(**) | Z | **, AHH, OST, IVE, ZOP",https://my.absa.org/RiskGroups,leishmania
+donovani,3,"(**) | Z | **, AHH, OST, IVE, ZOP",https://my.absa.org/RiskGroups,leishmania
+major,2,"Z | AHH, ZOP",https://my.absa.org/RiskGroups,leishmania
+mexicana,2,"RG 3 in animals | Z | AHH, ZOP",https://my.absa.org/RiskGroups,leishmania
+peruviana,2,"Z | AHH, ZOP",https://my.absa.org/RiskGroups,leishmania
+spp.,2,G (mammalian),https://my.absa.org/RiskGroups,leishmania
+tropica,2,"RG 3 in animals | Z | AHH, ZOP",https://my.absa.org/RiskGroups,leishmania
+senegalensis,2,h,https://my.absa.org/RiskGroups,leptosphaeria
+thompkinsii,2,h,https://my.absa.org/RiskGroups,leptosphaeria
+alexanderi,2,RG 3 in animals | +,https://my.absa.org/RiskGroups,leptospira
+borgpetersenii,2,RG 3 in animals | Z,https://my.absa.org/RiskGroups,leptospira
+fainei,2,RG 3 in animals | Z,https://my.absa.org/RiskGroups,leptospira
+inadai,2,RG 3 in animals | Z,https://my.absa.org/RiskGroups,leptospira
+interrogans,2,All serotypes | Can penetrate intact skin. | all serovars | Z,https://my.absa.org/RiskGroups,leptospira
+kirschneri,2,RG 3 in animals | Z,https://my.absa.org/RiskGroups,leptospira
+noguchii,2,RG 3 in animals | Z,https://my.absa.org/RiskGroups,leptospira
+santarosai,2,RG 3 in animals | Z,https://my.absa.org/RiskGroups,leptospira
+weilii,2,RG 3 in animals | Z,https://my.absa.org/RiskGroups,leptospira
+malonatica,2,,https://my.absa.org/RiskGroups,levinea
+africanum,3,PP QUA,https://my.absa.org/RiskGroups,liberobacter
+asiaticum,3,PP QUA,https://my.absa.org/RiskGroups,liberobacter
+ivanovii,2,"Z (subsp. Ivanovii, londoniensis)",https://my.absa.org/RiskGroups,listeria
+monocytogenes,2,May be dangerous for pregnant women. | Z,https://my.absa.org/RiskGroups,listeria
+anguillarum,2,"PV, old name old name Vibrio anguillarum",https://my.absa.org/RiskGroups,listonella
+damsela subsp. damsela,2,Listonella damsela | Z | Old names:  Vibrio damselae ; Listonella damselae,https://my.absa.org/RiskGroups,listonella
+brasiliensis,3,Loboa loboi; mitosporic Onygenaceae | A | h,https://my.absa.org/RiskGroups,loboa
+grisea,2,mitosporic Ascomycota | h,https://my.absa.org/RiskGroups,madurella
+mycetomatis,2,"h, Synonym of Streptothrix mycetomatis; Acladium americanum, M. americana, M. ikedae, obsolute synonym",https://my.absa.org/RiskGroups,madurella
+mycetomi,2,,https://my.absa.org/RiskGroups,madurella
+glucosida,2,,https://my.absa.org/RiskGroups,mannheimia
+granulomatis,2,t,https://my.absa.org/RiskGroups,mannheimia
+haemolytica,2,ht,https://my.absa.org/RiskGroups,mannheimia
+ruminalis,2,,https://my.absa.org/RiskGroups,mannheimia
+varigena,2,t,https://my.absa.org/RiskGroups,mannheimia
+ozzardi,2,,https://my.absa.org/RiskGroups,mansonella
+perstans,2,,https://my.absa.org/RiskGroups,mansonella
+streptocerca,2,Z,https://my.absa.org/RiskGroups,mansonella
+elsdenii,2,ht,https://my.absa.org/RiskGroups,megasphaera
+pluton,3,PI,https://my.absa.org/RiskGroups,melissococcus
+audouinii,2,See Microsporum spp. | Microsporum rivalieri | h | See Microsporum spp.; Allergen,https://my.absa.org/RiskGroups,microsporum
+distortum,2,See Microsporum spp. | dysgonic variant of Microsporum canis | See Microsporum spp.; Allergen,https://my.absa.org/RiskGroups,microsporum
+duboisii,2,See Microsporum spp. | h | See Microsporum spp.; Allergen,https://my.absa.org/RiskGroups,microsporum
+equinum,2,"See Microsporum spp. | variant of Microsporum canis | t | v,h | See Microsporum spp.; Allergen",https://my.absa.org/RiskGroups,microsporum
+ferrugineum,2,See Microsporum spp. | v | See Microsporum spp.; Allergen,https://my.absa.org/RiskGroups,microsporum
+langeroni,2,for spp | Microsporum audouinii,https://my.absa.org/RiskGroups,microsporum
+praecox,2,See Microsporum spp. | h | See Microsporum spp.; Allergen,https://my.absa.org/RiskGroups,microsporum
+rivalieri,2,for spp | Microsporum audouinii,https://my.absa.org/RiskGroups,microsporum
+aerodenitrificans,2,(some strains are RG  1),https://my.absa.org/RiskGroups,microvirgula
+curtisii,2,"(subsp. curtisii,  holmesii)",https://my.absa.org/RiskGroups,mobiluncus
+mulieris,2,,https://my.absa.org/RiskGroups,mobiluncus
+apiospermum,2,Scedosporium apiospermum; teleomorph Pseudallescheria boydii; mitosporic Microascaceae | (obsolete) Scedosporium apiospermum,https://my.absa.org/RiskGroups,monosporium
+atlantae,2,,https://my.absa.org/RiskGroups,moraxella
+caprae,2,PV,https://my.absa.org/RiskGroups,moraxella
+catarrhalis,2,ht,https://my.absa.org/RiskGroups,moraxella
+equi,2,t | PV,https://my.absa.org/RiskGroups,moraxella
+lacunata,2,,https://my.absa.org/RiskGroups,moraxella
+nonliquefaciens,2,,https://my.absa.org/RiskGroups,moraxella
+osloensis,2,ht,https://my.absa.org/RiskGroups,moraxella
+saccharolytica,2,,https://my.absa.org/RiskGroups,moraxella
+ovis,2,t | (refer to Moraxella (Branhamella) ovis),https://my.absa.org/RiskGroups,moraxella
+phenylpyruvicus,2,Old name: Moraxella phenylpyruvica,https://my.absa.org/RiskGroups,moraxella
+anatipestifer,2,Moraxella anatipestifer | t | PV; (Moraxella anatipestifer),https://my.absa.org/RiskGroups,moraxella
+morganii,2,"(subsp. Morganii, sibonii) | (including subsp. morganii, sibonii,",https://my.absa.org/RiskGroups,morganella
+mirabilis,2,ht | (= Morganella morganii subsp. morgan),https://my.absa.org/RiskGroups,morganella
+cerebrosus,2,,https://my.absa.org/RiskGroups,morococcus
+abscessus,2,ht | (old name Mycobacterium chelonae subsp. abscessus),https://my.absa.org/RiskGroups,mycobacterium
+africanum,3,"V | V, Z | Vaccine available",https://my.absa.org/RiskGroups,mycobacterium
+asiaticum,2,ht,https://my.absa.org/RiskGroups,mycobacterium
+avium,2,"RG 3 in animals | Mycobacterium intracellulare | ht (also subsp. avium, paratuberculosis, silvaticum) | (refer to Mycobacterium avium. Including subsp. aviumincluding: subsp.  avium, paratuberculosis, silvaticum)",https://my.absa.org/RiskGroups,mycobacterium
+bovis,3,"Except BCG vaccine strain (RG2) | V, except BCG strain | V, Z | (Except BCG strain)",https://my.absa.org/RiskGroups,mycobacterium
+bovis (BCG strains),3,Vaccine available,https://my.absa.org/RiskGroups,mycobacterium
+branderi,2,,https://my.absa.org/RiskGroups,mycobacterium
+canettii,3,,https://my.absa.org/RiskGroups,mycobacterium
+caprae,3,Z,https://my.absa.org/RiskGroups,mycobacterium
+celatum,2,2 | ht,https://my.absa.org/RiskGroups,mycobacterium
+chelonae,2,"t | (old name old name Mycobacterium chelonae subsp. Chelonae. Including subsp. abscessus, chelonae)",https://my.absa.org/RiskGroups,mycobacterium
+conspicuum,2,,https://my.absa.org/RiskGroups,mycobacterium
+farcinogenes,2,t | PV,https://my.absa.org/RiskGroups,mycobacterium
+flavescens,2,ht,https://my.absa.org/RiskGroups,mycobacterium
+fortuitum,2,"(subsp. Acetamidolyticum, fortuitum) | (including subsp. acetamidolyticum,  fortuitum)",https://my.absa.org/RiskGroups,mycobacterium
+gastri,2,,https://my.absa.org/RiskGroups,mycobacterium
+genavense,2,ht,https://my.absa.org/RiskGroups,mycobacterium
+gordonae,2,ht+ | PIIC,https://my.absa.org/RiskGroups,mycobacterium
+haemophilum,2,ht,https://my.absa.org/RiskGroups,mycobacterium
+heidelbergense,2,,https://my.absa.org/RiskGroups,mycobacterium
+interjectum,2,,https://my.absa.org/RiskGroups,mycobacterium
+intermedium,2,,https://my.absa.org/RiskGroups,mycobacterium
+intracellulare,2,ht,https://my.absa.org/RiskGroups,mycobacterium
+kansasii,2,ht,https://my.absa.org/RiskGroups,mycobacterium
+lentiflavum,2,,https://my.absa.org/RiskGroups,mycobacterium
+leprae,3,ht | Vaccine available,https://my.absa.org/RiskGroups,mycobacterium
+lepraemurium,3,t | PV,https://my.absa.org/RiskGroups,mycobacterium
+malmoense,3,ht,https://my.absa.org/RiskGroups,mycobacterium
+marinum,2,Z,https://my.absa.org/RiskGroups,mycobacterium
+microti,3,: (*) | ** | Z | *,https://my.absa.org/RiskGroups,mycobacterium
+mucogenicum,2,,https://my.absa.org/RiskGroups,mycobacterium
+novocastrense,2,,https://my.absa.org/RiskGroups,mycobacterium
+paratuberculosis,2,,https://my.absa.org/RiskGroups,mycobacterium
+peregrinum,2,ht | PIIC,https://my.absa.org/RiskGroups,mycobacterium
+pinnipedii,3,Z,https://my.absa.org/RiskGroups,mycobacterium
+porcinum,2,ht | PV,https://my.absa.org/RiskGroups,mycobacterium
+scrofulaceum,2,ht,https://my.absa.org/RiskGroups,mycobacterium
+senegalense,2,t | PV,https://my.absa.org/RiskGroups,mycobacterium
+shimoidei,2,,https://my.absa.org/RiskGroups,mycobacterium
+simiae,2,ht,https://my.absa.org/RiskGroups,mycobacterium
+spp.,2,f: High risk of aerosol spread.,https://my.absa.org/RiskGroups,mycobacterium
+szulgai,3,ht,https://my.absa.org/RiskGroups,mycobacterium
+triplex,2,TMP,https://my.absa.org/RiskGroups,mycobacterium
+tuberculosis,3,"c: Vaccination, sec Clause 2.6.4.; d: Respiratory protection should be considered.; e: Greater than 5000 cultures per year, susceptibility testing, known multi-drug resistant strains. See references in Clause 3.3.2.1. | V | V, Z | (Including subsp. caprae and subsp. tuberculosis ) | Vaccine available",https://my.absa.org/RiskGroups,mycobacterium
+tusciae,2,,https://my.absa.org/RiskGroups,mycobacterium
+ulcerans,3,: (*) | ** | *,https://my.absa.org/RiskGroups,mycobacterium
+vaccae,2,ht | PV,https://my.absa.org/RiskGroups,mycobacterium
+wolinskyi,2,,https://my.absa.org/RiskGroups,mycobacterium
+xenopi,2,ht,https://my.absa.org/RiskGroups,mycobacterium
+adleri,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+agalactiae,3,Restricted animal pathogen | t3 | PV,https://my.absa.org/RiskGroups,mycoplasma
+alkalescens,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+anatis,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+arginini,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+arthritidis,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+bovigenitalium,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+bovirhinis,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+bovoculi,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+buteonis,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+californicum,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+canadense,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+capricolum,2,t | PV; subsp. Capricolum is RG 2 and subsp. Capripneumoniae is RG3,https://my.absa.org/RiskGroups,mycoplasma
+caviae,2,ht+,https://my.absa.org/RiskGroups,mycoplasma
+collis,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+columbinasale,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+conjunctivae,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+corogypsi,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+crocodyli,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+cynos,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+dispar,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+edwardii,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+equigenitalium,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+equirhinis,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+falconis,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+felis,2,Z | PV,https://my.absa.org/RiskGroups,mycoplasma
+fermentans,2,,https://my.absa.org/RiskGroups,mycoplasma
+flocculare,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+gallinarum,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+gallisepticum,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+gallopavonis,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+gateae,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+genitalium,2,,https://my.absa.org/RiskGroups,mycoplasma
+glycophilum,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+gypis,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+hominis,2,ht,https://my.absa.org/RiskGroups,mycoplasma
+hyopneumoniae,2,t | PV; old name old name Mycoplasma suipneumoniae,https://my.absa.org/RiskGroups,mycoplasma
+hyorhinis,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+hyosynoviae,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+imitans,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+iowae,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+lipofaciens,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+maculosum,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+meleagridis,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+mycoides,2,Restricted animal pathogen | t3,https://my.absa.org/RiskGroups,mycoplasma
+mycoides subsp.capri,3,t3 | PV,https://my.absa.org/RiskGroups,mycoplasma
+mycoides subsp.myocoides,3,"t3 | PV, EPD",https://my.absa.org/RiskGroups,mycoplasma
+ovipneumoniae,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+penetrans,2,,https://my.absa.org/RiskGroups,mycoplasma
+phocacerebrale,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+phocarhinis,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+phocidae,2,PV,https://my.absa.org/RiskGroups,mycoplasma
+pneumoniae,2,f: High risk of aerosol spread.,https://my.absa.org/RiskGroups,mycoplasma
+primatum,2,+ | PIIC,https://my.absa.org/RiskGroups,mycoplasma
+pulmonis,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+putrefasciens,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+salivarium,2,,https://my.absa.org/RiskGroups,mycoplasma
+spumans,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+sturni,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+synoviae,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+verecundum,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+neurolyticum,2,t | PV,https://my.absa.org/RiskGroups,mycoplasma
+odoratimimus,2,,https://my.absa.org/RiskGroups,myroides
+australiensis,2,,https://my.absa.org/RiskGroups,naegleria
+fowleri,3,"G, C | AHH, PAM",https://my.absa.org/RiskGroups,naegleria
+gruberi,1,,https://my.absa.org/RiskGroups,naegleria
+spp,2,AHH,https://my.absa.org/RiskGroups,naegleria
+americanus,2,Z | AHH,https://my.absa.org/RiskGroups,necator
+spp,2,"Human hookworms | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,necator
+elongata,1,"+ | subsp. Elongata RG 1, PIIC; subsp. Glycolytica RG 1, PIIC; subsp. Nitroreducens RG 2",https://my.absa.org/RiskGroups,neisseria
+gonorrhoeae,2,,https://my.absa.org/RiskGroups,neisseria
+iguanae,2,t | PV,https://my.absa.org/RiskGroups,neisseria
+lactamica,2,+,https://my.absa.org/RiskGroups,neisseria
+meningitidis,2,"b: Low infectious dose, high pathogenicity, common source of laboratory-acquired infections.; f: High risk of aerosol spread. | V | Vaccine available",https://my.absa.org/RiskGroups,neisseria
+mucosa,2,,https://my.absa.org/RiskGroups,neisseria
+sicca,2,TA,https://my.absa.org/RiskGroups,neisseria
+subflava,2,,https://my.absa.org/RiskGroups,neisseria
+weaveri,2,,https://my.absa.org/RiskGroups,neisseria
+helminthoeca,2,t | PV,https://my.absa.org/RiskGroups,neorickettsia
+rosatii,2,Fungi; Ascomycota; Incertae sedis; Incertae sedis; Testinaceae | h,https://my.absa.org/RiskGroups,neotestudina
+asteroides,2,ht,https://my.absa.org/RiskGroups,nocardia
+brasiliensis,2,ht,https://my.absa.org/RiskGroups,nocardia
+farcinica,2,ht,https://my.absa.org/RiskGroups,nocardia
+nova,2,ht,https://my.absa.org/RiskGroups,nocardia
+otitidiscaviarum,2,ht,https://my.absa.org/RiskGroups,nocardia
+pseudobrasiliensis,2,,https://my.absa.org/RiskGroups,nocardia
+salmonicida,2,t2 | PV,https://my.absa.org/RiskGroups,nocardia
+seriolae,2,t2 | PV,https://my.absa.org/RiskGroups,nocardia
+transvalensis,2,,https://my.absa.org/RiskGroups,nocardia
+dassonvillei,2,"(including  subsp. dassonvillei, prasina)",https://my.absa.org/RiskGroups,nocardiopsis
+anthropi,2,"TA, ht | TA",https://my.absa.org/RiskGroups,ochrobactrum
+gallopava,3,"RG 2 in animals | v,h",https://my.absa.org/RiskGroups,ochroconis
+dentatum,2,t2,https://my.absa.org/RiskGroups,oesophagostomum
+spp,2,"Filaria worms | AAH, AHH",https://my.absa.org/RiskGroups,onchocerca
+volvulus,2,AHH,https://my.absa.org/RiskGroups,onchocerca
+felineus,2,"Opisthorchis spp. | Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,opisthorchis
+spp,2,Opisthorchis spp. | AHH,https://my.absa.org/RiskGroups,opisthorchis
+rhinotracheale,2,t | PV,https://my.absa.org/RiskGroups,ornithobacterium
+Avian influenza virus (Fowl plague),3,Exotic pathogenic strains | RG 3 in animals,https://my.absa.org/RiskGroups,orthomyxoviridae
+Dhori virus (DHOV),3,Tick-borne orthomyxoviridae,https://my.absa.org/RiskGroups,orthomyxoviridae
+Equine influenza virus 1 (H7N7) and 2 (H3N8),2,RG 3 in animals,https://my.absa.org/RiskGroups,orthomyxoviridae
+Influenza virus,2,"Types A, B, and C (Except those listed in Appendix B-III-D (1918-1919 H1N1 (1918 H1N1), human H2N2 (1957-1968), and highly pathogenic avian influenza H5N1 strains within the Goose/Guangdong/96-like H5 lineage (HPAI H5N1) (RG3)) | (execept pathogenic avian influenza, equine influenza, swine influenza (quarantine requirements)) | Types A, B, C | (types A, B and C), V, (c) | PM PHV PH | Vaccine available  (Types A, B, C)",https://my.absa.org/RiskGroups,orthomyxoviridae
+Influenza virus (vaccine strain),2,,https://my.absa.org/RiskGroups,orthomyxoviridae
+Seal influenza virus A,3,,https://my.absa.org/RiskGroups,orthomyxoviridae
+Swine influenza virus A,2,,https://my.absa.org/RiskGroups,orthomyxoviridae
+Thogoto virus,3,Tick-borne orthomyxoviridae | PHV,https://my.absa.org/RiskGroups,orthomyxoviridae
+Tick-borne orthomyxoviridae,2,Dhori- and Thogoto | (Dhori and Thogota); see previous edition,https://my.absa.org/RiskGroups,orthomyxoviridae
+Influenza A virus subtype H5N1,3,,https://my.absa.org/RiskGroups,orthomyxoviridae
+Influenza A virus subtype H7N9,3,,https://my.absa.org/RiskGroups,orthomyxoviridae
+1918 Pandemic Influenza virus,4,,https://my.absa.org/RiskGroups,orthomyxoviridae
+variotii,2,"mitosporic Trichocomaceae | A | h ;P. indicus, obsolete synonym; Penicillium aureo-cinnamomeum, obsolete synonym; Penicillium divaricatum, obsolete synonym; Spicaria divaricata, obsolete synonym",https://my.absa.org/RiskGroups,paecilomyces
+popilliae,2,n,https://my.absa.org/RiskGroups,paenibacillus
+stewartii,2,"p | PP, QUA",https://my.absa.org/RiskGroups,pantoea
+BK and JC viruses,2,"D, (d) | PH",https://my.absa.org/RiskGroups,papovaviridae
+Bovine papilloma virus,2,"For strains that are infectious to human cells, otherwise RG1 | t2 | PM",https://my.absa.org/RiskGroups,papovaviridae
+Bovine papilloma virus,2,"For strains that are infectious to human cells, otherwise RG1 | t2",https://my.absa.org/RiskGroups,papovaviridae
+Bovine polyomavirus (BpoV),2,,https://my.absa.org/RiskGroups,papovaviridae
+Cotton rabbit papilloma virus,2,PM,https://my.absa.org/RiskGroups,papovaviridae
+Hamster (HaP virus),2,t2,https://my.absa.org/RiskGroups,papovaviridae
+Leopard frog papovavirus,2,I 4 to 5,https://my.absa.org/RiskGroups,papovaviridae
+"Monkey (SV40, SA-12, STMV, LPV)",2,,https://my.absa.org/RiskGroups,papovaviridae
+Mouse (K virus),2,Murine polyomavirus,https://my.absa.org/RiskGroups,papovaviridae
+Papillomaviruses (HPV),2,"D, (d) | PH",https://my.absa.org/RiskGroups,papovaviridae
+"Papillomaviruses of dog, rabbit (Shope papillomavirus), horse, cat, cattle and goat",2,"For strains that are infectious to human cells, otherwise RG1",https://my.absa.org/RiskGroups,papovaviridae
+Polyoma virus,2,"For strains that are infectious to human cells, otherwise RG1 | PM PH PHV",https://my.absa.org/RiskGroups,papovaviridae
+Rabbit (RK virus),2,Rabbit kidney vacuolating virus | t2,https://my.absa.org/RiskGroups,papovaviridae
+Shope papilloma virus,2,t2,https://my.absa.org/RiskGroups,papovaviridae
+Simian virus 40 (SV40),2,"For strains that are infectious to human cells, otherwise RG1 | PHV",https://my.absa.org/RiskGroups,papovaviridae
+westermanii,2,Z,https://my.absa.org/RiskGroups,paragonimus
+Avian paramyxovirus (not 1),2,2 through 9 | t2 | PM,https://my.absa.org/RiskGroups,paramyxoviridae
+Avian paramyxovirus 1 (Newcastle Disease Virus),2,RG 3 in animals | EPD; PHV; equal synonym Avian parainfluenza virus 1,https://my.absa.org/RiskGroups,paramyxoviridae
+Bovine respiratory syncytial virus (BRSV),2,t2 | PM,https://my.absa.org/RiskGroups,paramyxoviridae
+Canine distemper virus (Carre's virus),3,t2 | PM,https://my.absa.org/RiskGroups,paramyxoviridae
+Equine morbillivirus (EMV) (see Hendra virus),4,"Hendra virus | RG 3 in animals; See Hendra | NYR, PHV",https://my.absa.org/RiskGroups,paramyxoviridae
+Hendra virus,4,"RG 3 in animals | NYR, PHV",https://my.absa.org/RiskGroups,paramyxoviridae
+Human metapneumonovirus,2,,https://my.absa.org/RiskGroups,paramyxoviridae
+Mapuera,3,t2,https://my.absa.org/RiskGroups,paramyxoviridae
+Measles virus,2,Vaccination available | V | PH | Vaccine available,https://my.absa.org/RiskGroups,paramyxoviridae
+Menangle,2,NULL; see previous edition,https://my.absa.org/RiskGroups,paramyxoviridae
+Morbillivirus,4,Classified under SAPO,https://my.absa.org/RiskGroups,paramyxoviridae
+Mumps virus,2,Vaccination available | V | PH | Vaccine available,https://my.absa.org/RiskGroups,paramyxoviridae
+Newcastle disease virus,3,"exotic strains, (non-virulent endemic strains are RG2) | RG 3 in animals | EPD PHV | Classified under SAPO",https://my.absa.org/RiskGroups,paramyxoviridae
+Nipah virus,4,RG 3 in animals | NYR,https://my.absa.org/RiskGroups,paramyxoviridae
+Parainfluenza viruses,2,"Types 1, 2, 3, and 4 | Human Types 2,4 | Types 1-4 | types 1-4 | PM, PHV | Types 1 and 3",https://my.absa.org/RiskGroups,paramyxoviridae
+Peste des petits ruminants virus (PPRV),4,t4 | EPD; PM,https://my.absa.org/RiskGroups,paramyxoviridae
+Phocine distemper virus,3,t2 | PM; Seal distemper virus,https://my.absa.org/RiskGroups,paramyxoviridae
+Pneumonia virus of mice,2,Murine pneumonia | t2 | PM,https://my.absa.org/RiskGroups,paramyxoviridae
+Respiratory syncytial virus,2,PH (human),https://my.absa.org/RiskGroups,paramyxoviridae
+Rinderpest virus (Cattle plague virus),4,t4 | EPD; PM,https://my.absa.org/RiskGroups,paramyxoviridae
+Sendai virus (murine parainfluenza virus type 1),2,t2 | PM,https://my.absa.org/RiskGroups,paramyxoviridae
+Turkey rhinotracheitis (TRT),2,PM; Avian pneumovirus,https://my.absa.org/RiskGroups,paramyxoviridae
+Adeno-associated viruses AAV,2,"AAV 2, 3, and 5 RG1 AAV 1, 4, 6, 11 RG2 | PH, AAV",https://my.absa.org/RiskGroups,parvoviridae
+Aleutian mink disease virus,3,t2 | PM; equal synonym Aleutian diesease virus,https://my.absa.org/RiskGroups,parvoviridae
+Animal parvoviruses,2,PM,https://my.absa.org/RiskGroups,parvoviridae
+Canine parvovirus (CPV),2,PM,https://my.absa.org/RiskGroups,parvoviridae
+Feline panleukopenia virus,2,t2 | PM,https://my.absa.org/RiskGroups,parvoviridae
+Goose parvovirus,2,,https://my.absa.org/RiskGroups,parvoviridae
+Hamster H-1 virus,2,H-1 parvovirus | t2,https://my.absa.org/RiskGroups,parvoviridae
+Kilham rat virus (KRV),2,t2 | PM; equal synonym Rat virus,https://my.absa.org/RiskGroups,parvoviridae
+Lapine parvovirus,2,,https://my.absa.org/RiskGroups,parvoviridae
+Mink enteritis virus,3,t2 | PM,https://my.absa.org/RiskGroups,parvoviridae
+Parvovirus,2,(B19) | May be teratogenic | B19 | Parvovirus,https://my.absa.org/RiskGroups,parvoviridae
+Porcine parvovirus,2,t2 | PM,https://my.absa.org/RiskGroups,parvoviridae
+bettyae,2,,https://my.absa.org/RiskGroups,pasteurella
+caballi,2,Z | PV,https://my.absa.org/RiskGroups,pasteurella
+canis,2,Z,https://my.absa.org/RiskGroups,pasteurella
+dagmatis,2,Z,https://my.absa.org/RiskGroups,pasteurella
+gallinarum,2,PV,https://my.absa.org/RiskGroups,pasteurella
+granulomatis,2,PV,https://my.absa.org/RiskGroups,pasteurella
+haemolytica,2,,https://my.absa.org/RiskGroups,pasteurella
+lymphangitidis,2,t | PV,https://my.absa.org/RiskGroups,pasteurella
+mairii,2,t | PV,https://my.absa.org/RiskGroups,pasteurella
+multocida,3,"Type B -""buffalo"" and other virulent strains | RG 3 in animals | Z (subsp. gallicida, multicoda, septica) | (including subsp. gallicida, multocida, septica",https://my.absa.org/RiskGroups,pasteurella
+pneumotropica,2,,https://my.absa.org/RiskGroups,pasteurella
+stomatis,2,Z,https://my.absa.org/RiskGroups,pasteurella
+testudinis,2,t | PV,https://my.absa.org/RiskGroups,pasteurella
+trehalosi,2,PV,https://my.absa.org/RiskGroups,pasteurella
+marneffei,3,"A | h,v",https://my.absa.org/RiskGroups,penicillium
+niger,2,ht,https://my.absa.org/RiskGroups,peptococcus
+anaerobius,2,ht | old name  Peptococcus anaerobius,https://my.absa.org/RiskGroups,peptococcus
+asaccharolyticus,2,old name | old name Peptococcus asaccharolyticus,https://my.absa.org/RiskGroups,peptococcus
+indolicus,2,"old name | PV, old name Peptococcus indolicus",https://my.absa.org/RiskGroups,peptococcus
+magnus,2,old name Peptococcus magnus,https://my.absa.org/RiskGroups,peptococcus
+micros,2,old name Peptococcus glycinophilus,https://my.absa.org/RiskGroups,peptococcus
+prevotii,2,Anaerococcus prevotii | (Peptococcus prevotii),https://my.absa.org/RiskGroups,peptococcus
+saccharolyticus,2,(Peptococcus saccharolyticus),https://my.absa.org/RiskGroups,peptococcus
+harei,2,old name,https://my.absa.org/RiskGroups,peptostreptococcus
+ivorii,2,old name,https://my.absa.org/RiskGroups,peptostreptococcus
+lacrimalis,2,old name,https://my.absa.org/RiskGroups,peptostreptococcus
+vaginalis,2,Anaerococcus vaginalis,https://my.absa.org/RiskGroups,peptostreptococcus
+verrucosa,2,"h, v; Cadophora americana, obsolete synonym; P. americana, synonym",https://my.absa.org/RiskGroups,phialophora
+damsela subsp. piscida,2,t2 | PV,https://my.absa.org/RiskGroups,photobacterium
+cinnamomi,3,based on previous edition | p,https://my.absa.org/RiskGroups,phytophthora
+Acute haemorrhagic conjunctivitis virus (AHC),2,Synonyms: Coxsackievirus CA24 (A24); Enterovirus 70,https://my.absa.org/RiskGroups,picornaviridae
+Aphthovirus,2,,https://my.absa.org/RiskGroups,picornaviridae
+Avian encephalomyelitis virus,3,t2,https://my.absa.org/RiskGroups,picornaviridae
+Bovine enteroviruses types 1-7,2,t2 | PM,https://my.absa.org/RiskGroups,picornaviridae
+Bovine rhinoviruses (Types 1 to 3),2,t2,https://my.absa.org/RiskGroups,picornaviridae
+Cardiovirus,2,Encephalomyocarditis virus | PHV PM,https://my.absa.org/RiskGroups,picornaviridae
+Coxsackie virus,2,PH,https://my.absa.org/RiskGroups,picornaviridae
+Duck hepatitis virus,2,PM,https://my.absa.org/RiskGroups,picornaviridae
+Echo virus,2,All types,https://my.absa.org/RiskGroups,picornaviridae
+Echoviruses,2,PH,https://my.absa.org/RiskGroups,picornaviridae
+Encephalomyocarditis virus,2,NULL; see previous edition | PHV,https://my.absa.org/RiskGroups,picornaviridae
+Enterovirus,2,"Enterovirus 70 | V | PM, PH",https://my.absa.org/RiskGroups,picornaviridae
+Equine rhinoviruses (Types 1 to 3),2,See also: Equine rhinitis A virus | t2 | PM,https://my.absa.org/RiskGroups,picornaviridae
+Foot and mouth disease virus,4,t4 | EPD,https://my.absa.org/RiskGroups,picornaviridae
+Hepatitis A virus,2,"V, Human enterovirus type 72 | Vaccine available",https://my.absa.org/RiskGroups,picornaviridae
+Monkey enteroviruses (SEV),2,t2,https://my.absa.org/RiskGroups,picornaviridae
+"Murine poliovirus (Theiler's encephalomyelitis virus, TO, FA, GD7)",2,,https://my.absa.org/RiskGroups,picornaviridae
+Parecho,2,,https://my.absa.org/RiskGroups,picornaviridae
+Picornaviruses of crustaceans and molluscs,2,,https://my.absa.org/RiskGroups,picornaviridae
+Picornaviruses of fishes,2,,https://my.absa.org/RiskGroups,picornaviridae
+"Picornaviruses of insects (e.g. Drosophila C virus, Cricket paralysis virus)",2,,https://my.absa.org/RiskGroups,picornaviridae
+"Picornavirus-like viruses (e.g. Bee acute paralysis virus, bee viruses X and Y)",2,,https://my.absa.org/RiskGroups,picornaviridae
+Poliovirus,3,"All types, wild and attenuated | V (Type 1, 2, and 3 (see specific clause in regulation)) | V | Except for Sabin Type-1, Type-2, and Type-3 | PH POL | Vaccine available",https://my.absa.org/RiskGroups,picornaviridae
+Porcine enterovirus type 1 (Teschen disease),3,t2,https://my.absa.org/RiskGroups,picornaviridae
+Rhinovirus,2,PH,https://my.absa.org/RiskGroups,picornaviridae
+Swine vesicular disease virus,2,RG 3 in animals | t3 | EPD,https://my.absa.org/RiskGroups,picornaviridae
+Turkey hepatitis virus,2,,https://my.absa.org/RiskGroups,picornaviridae
+salmonis,2,t2 | PV,https://my.absa.org/RiskGroups,piscirickettsia
+cynomologi,2,Z,https://my.absa.org/RiskGroups,plasmodium
+falciparum,3,"* | (**) | **, AHH, OST, IVE",https://my.absa.org/RiskGroups,plasmodium
+malariae,2,,https://my.absa.org/RiskGroups,plasmodium
+ovale,2,,https://my.absa.org/RiskGroups,plasmodium
+simian parasites,2,,https://my.absa.org/RiskGroups,plasmodium
+spp,2,"(human & simian) | (human,simian) | AHH, AAH",https://my.absa.org/RiskGroups,plasmodium
+vivax,2,,https://my.absa.org/RiskGroups,plasmodium
+shigelloides,2,ht,https://my.absa.org/RiskGroups,plesiomonas
+carinii,2,AAH AHH ZOP,https://my.absa.org/RiskGroups,pneumocystis
+jirovecii,2,"h, v",https://my.absa.org/RiskGroups,pneumocystis
+asaccharolytica,2,ht,https://my.absa.org/RiskGroups,porphyromonas
+cangingivalis,2,t | PV,https://my.absa.org/RiskGroups,porphyromonas
+canoris,2,ht | PV,https://my.absa.org/RiskGroups,porphyromonas
+cansulci,2,PV,https://my.absa.org/RiskGroups,porphyromonas
+catoniae,2,Oribaculum catoniae | Old name: Oribaculum catoniae,https://my.absa.org/RiskGroups,porphyromonas
+circumdentaria,2,t | PV,https://my.absa.org/RiskGroups,porphyromonas
+crevioricanis,2,t | PV; TMP,https://my.absa.org/RiskGroups,porphyromonas
+gingivicanis,2,t | PV; TMP,https://my.absa.org/RiskGroups,porphyromonas
+Alastrim (Variola minor),4,"V | PH, VAR | Vaccine available All strains including Whitepox virus",https://my.absa.org/RiskGroups,poxviridae
+Ausdyk (contagious ecthyma of camels),2,,https://my.absa.org/RiskGroups,poxviridae
+Avipoxviruses (other),2,,https://my.absa.org/RiskGroups,poxviridae
+Buffalopox virus,2,e | PHV,https://my.absa.org/RiskGroups,poxviridae
+Camel pox virus,3,PM,https://my.absa.org/RiskGroups,poxviridae
+Chamois contagious ecthyma,2,,https://my.absa.org/RiskGroups,poxviridae
+Cowpox virus,2,PHV,https://my.absa.org/RiskGroups,poxviridae
+Ectromelia virus,3,t2 | PM,https://my.absa.org/RiskGroups,poxviridae
+Elephantpox virus,2,f,https://my.absa.org/RiskGroups,poxviridae
+Entomopoxviruses,2,,https://my.absa.org/RiskGroups,poxviridae
+Fibroma viruses,2,,https://my.absa.org/RiskGroups,poxviridae
+Fowlpox virus,2,,https://my.absa.org/RiskGroups,poxviridae
+Goat pox virus,3,"t2 | EPD, PM",https://my.absa.org/RiskGroups,poxviridae
+Horsepox virus,2,RG 3 in animals,https://my.absa.org/RiskGroups,poxviridae
+Lumpy skin disease virus,3,"t3 | EPD, PM",https://my.absa.org/RiskGroups,poxviridae
+Milker's node virus,2,PHV,https://my.absa.org/RiskGroups,poxviridae
+Molluscum contagiosum virus,2,PH,https://my.absa.org/RiskGroups,poxviridae
+Monkeypox virus,3,V | PHV | Vaccine available,https://my.absa.org/RiskGroups,poxviridae
+Myxoma virus,3,t2 | PM,https://my.absa.org/RiskGroups,poxviridae
+Orf virus,2,PHV,https://my.absa.org/RiskGroups,poxviridae
+other pathogenic orthopoxviruses not in RG 2 or 4,2,,https://my.absa.org/RiskGroups,poxviridae
+Paravaccinia virus,2,PHV,https://my.absa.org/RiskGroups,poxviridae
+"Pseudocowpox viruses (bovine papular stomatitis, milker's nodes, paravaccinia)",2,PHV,https://my.absa.org/RiskGroups,poxviridae
+Rabbitpox virus,2,"RG 3 in animals | g | PH, VAR",https://my.absa.org/RiskGroups,poxviridae
+Racoonpox,2,t2,https://my.absa.org/RiskGroups,poxviridae
+Sealpox virus,2,,https://my.absa.org/RiskGroups,poxviridae
+Sheeppox virus,3,"t3 | EPD, PM",https://my.absa.org/RiskGroups,poxviridae
+Smallpox (Variola major),4,"Prohibited | V | PH, VAR",https://my.absa.org/RiskGroups,poxviridae
+Swinepox virus,2,t2 | PM,https://my.absa.org/RiskGroups,poxviridae
+Tanapox,2,PHV,https://my.absa.org/RiskGroups,poxviridae
+Taterapox (Gerbilpox),2,t2,https://my.absa.org/RiskGroups,poxviridae
+Uasin Gishu disease virus,2,t2,https://my.absa.org/RiskGroups,poxviridae
+Vaccinia virus,2,V | PHV | (inc. starins originally classifies as rabbitpox); see previous edition,https://my.absa.org/RiskGroups,poxviridae
+Variola (major and minor) virus,4,"V | PH, VAR",https://my.absa.org/RiskGroups,poxviridae
+Whitepox (Variola),4,V,https://my.absa.org/RiskGroups,poxviridae
+Yabapox virus,2,,https://my.absa.org/RiskGroups,poxviridae
+Yabapox virus (Tana and Yaba),2,PHV,https://my.absa.org/RiskGroups,poxviridae
+Yatapox viruses (Tana & Yaba),2,PHV,https://my.absa.org/RiskGroups,poxviridae
+albensis,2,,https://my.absa.org/RiskGroups,prevotella
+bryantii,2,,https://my.absa.org/RiskGroups,prevotella
+nigrescens,2,,https://my.absa.org/RiskGroups,prevotella
+tannerae,2,,https://my.absa.org/RiskGroups,prevotella
+Bovine spongiform encephalopathy (BSE),3,"**, D, d (and other related animal TSEs), i | ** PHV TSE | *",https://my.absa.org/RiskGroups,prion
+Chronic wasting disease,3,,https://my.absa.org/RiskGroups,prion
+Creutzfeldt-Jacob disease,3,"Biosafety level 3 facilities, practices and containment equipment for activities involving these agents; also listed under biosafety level 2 with special precautions; level of containment will depend on the nature of the manipulations and the amount of sera, bio/necropsy materials handled | **, D, d | ** PH TSE | *",https://my.absa.org/RiskGroups,prion
+Fatal Familial Insomnia,3,(*),https://my.absa.org/RiskGroups,prion
+Gerstmann-Straussler-Scheinker syndrome,3,"**, D, d | ** PH TSE | *",https://my.absa.org/RiskGroups,prion
+Kuru,3,"Biosafety level 3 facilities, practices and containment equipment for activities involving these agents; also listed under biosafety level 2 with special precautions; level of containment will depend on the nature of the manipulations and the amount of sera, bio/necropsy materials handled | **, D, d | ** PH TSE | *",https://my.absa.org/RiskGroups,prion
+Kuru & Creutzfeldt-Jacob agents,3,"Biosafety level 3 facilities, practices and containment equipment for activities involving these agents; also listed under biosafety level 2 with special precautions; level of containment will depend on the nature of the manipulations and the amount of sera, bio/necropsy materials handled | (**), D, d | **, PH, TSE",https://my.absa.org/RiskGroups,prion
+Scrapie,3,"Biosafety level 3 facilities, practices and containment equipment for activities involving these agents; also listed under biosafety level 2 with special precautions; level of containment will depend on the nature of the manipulations and the amount of sera, bio/necropsy materials handled",https://my.absa.org/RiskGroups,prion
+Transmissible mink encephalopathy,3,,https://my.absa.org/RiskGroups,prion
+Variant Creutzfeldt-Jacob disease,3,"Biosafety level 3 facilities, practices and containment equipment for activities involving these agents; also listed under biosafety level 2 with special precautions; level of containment will depend on the nature of the manipulations and the amount of sera, bio/necropsy materials handled | (**), D, d",https://my.absa.org/RiskGroups,prion
+acnes,2,,https://my.absa.org/RiskGroups,propionibacterium
+avidum,2,,https://my.absa.org/RiskGroups,propionibacterium
+granulosum,2,,https://my.absa.org/RiskGroups,propionibacterium
+lymphophilum,2,,https://my.absa.org/RiskGroups,propionibacterium
+inconstans,2,Providencia alcalifaciens | ht | (= Providencia alcalifaciens/stuartii),https://my.absa.org/RiskGroups,proteus
+morganii,2,ht,https://my.absa.org/RiskGroups,proteus
+penneri,2,,https://my.absa.org/RiskGroups,proteus
+rettgeri,2,Providencia rettgeri | (= Providencia rettgeri),https://my.absa.org/RiskGroups,proteus
+vulgaris,2,,https://my.absa.org/RiskGroups,proteus
+alcalifaciens,2,old name | ht | (= Proteus inconstans),https://my.absa.org/RiskGroups,proteus
+rettgeri,2,Proteus rettgeri | (= Proteus rettgeri),https://my.absa.org/RiskGroups,proteus
+stuartii,2,(= Proteus inconstans),https://my.absa.org/RiskGroups,proteus
+rustigianii,2,,https://my.absa.org/RiskGroups,providencia
+boydii,2,"Allescheria boydii; mitosporic state : Scedosporium apiospermum | Scedosporium apiospermum | t | h, v; teleomorph of Graphium eumorphum; teleomorph of Scedosporium apiospermum ;Allescheria boydii, obsolete synonym ; Petriellidium boydii, obsolete synonym; P. sheari, obsolete synonym | See Scedosporium apiospermum",https://my.absa.org/RiskGroups,pseudallescheria
+apiospermum,2,"for spp | teleomorph : Pseudoallescheria boydii; mitosporic Microascaceae | Pseudallescheria boydii | t | h,v | formerly Pseudallescheria boydii",https://my.absa.org/RiskGroups,pseudallescheria
+piscicida,2,t2 | PV,https://my.absa.org/RiskGroups,pseudoalteromonas
+aeruginosa,2,"ht, T",https://my.absa.org/RiskGroups,pseudomonas
+anguilliseptica,2,t2 | PV,https://my.absa.org/RiskGroups,pseudomonas
+luteola,2,lower priority synonym: Chryseomonas luteola,https://my.absa.org/RiskGroups,pseudomonas
+mendocina,2,,https://my.absa.org/RiskGroups,pseudomonas
+oryzihabitans,2,lower priority synonym: Flavimonas oryzihabitans,https://my.absa.org/RiskGroups,pseudomonas
+syringae pv. persicae,2,PP; QUA,https://my.absa.org/RiskGroups,pseudomonas
+syringae pv. pisi,3,,https://my.absa.org/RiskGroups,pseudomonas
+paucimobilis,2,Pseudomonas paucimobilis | Old name: Pseudomonas paucimobilis,https://my.absa.org/RiskGroups,pseudomonas
+decipiens,2,Z | AAH AHH ZOP,https://my.absa.org/RiskGroups,pseudoterranova
+picketti,2,PIIC,https://my.absa.org/RiskGroups,ralstonia
+salmoninarum,3,t2 | PV,https://my.absa.org/RiskGroups,renibacterium
+(Ortho) reoviruses,2,Listed under Orthopoxvirus,https://my.absa.org/RiskGroups,reoviridae
+African horse sickness virus,3,"t3 | EPD, PM",https://my.absa.org/RiskGroups,reoviridae
+Bluetongue virus,3,endemic strains | t2/t3 | EPD PM,https://my.absa.org/RiskGroups,reoviridae
+Changuinola,2,PH,https://my.absa.org/RiskGroups,reoviridae
+Colorado tick fever virus,2,PHV,https://my.absa.org/RiskGroups,reoviridae
+Coltiviruses,2,,https://my.absa.org/RiskGroups,reoviridae
+Epizootic hemorrhagic disease in deer (EHD),3,endemic strains | t3 | PM,https://my.absa.org/RiskGroups,reoviridae
+Golden shiner virus disease (GSV),3,,https://my.absa.org/RiskGroups,reoviridae
+Ibaraki virus,3,PM,https://my.absa.org/RiskGroups,reoviridae
+"Mouse rotavirus (EDIM, epizootic diarhoea of infant mice)",2,,https://my.absa.org/RiskGroups,reoviridae
+Orbiviruses,2,Colorado tick fever virus,https://my.absa.org/RiskGroups,reoviridae
+Orungo virus,3,PH,https://my.absa.org/RiskGroups,reoviridae
+Rat rotavirus,2,,https://my.absa.org/RiskGroups,reoviridae
+Rotavirus,2,"PM, PH",https://my.absa.org/RiskGroups,reoviridae
+Rotaviruses for animals (other),2,,https://my.absa.org/RiskGroups,reoviridae
+Vertebrate coltiviruses,2,,https://my.absa.org/RiskGroups,reoviridae
+Avian leucosis virus (ALV),2,"For strains that are infectious to human cells, otherwise RG1 | t2",https://my.absa.org/RiskGroups,retroviridae
+"Avian sarcoma viruses (Rous sarcoma virus, RSV)",2,"For strains that are infectious to human cells, otherwise RG1 | t2",https://my.absa.org/RiskGroups,retroviridae
+Bovine foamy virus,2,t2 | PM,https://my.absa.org/RiskGroups,retroviridae
+Bovine immunodeficiency virus (BIV),3,t2 | PM,https://my.absa.org/RiskGroups,retroviridae
+Bovine leukemia virus,3,"For strains that are infectious to human cells, otherwise RG1 | t2",https://my.absa.org/RiskGroups,retroviridae
+"Bovine lymphosarcoma virus (Bovine leukaemia virus, BLV)",3,,https://my.absa.org/RiskGroups,retroviridae
+Bovine syncytial virus (BSV),2,,https://my.absa.org/RiskGroups,retroviridae
+Caprine arthrisis/encephalomyeltis virus (CAEV),3,t2 | PM,https://my.absa.org/RiskGroups,retroviridae
+Equine infectious anemia virus,2,t2 | PM,https://my.absa.org/RiskGroups,retroviridae
+Feline foamy virus,2,t2 | PM,https://my.absa.org/RiskGroups,retroviridae
+Feline immunodefiency virus (FIV),3,t2 | PM,https://my.absa.org/RiskGroups,retroviridae
+Feline leukemia virus,3,"For strains that are infectious to human cells, otherwise RG1 | t2 | PM",https://my.absa.org/RiskGroups,retroviridae
+"Feline lymphosarcoma virus (FeLV, Feline leukaemia virus)",3,,https://my.absa.org/RiskGroups,retroviridae
+Feline sarcoma virus (FeSV),2,"For strains that are infectious to human cells, otherwise RG1 | PM",https://my.absa.org/RiskGroups,retroviridae
+Gibbon leukemia virus,2,"For strains that are infectious to human cells, otherwise RG1 | PM",https://my.absa.org/RiskGroups,retroviridae
+Guinea pig lymphosarcoma virus (guinea pig LSA),3,,https://my.absa.org/RiskGroups,retroviridae
+Hamster lymphosarcoma virus (Hamster LSA),3,,https://my.absa.org/RiskGroups,retroviridae
+Human Immunodeficiency virus (HIV),3,"Types 1 and 2 | **, D | See Exeption | ** PH | *",https://my.absa.org/RiskGroups,retroviridae
+Human T-cell lymphotropic viruses 1 + 2,3,"**, D | ** PH | *",https://my.absa.org/RiskGroups,retroviridae
+Leukomogenic murine oncovirus (Murine lymphosarcoma virus: MuLV),3,,https://my.absa.org/RiskGroups,retroviridae
+Lymphosarcoma viruses of nonhuman primates,3,,https://my.absa.org/RiskGroups,retroviridae
+Maedi-visna virus,3,t2 | PM,https://my.absa.org/RiskGroups,retroviridae
+Mason-Pfizer monkey virus,2,"For strains that are infectious to human cells, otherwise RG1 | PM",https://my.absa.org/RiskGroups,retroviridae
+Monkey mammary tumor viruses (MPTV),1,t2,https://my.absa.org/RiskGroups,retroviridae
+Murine mammary tumor viruses (MMTV),3,"For strains that are infectious to human cells, otherwise RG1 | t2 | PM",https://my.absa.org/RiskGroups,retroviridae
+Murine leukemia virus,3,"For strains that are infectious to human cells, otherwise RG1 | t2 | PM, VEC",https://my.absa.org/RiskGroups,retroviridae
+Murine sarcoma viruses (MuSV),3,"For strains that are infectious to human cells, otherwise RG1 | PM",https://my.absa.org/RiskGroups,retroviridae
+Ovine lymphosarcoma virus (OLV),3,,https://my.absa.org/RiskGroups,retroviridae
+Ovine pulmonary adenomatosis virus,2,,https://my.absa.org/RiskGroups,retroviridae
+Rat leukemia virus,2,"For strains that are infectious to human cells, otherwise RG1",https://my.absa.org/RiskGroups,retroviridae
+Reticuloendotheliosis viruses (REV),1,t2,https://my.absa.org/RiskGroups,retroviridae
+Retroviruses of fish and reptiles,2,"PM, TEN",https://my.absa.org/RiskGroups,retroviridae
+Simian foamy viruses,2,,https://my.absa.org/RiskGroups,retroviridae
+Simian immunodeficiency virus,3,"(**) | **, PHV",https://my.absa.org/RiskGroups,retroviridae
+"Simian sarcoma virus, SSV-1",3,PM,https://my.absa.org/RiskGroups,retroviridae
+Simian sarcoma viruses (SSV),3,PM,https://my.absa.org/RiskGroups,retroviridae
+Snake sarcoma viruses,3,,https://my.absa.org/RiskGroups,retroviridae
+Australian bat lyssavirus,3,VR,https://my.absa.org/RiskGroups,rhabdoviridae
+Bovine ephemeral fever virus,3,t2 | PM,https://my.absa.org/RiskGroups,rhabdoviridae
+Duvenhage virus,3,"RG 2 in animals | **, PHV | Classified under SAPO Rabies vaccine provides protection",https://my.absa.org/RiskGroups,rhabdoviridae
+"Eel rhabdovirus (EVA, EVX, B12, C26)",2,"t2 | PM, TEN",https://my.absa.org/RiskGroups,rhabdoviridae
+Egtved virus (Viral hemorrhagic septicemia virus),3,t2 | PM,https://my.absa.org/RiskGroups,rhabdoviridae
+Infectious hematopoietic necrosis virus,4,t2 | PM,https://my.absa.org/RiskGroups,rhabdoviridae
+Invertebrate lyssaviruses,2,,https://my.absa.org/RiskGroups,rhabdoviridae
+Invertebrate vesiculoviruses (other),2,,https://my.absa.org/RiskGroups,rhabdoviridae
+Mokola virus,3,RG 2 in animals | PHV | Classified under SAPO Rabies vaccine provides protection,https://my.absa.org/RiskGroups,rhabdoviridae
+Pike fry rhabdovirus,2,"t2 | PM, TEN",https://my.absa.org/RiskGroups,rhabdoviridae
+Piry,3,RG 2 in animals | PHV,https://my.absa.org/RiskGroups,rhabdoviridae
+Rabies virus,3,"All strains | VR (fixed strain (CVS II)) | (**), V | **, PHV | *",https://my.absa.org/RiskGroups,rhabdoviridae
+Spring viremia of carp virus,3,"t2 | PM, TEN",https://my.absa.org/RiskGroups,rhabdoviridae
+Vertebrate lyssaviruses,2,Classified under SAPO Rabies vaccine provides protection,https://my.absa.org/RiskGroups,rhabdoviridae
+Vertebrate vesiculoviruses (other),2,,https://my.absa.org/RiskGroups,rhabdoviridae
+Vesicular stomatitis virus,3,"Except non exotic strains (Listed in Appendix B-II-D): VSV-Indiana 1 serotype strains (e.g. Glasgow, Mudd-Summers, Orsay, San Juan) and VSV-New Jersey serotype strains (e.g. Ogden, Hazelhurst) (RG2) | Human RG 2 except Alagoas (3) | Chandipura and Piry viruses are classified as Risk Group 3 human pathogens. Indiana, Cocal, Alagoas, New Jersey, Isfahan and Maraba viruses are classified as Risk Group 2 human pathogens. Vesicular Stomatitis Virus is classified as Risk Group 3 since the species includes Risk Group 3 serotypes. | Excpet Indiana vesticulovirus and New Jersey vesiculovirus | EPD, PHV",https://my.absa.org/RiskGroups,rhabdoviridae
+seeberi,2,"Protozoa; Choanozoa Mesomycetozoea | v, h",https://my.absa.org/RiskGroups,rhinosporidium
+micosporus,2,"v, h; R. oligosporus, obsolete synonym R. rhizopodiformis, obsolete synonym",https://my.absa.org/RiskGroups,rhizopus
+oryzae,2,A | (obsolete) R. arrhizus,https://my.absa.org/RiskGroups,rhizopus
+spp,2,for microsporus,https://my.absa.org/RiskGroups,rhizopus
+tsutsugamushi,3,Formerly R. tsutsugamushi | Z | (old name Rickettsia tsutsugamushi),https://my.absa.org/RiskGroups,rickettsia
+aeschlimannii,3,Z | Rickettsia - all species,https://my.absa.org/RiskGroups,rickettsia
+africae,3,Z | Rickettsia - all species,https://my.absa.org/RiskGroups,rickettsia
+akari,3,: (*) | ** | Z | Rickettsia - all species,https://my.absa.org/RiskGroups,rickettsia
+australis,3,Z | Rickettsia - all species,https://my.absa.org/RiskGroups,rickettsia
+belii,3,t | Rickettsia - all species,https://my.absa.org/RiskGroups,rickettsia
+canadensis,3,: (*) | ** | Z | Formerly Rickettsia canada | Rickettsia - all species,https://my.absa.org/RiskGroups,rickettsia
+conorii,3,Z | Rickettsia - all species,https://my.absa.org/RiskGroups,rickettsia
+helvetica,3,Z | Rickettsia - all species | PV,https://my.absa.org/RiskGroups,rickettsia
+honei,3,Z | Rickettsia - all species,https://my.absa.org/RiskGroups,rickettsia
+japonica,3,Z | Rickettsia - all species,https://my.absa.org/RiskGroups,rickettsia
+massiliae,3,Z | Rickettsia - all species,https://my.absa.org/RiskGroups,rickettsia
+montanensis,3,: (*) | ** | Z | formerly Rickettsia canadensis | Rickettsia - all species | PV?**,https://my.absa.org/RiskGroups,rickettsia
+mooseri,3,Rickettsia - all species | See Rickettsia typhi,https://my.absa.org/RiskGroups,rickettsia
+parkeri,3,Z | Rickettsia - all species | PV,https://my.absa.org/RiskGroups,rickettsia
+prowazekii,3,Z | Rickettsia - all species,https://my.absa.org/RiskGroups,rickettsia
+rhipicephali,3,t | Rickettsia - all species | PV?,https://my.absa.org/RiskGroups,rickettsia
+rickettsii,3,Z | Rickettsia - all species,https://my.absa.org/RiskGroups,rickettsia
+siberica,3,Z | Rickettsia - all species,https://my.absa.org/RiskGroups,rickettsia
+spp.,3,Rickettsia - all species,https://my.absa.org/RiskGroups,rickettsia
+tsutsugamushi,3,Rickettsia - all species | Refer to :Orientia tsutsugamushi,https://my.absa.org/RiskGroups,rickettsia
+typhi (mooseri),3,Rickettsia mooseri | Z | Rickettsia - all species,https://my.absa.org/RiskGroups,rickettsia
+columbina,2,t,https://my.absa.org/RiskGroups,riemerella
+abortusequi,2,RG 3 in animals,https://my.absa.org/RiskGroups,salmonella
+abortusovis,2,RG 3 in animals,https://my.absa.org/RiskGroups,salmonella
+arizonae,2,Z,https://my.absa.org/RiskGroups,salmonella
+choleraesuis,2,"('enterica') subsp. bongori, subsp. choleraesuis) (all serovars of  subsp. I, e.g. SalmonellaParatyphi A,B,C, Salmonella Enteritidis in Group 2; exception: Salmonella typhi.",https://my.absa.org/RiskGroups,salmonella
+choleraesuis,2,"('enterica') subsp. arizonae (Salmonella arizonae), subsp. diarizonae, houtenae,  indica, salamae",https://my.absa.org/RiskGroups,salmonella
+dublin,2,RG 3 in animals,https://my.absa.org/RiskGroups,salmonella
+enteritidis,2,Z,https://my.absa.org/RiskGroups,salmonella
+gallinarum,2,RG 3 in animals,https://my.absa.org/RiskGroups,salmonella
+gallinarum-pullorum,2,RG 3 in animals,https://my.absa.org/RiskGroups,salmonella
+(other serovars),2,,https://my.absa.org/RiskGroups,salmonella
+meleagridis,2,,https://my.absa.org/RiskGroups,salmonella
+"paratyphi, A, B, C, S",3,"(A, B, C only) | EC: V (type A, B, C) | V | (Type A, B, C)",https://my.absa.org/RiskGroups,salmonella
+pullorum,2,RG 3 in animals,https://my.absa.org/RiskGroups,salmonella
+spp.,2,Australia (all spp. and serovars) | (Animal pathogens are RG 3) | (Other serovars),https://my.absa.org/RiskGroups,salmonella
+typhi,3,"b,c | (*) | (**), V | V | **",https://my.absa.org/RiskGroups,salmonella
+typhimurium,2,"Z | Exceptions are  derivates of strain LT2 with stable mutations in the genes aroA, galE oder cya und crp (e.g. strains for Ames Test TA 98, TA 100, TA 1535, TA1530, TA 2631)",https://my.absa.org/RiskGroups,salmonella
+enterica,2,"Formerly Salmonella choleraesuis. The risk group associated with Salmonella enterica ssp. reflects the species as a whole, but does not necessarily reflect the risk group classification of every subspecies.",https://my.absa.org/RiskGroups,salmonella
+inulinus,2,t+ | PV?,https://my.absa.org/RiskGroups,sanguibacter
+keddieii,2,t+ | PV?,https://my.absa.org/RiskGroups,sanguibacter
+suarezii,2,t+ | PV?,https://my.absa.org/RiskGroups,sanguibacter
+suihominis,2,syn. Sarcocystis hominis | Z,https://my.absa.org/RiskGroups,sarcocystis
+proliferans,2,See Scedosporium spp. | inflatum,https://my.absa.org/RiskGroups,scedosporium
+prolificans,2,for spp | Scedosporium inflatum | h,https://my.absa.org/RiskGroups,scedosporium
+haematobium,2,"Schistosoma spp. | Z | AHH, ZOP",https://my.absa.org/RiskGroups,schistosoma
+intercalatum,2,"Schistosoma spp. | Z | AHH, ZOP",https://my.absa.org/RiskGroups,schistosoma
+japonicum,2,"Schistosoma spp. | Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,schistosoma
+mansoni,2,Schistosoma spp. | Z | AHH,https://my.absa.org/RiskGroups,schistosoma
+mekongi,2,"Schistosoma spp. | Z | AHH, ZOP",https://my.absa.org/RiskGroups,schistosoma
+artemidis,2,,https://my.absa.org/RiskGroups,selenomonas
+dianae,2,,https://my.absa.org/RiskGroups,selenomonas
+flueggei,2,,https://my.absa.org/RiskGroups,selenomonas
+infelix,2,,https://my.absa.org/RiskGroups,selenomonas
+noxia,2,,https://my.absa.org/RiskGroups,selenomonas
+spp.,2,See Brachispira spp,https://my.absa.org/RiskGroups,serpulina
+grimesii,2,,https://my.absa.org/RiskGroups,serratia
+marcescens,2,,https://my.absa.org/RiskGroups,serratia
+proteamaculans,2,"n | PI, (including subsp. proteamaculans)",https://my.absa.org/RiskGroups,serratia
+rubidaea,2,n | PI,https://my.absa.org/RiskGroups,serratia
+algae,2,,https://my.absa.org/RiskGroups,shewanella
+boydii,2,,https://my.absa.org/RiskGroups,shigella
+dysenteriae,2,(other than type 1) | other than type 1 | (not type 1) | (not serovar 1 which is RG 3!),https://my.absa.org/RiskGroups,shigella
+dysenteriae (Type 1),3,"(*) T | (**), T | T | ** (serovar 1) | T (Other than Type 1 are RG 2)",https://my.absa.org/RiskGroups,shigella
+flexneri,2,ht,https://my.absa.org/RiskGroups,shigella
+sonnei,2,ht,https://my.absa.org/RiskGroups,shigella
+necrophorus,2,,https://my.absa.org/RiskGroups,sphaerophorus
+parapaucimobilis,2,,https://my.absa.org/RiskGroups,sphingomonas
+mirum,2,t | PV,https://my.absa.org/RiskGroups,spiroplasma
+brevicatena,2,TMP,https://my.absa.org/RiskGroups,sporichthya
+schenckii,2,"G | Sporotrichum schenkii | t | h,v",https://my.absa.org/RiskGroups,sporothrix
+aureus,2,"ht | including subsp. anaerobius, aureus) | Toxigenic",https://my.absa.org/RiskGroups,staphylococcus
+caprae,2,ht,https://my.absa.org/RiskGroups,staphylococcus
+epidermidis,2,ht,https://my.absa.org/RiskGroups,staphylococcus
+haemolyticus,2,ht,https://my.absa.org/RiskGroups,staphylococcus
+hyicus,2,t | PV,https://my.absa.org/RiskGroups,staphylococcus
+intermedius,2,Z | PV,https://my.absa.org/RiskGroups,staphylococcus
+lugdunensis,2,,https://my.absa.org/RiskGroups,staphylococcus
+lutrae,2,t | PV,https://my.absa.org/RiskGroups,staphylococcus
+pasteuri,2,,https://my.absa.org/RiskGroups,staphylococcus
+saprophyticus,2,,https://my.absa.org/RiskGroups,staphylococcus
+saprophyticus subsp. bovis,2,PV?,https://my.absa.org/RiskGroups,staphylococcus
+saprophyticus subsp. saprophyticus,2,,https://my.absa.org/RiskGroups,staphylococcus
+schleiferi,2,"ht | PV, (including ubsp. coagulans,  schleiferi)",https://my.absa.org/RiskGroups,staphylococcus
+africana,2,,https://my.absa.org/RiskGroups,stenotrophomonas
+maltophilia,2,ht | (Xanthomonas maltophilia),https://my.absa.org/RiskGroups,stenotrophomonas
+moniliformis,2,Z,https://my.absa.org/RiskGroups,streptobacillus
+acidominimus,2,ht,https://my.absa.org/RiskGroups,streptococcus
+agalactiae,2,Streptococcus difficilis | ht,https://my.absa.org/RiskGroups,streptococcus
+anginosus,2,ht,https://my.absa.org/RiskGroups,streptococcus
+bovis,2,,https://my.absa.org/RiskGroups,streptococcus
+constellatus,2,,https://my.absa.org/RiskGroups,streptococcus
+difficilis,2,PV,https://my.absa.org/RiskGroups,streptococcus
+dysgalactiae,2,"ht (subsp. dysgalactiae, equisimilis) | PV (including subsp.  dysgalactiae, equisimilis)",https://my.absa.org/RiskGroups,streptococcus
+equi subsp. equi,3,ht,https://my.absa.org/RiskGroups,streptococcus
+equi subsp. zooepidemicus,2,ht,https://my.absa.org/RiskGroups,streptococcus
+equinus,2,ht,https://my.absa.org/RiskGroups,streptococcus
+gallolyticus,2,ht,https://my.absa.org/RiskGroups,streptococcus
+iniae,2,Z,https://my.absa.org/RiskGroups,streptococcus
+intermedius,2,ht,https://my.absa.org/RiskGroups,streptococcus
+mitis,2,,https://my.absa.org/RiskGroups,streptococcus
+mutans,2,,https://my.absa.org/RiskGroups,streptococcus
+parasanguinis,2,,https://my.absa.org/RiskGroups,streptococcus
+phocae,2,t | PV,https://my.absa.org/RiskGroups,streptococcus
+pneumoniae,2,"ht, T, V",https://my.absa.org/RiskGroups,streptococcus
+porcinus,2,ht,https://my.absa.org/RiskGroups,streptococcus
+pyogenes,2,"T, Z",https://my.absa.org/RiskGroups,streptococcus
+salivarius,2,TA | (Streptococcus salivarius subsp. salivarius),https://my.absa.org/RiskGroups,streptococcus
+sobrinus,2,,https://my.absa.org/RiskGroups,streptococcus
+somaliensis,2,,https://my.absa.org/RiskGroups,streptococcus
+suis,2,Z,https://my.absa.org/RiskGroups,streptococcus
+uberis,2,ht | PIIC,https://my.absa.org/RiskGroups,streptococcus
+stercoralis,2,G | Z | AHH,https://my.absa.org/RiskGroups,strongyloides
+wadsworthensis,2,,https://my.absa.org/RiskGroups,sutterella
+endobioticum,2,"p, b)",https://my.absa.org/RiskGroups,synchytrium
+saginata,2,"G | Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,taenia
+solium,3,"G | * | (**) | Z | AAH, AHH, OST, PIH, ZOP, **",https://my.absa.org/RiskGroups,taenia
+ptyseos,2,,https://my.absa.org/RiskGroups,tatumella
+deminutus,2,Z | AAH AHH ZOP,https://my.absa.org/RiskGroups,ternidens
+annulata,3,t2,https://my.absa.org/RiskGroups,theileria
+parva,3,t2,https://my.absa.org/RiskGroups,theileria
+Alphaviruses,3,,https://my.absa.org/RiskGroups,togaviridae
+Aura virus,2,PM,https://my.absa.org/RiskGroups,togaviridae
+Barmah Forest,2,PM,https://my.absa.org/RiskGroups,togaviridae
+Bebaru virus,2,PHV,https://my.absa.org/RiskGroups,togaviridae
+Cabassou virus,3,PHV,https://my.absa.org/RiskGroups,togaviridae
+Chikungunya virus,3,Except the vaccine strain 181/25 listed in Appendix B-II-D Risk Group2 (RG2) – Viruses | (**) | ** PHV | *,https://my.absa.org/RiskGroups,togaviridae
+Eastern equine encephalitis virus,3,V | PHV | Classified under SAPO,https://my.absa.org/RiskGroups,togaviridae
+Equine viral arteritis,2,,https://my.absa.org/RiskGroups,togaviridae
+Everglade virus,3,(**) | ** PHV | *,https://my.absa.org/RiskGroups,togaviridae
+Getah virus,3,t3 | PM,https://my.absa.org/RiskGroups,togaviridae
+Kyzylagach virus,3,t3 | PHV,https://my.absa.org/RiskGroups,togaviridae
+Mayaro virus,3,"Containment Level 3 facilities, equipment, and operational practices for work involving infectious or potentially infectious materials, animals, or cultures. | PHV",https://my.absa.org/RiskGroups,togaviridae
+Middelburg virus,3,PHV,https://my.absa.org/RiskGroups,togaviridae
+Mucambo virus,3,(**) | ** PHV | *,https://my.absa.org/RiskGroups,togaviridae
+Ndumu virus,3,PHV,https://my.absa.org/RiskGroups,togaviridae
+O'Nyong-Nyong virus,2,Biosafety level 2 practices and containment equipment for all activities involving the virus and potentially infectious body fluids or tissues | PHV,https://my.absa.org/RiskGroups,togaviridae
+Ross river virus,2,PHV,https://my.absa.org/RiskGroups,togaviridae
+Rubella virus,2,"V, X | V, Rubivirus | PH | V",https://my.absa.org/RiskGroups,togaviridae
+Rubivirus,2,V | PH,https://my.absa.org/RiskGroups,togaviridae
+Sagiyama virus,3,PHV | Subspecies of Ross River virus,https://my.absa.org/RiskGroups,togaviridae
+Semliki forest virus,3,"NULL; see previous edition | PHV, VEC",https://my.absa.org/RiskGroups,togaviridae
+Sindbis virus,2,"PHV, VEC",https://my.absa.org/RiskGroups,togaviridae
+Tonate virus,3,"(**) | **, PHV",https://my.absa.org/RiskGroups,togaviridae
+Venezuelan equine encephalitis virus,3,"Except the vaccine strains TC-83 and V3526, see Appendix B-II-D (RG2) – Viruses | V | PHV",https://my.absa.org/RiskGroups,togaviridae
+Western equine encephalitis virus,3,V | PHV,https://my.absa.org/RiskGroups,togaviridae
+Toroviridae,2,t2 | PM,https://my.absa.org/RiskGroups,toroviridae
+canis,2,"G | Toxocara canis, Toxocara cati | Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,toxocara
+cati,2,"syn. Toxocara mystax | Toxocara canis, Toxocara cati | Z | AAH AHH ZOP",https://my.absa.org/RiskGroups,toxocara
+spp,2,AAH,https://my.absa.org/RiskGroups,toxocara
+gondii,2,"X | RG 3 in animals | Z | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,toxoplasma
+amylovorum,2,,https://my.absa.org/RiskGroups,treponema
+carateum,2,,https://my.absa.org/RiskGroups,treponema
+denticola,2,ht,https://my.absa.org/RiskGroups,treponema
+lecithinolyticum,2,,https://my.absa.org/RiskGroups,treponema
+maltophilum,2,,https://my.absa.org/RiskGroups,treponema
+medium,2,,https://my.absa.org/RiskGroups,treponema
+pallidum,2,,https://my.absa.org/RiskGroups,treponema
+paraluiscuniculi,2,t | PV,https://my.absa.org/RiskGroups,treponema
+pectinovorum,2,,https://my.absa.org/RiskGroups,treponema
+pertenue,2,,https://my.absa.org/RiskGroups,treponema
+socranskii,2,"(including subsp. buccale,  paredis, socranskii)",https://my.absa.org/RiskGroups,treponema
+vincentii,2,,https://my.absa.org/RiskGroups,treponema
+nativa,2,RG 3 in animals | Trichinella spp. | Z,https://my.absa.org/RiskGroups,trichinella
+nelsoni,2,RG 3 in animals | Trichinella spp. | Z,https://my.absa.org/RiskGroups,trichinella
+pseudospiralis,2,RG 3 in animals | Trichinella spp. | Z,https://my.absa.org/RiskGroups,trichinella
+spiralis,2,"G | RG 3 in animals | Trichinella spp. | Z | AAH, AHH, ZOP | Classified under SAPO",https://my.absa.org/RiskGroups,trichinella
+spp,2,"Trichinella spp. | AAH, AHH, ZOP",https://my.absa.org/RiskGroups,trichinella
+vaginalis,2,AHH,https://my.absa.org/RiskGroups,trichomonas
+concentricum,2,See Trichophyton spp. | h,https://my.absa.org/RiskGroups,trichophyton
+equinum,2,"See Trichophyton spp. | v,h",https://my.absa.org/RiskGroups,trichophyton
+gourvilii,2,See Trichophyton spp. | v,https://my.absa.org/RiskGroups,trichophyton
+megnini,2,See Trichophyton spp. | v,https://my.absa.org/RiskGroups,trichophyton
+mentagrophytes,2,"See Trichophyton spp. | t, Z | h.v",https://my.absa.org/RiskGroups,trichophyton
+quinckeanum,2,(obsolete) T. mentagrophytes | for spp,https://my.absa.org/RiskGroups,trichophyton
+rubrum,2,Trichophyton raubitschekii | A | h,https://my.absa.org/RiskGroups,trichophyton
+schoenleinii,2,See Trichophyton spp. | h,https://my.absa.org/RiskGroups,trichophyton
+soudanense,2,See Trichophyton spp. | h,https://my.absa.org/RiskGroups,trichophyton
+tonsurans,2,"See Trichophyton spp. | A, t | h; T. sulphureum, obsolete synonym",https://my.absa.org/RiskGroups,trichophyton
+verrucosum,2,"See Trichophyton spp. | A, t, Z | v,h",https://my.absa.org/RiskGroups,trichophyton
+violoaceum,2,See Trichophyton spp. | h,https://my.absa.org/RiskGroups,trichophyton
+yaoundei,2,See Trichophyton spp. | h,https://my.absa.org/RiskGroups,trichophyton
+colubriformis,2,Z,https://my.absa.org/RiskGroups,trichostrongylus
+orientalis,2,Z,https://my.absa.org/RiskGroups,trichostrongylus
+spp,2,AAH AHH ZOP,https://my.absa.org/RiskGroups,trichostrongylus
+trichiura,2,Z | AHH,https://my.absa.org/RiskGroups,trichuris
+brucei brucei,2,"C, G | RG 3 in animals | Trypanosoma brucei | AHH | Classified under SAPO",https://my.absa.org/RiskGroups,trypanosoma
+brucei gambiense,2,"C, G | Trypanosoma brucei | Z | **, AHH, OST, IVE, ZOP",https://my.absa.org/RiskGroups,trypanosoma
+brucei rhodesiense,3,"C, G | * | Trypanosoma brucei | (**) | Z | **, AHH, OST, IVE, ZOP",https://my.absa.org/RiskGroups,trypanosoma
+cruzi,3,"C, G | Z | AHH, ZOP",https://my.absa.org/RiskGroups,trypanosoma
+rangeli,2,Z,https://my.absa.org/RiskGroups,trypanosoma
+inchonensis,2,,https://my.absa.org/RiskGroups,tsukamurella
+pulmonis,2,,https://my.absa.org/RiskGroups,tsukamurella
+tyrosinosolvens,2,,https://my.absa.org/RiskGroups,tsukamurella
+otitidis,2,,https://my.absa.org/RiskGroups,turicella
+Hepatitis viruses,3,"**, D | *",https://my.absa.org/RiskGroups,unclassified
+diversum,2,t | PV,https://my.absa.org/RiskGroups,ureaplasma
+gallorale,2,t | PV,https://my.absa.org/RiskGroups,ureaplasma
+salmoninarum,2,t2 | PV,https://my.absa.org/RiskGroups,vagococcus
+jacobsoni,3,Varroasis | AAH (Varroa destructor old name Varroa jacobsoni),https://my.absa.org/RiskGroups,varroa
+parvula,2,"lower priority synonyms: Veillonella alcalescens, Veillonella alcalescens subsp. alcalescens Veillonella",https://my.absa.org/RiskGroups,veillonella
+carchariae,2,PV,https://my.absa.org/RiskGroups,vibrio
+cholerae,2,"T | Including El Tor | T, V, Z | T, V (including El Tor)",https://my.absa.org/RiskGroups,vibrio
+cincinnatiensis,2,,https://my.absa.org/RiskGroups,vibrio
+fluvialis,2,Z,https://my.absa.org/RiskGroups,vibrio
+furnissii,2,Z,https://my.absa.org/RiskGroups,vibrio
+hollisae,2,,https://my.absa.org/RiskGroups,vibrio
+ichthyoenteri,2,t2 | PV,https://my.absa.org/RiskGroups,vibrio
+metschnikovii,2,Z,https://my.absa.org/RiskGroups,vibrio
+mimicus,2,Z,https://my.absa.org/RiskGroups,vibrio
+ordalii,2,t2 | PV,https://my.absa.org/RiskGroups,vibrio
+salmonicida,2,PV,https://my.absa.org/RiskGroups,vibrio
+trachuri,2,PV,https://my.absa.org/RiskGroups,vibrio
+chondrophila,2,t,https://my.absa.org/RiskGroups,waddlia
+bancroftii,2,AHH,https://my.absa.org/RiskGroups,wuchereria
+arboricola pv. corylina,3,p2 | PP; QUA,https://my.absa.org/RiskGroups,xanthomonas
+arboricola pv. pruni,1,p2,https://my.absa.org/RiskGroups,xanthomonas
+campestris pv. orizicola,2,p | PP; QUA,https://my.absa.org/RiskGroups,xanthomonas
+campestris pv. oryzae,2,p | PP; QUA,https://my.absa.org/RiskGroups,xanthomonas
+fragariae,2,p2 | PP; QUA,https://my.absa.org/RiskGroups,xanthomonas
+translucens pv. translucens,2,p2 | PP,https://my.absa.org/RiskGroups,xanthomonas
+vesicatoria pv. vesicatoria,2,p2,https://my.absa.org/RiskGroups,xanthomonas
+oryzae,2,p | PP; QUA,https://my.absa.org/RiskGroups,xanthomonas
+ampelinus,2,p2 | PP; QUA (Xanthomonas ampelina),https://my.absa.org/RiskGroups,xanthomonas
+fastidiosa,3,Plant pathogen; aka Pierce's Disease | p2 | PP: QUA,https://my.absa.org/RiskGroups,xylella
+enterocolitica,2,Z,https://my.absa.org/RiskGroups,yersinia
+frederiksenii,2,Z,https://my.absa.org/RiskGroups,yersinia
+intermedia,2,Z,https://my.absa.org/RiskGroups,yersinia
+kristensenii,2,Z,https://my.absa.org/RiskGroups,yersinia
+pestis,3,"Except pgm(–) strains (lacking the 102 kb pigmentation locus) and lcr(–) strains (lacking the LCR plasmid) (RG2) | V | V, Z | Except for the attenuated strains devoid of: PGM LOCUS [EV76 STRAIN] & 75 KB LOW-CALCIUM RESPONSE VIRULENCE PLASMID [TJIWIDEJ S STRAIN",https://my.absa.org/RiskGroups,yersinia
+pseudotuberculosis,2,Z | (Yersinia pseudotuberculosis subsp. pestis RG 3?),https://my.absa.org/RiskGroups,yersinia
+pseudotuberculosis subsp. pestis,3,,https://my.absa.org/RiskGroups,yersinia
+rohdei,1,+ | PIIC,https://my.absa.org/RiskGroups,yersinia
+ruckeri,3,t2 | PV,https://my.absa.org/RiskGroups,yersinia
+spp.,2,Australia (except Y. pestis),https://my.absa.org/RiskGroups,yersinia
