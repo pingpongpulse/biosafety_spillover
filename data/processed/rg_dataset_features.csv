@@ -4001,7 +4001,6 @@ Neisseria elongata subsp. nitroreducens,2,DNA,contact,narrow,low,yes,medium,no
 Neisseria flava,2,DNA,contact,narrow,low,yes,medium,no
 Neisseria flavescens,2,DNA,contact,narrow,low,yes,medium,no
 Neisseria gonorrhoeae,2,DNA,contact,human-only,low,yes,low,no
-Neisseria gonorrhoeae Notable subspecies: N. kochii (genetic intermediate between N. gonorrhoeae and N. meningitidis),2,,,,,,,
 Neisseria lactamica,2,DNA,contact,human-only,low,yes,medium,no
 Neisseria macacae,1,DNA,contact,narrow,low,yes,medium,yes
 Neisseria meningitidis,2,DNA,droplet,human-only,low,yes,low,no
@@ -5071,7 +5070,6 @@ Pythium insidiosum,2,DNA,contact,broad,medium,partial,low,yes
 Quambalaria cyanescens,2,DNA,contact,narrow,medium,no,high,no
 Quang Binh virus,1,ssRNA+,vector,broad,low,no,low,yes
 Quantitative Synthetic Astrovirus RNA (ATCC VR-3238SD),1,ssRNA+,fecal-oral,human-only,low,no,low,no
-Quantitative Synthetic Sapovirus RNA (ATCC® VR-3237SD?),1,,,,,,,
 Quaranjavirus araguariense,3,ssRNA-,vector,broad,low,no,low,yes
 Quaranjavirus johnstonense,2,ssRNA-,vector,broad,low,no,low,yes
 Quinella ovalis,1,DNA,contact,narrow,medium,no,high,no
@@ -5320,7 +5318,6 @@ Saccharomonospora iraqiensis,1,DNA,contact,narrow,low,yes,medium,no
 Saccharomonospora viridis,2,DNA,contact,narrow,low,yes,medium,no
 Saccharomonospora xinjiangensis,1,DNA,contact,narrow,low,yes,medium,no
 Saccharomyces cerevisiae,1,DNA,contact,narrow,low,yes,medium,no
-Saccharomyces cerevisiae Sourvisiae®,1,,,,,,,
 Saccharomyces cerevisiae var. cerevisiae,1,DNA,contact,narrow,low,yes,medium,no
 Saccharomyces pastorianus,1,DNA,contact,narrow,low,yes,medium,no
 Saccharopolyspora erythraea,1,DNA,contact,narrow,low,yes,medium,no
@@ -6676,7 +6673,6 @@ Varicellovirus equidalpha3,1,dsDNA,contact,narrow,medium,partial,medium,yes
 Varicellovirus equidalpha4,1,dsDNA,contact,narrow,medium,partial,medium,yes
 Varicellovirus humanalpha3,2,dsDNA,contact,human-only,low,yes,low,no
 Varicellovirus suidalpha1,2,dsDNA,contact,narrow,medium,partial,medium,yes
-Variola (major and minor) virus,4,,,,,,,
 Variovorax paradoxus,1,DNA,contact,broad,high,yes,high,no
 Veillonella atypica,2,DNA,contact,narrow,medium,yes,high,no
 Veillonella caviae,1,DNA,contact,narrow,medium,yes,high,no
@@ -6691,7 +6687,6 @@ Verrucomicrobium spinosum,1,DNA,contact,broad,high,yes,high,no
 Verruconis gallopava,2,DNA,contact,narrow,medium,yes,high,no
 Vertebrate coltiviruses,2,ssRNA+,vector,broad,medium,no,low,yes
 Vertebrate lyssaviruses,2,ssRNA-,contact,broad,medium,partial,low,yes
-Vertebrate vesiculoviruses (other),2,,,,,,,
 Verticillium alboatrum,1,DNA,contact,narrow,medium,partial,high,no
 Verticillium dahliae,1,DNA,contact,narrow,medium,partial,high,no
 Verticillium longisporum,1,DNA,contact,narrow,medium,partial,high,no
@@ -6872,26 +6867,6 @@ Zygosaccharomyces bailii,1,DNA,contact,broad,high,no,high,no
 Zygosaccharomyces rouxii,1,DNA,contact,broad,high,no,high,no
 Zymobacter palmae,1,DNA,contact,broad,medium,no,high,no
 Zymomonas mobilis,1,DNA,contact,broad,medium,no,high,no
-aalborgi,2,,,,,,,
-abortus,3,,,,,,,
-abortusequi,2,,,,,,,
-abortusovis,2,,,,,,,
-abscessus,2,,,,,,,
-absonum,2,,,,,,,
-accolens,2,,,,,,,
-acidominimus,2,,,,,,,
-acinonychis,2,,,,,,,
-acnes,2,,,,,,,
-actinomycetemcomiana,2,,,,,,,
-actinomycetemcomitans,2,,,,,,,
-adecarboxylata,2,,,,,,,
-adiacens,2,,,,,,,
-adleri,2,,,,,,,
-aegyptius,2,,,,,,,
-aerodenitrificans,2,,,,,,,
-aerofaciens,2,,,,,,,
-aerogenes,2,,,,,,,
-aeruginosa,2,,,,,,,
 aeschlimannii,3,DNA,contact,narrow,low,yes,medium,no
 aethiopica,2,DNA,vector,narrow,medium,yes,high,yes
 afermentans,2,DNA,contact,narrow,low,yes,medium,no
@@ -7515,8 +7490,6 @@ mycetoides,2,DNA,contact,narrow,low,yes,medium,no
 mycetomatis,2,DNA,contact,narrow,low,partial,medium,no
 mycetomi,2,DNA,contact,narrow,low,partial,medium,no
 mycoides,2,DNA,contact,broad,medium,partial,high,yes
-mycoides subsp.capri,3,,,,,,,
-mycoides subsp.myocoides,3,,,,,,,
 naeslundii,2,DNA,contact,narrow,low,yes,medium,no
 nana,2,DNA,contact,narrow,low,yes,medium,no
 nanum,2,DNA,contact,narrow,low,yes,medium,no
@@ -7595,7 +7568,6 @@ paraputrificum,2,dsDNA,contact,broad,medium,yes,medium,yes
 parasanguinis,2,dsDNA,contact,broad,medium,yes,medium,yes
 parasuis,2,dsDNA,contact,narrow,low,yes,high,yes
 paratuberculosis,2,dsDNA,fecal-oral,broad,high,partial,high,yes
-"paratyphi, A, B, C, S",3,,,,,,,
 parisiensis,2,dsDNA,contact,broad,medium,yes,medium,yes
 parkeri,3,dsDNA,contact,broad,medium,yes,medium,yes
 parva,3,dsDNA,vector,narrow,low,yes,high,yes
@@ -7792,136 +7764,3 @@ stomatis,2,DNA,contact,narrow,low,yes,medium,no
 streptocerca,2,DNA,contact,narrow,low,yes,medium,no
 striatum,2,DNA,contact,narrow,medium,no,high,no
 stuartii,2,DNA,contact,narrow,low,yes,medium,no
-sturni,2,,,,,,,
-suarezii,2,,,,,,,
-subflava,2,,,,,,,
-subterminale,2,,,,,,,
-succiniciproducens,2,,,,,,,
-suihominis,2,,,,,,,
-suis,3,,,,,,,
-sulci,2,,,,,,,
-suum,2,,,,,,,
-symbiosum,2,,,,,,,
-synoviae,2,,,,,,,
-syringae pv. persicae,2,,,,,,,
-syringae pv. pisi,3,,,,,,,
-szulgai,3,,,,,,,
-talpae,3,,,,,,,
-tannerae,2,,,,,,,
-tanukii,2,,,,,,,
-tarantellus,2,,,,,,,
-tarda,2,,,,,,,
-tardum,2,,,,,,,
-taylorii,3,,,,,,,
-tectus,2,,,,,,,
-tenella,1,,,,,,,
-tenue,2,,,,,,,
-terrae,2,,,,,,,
-terrigena,2,,,,,,,
-tertium,2,,,,,,,
-testudinis,2,,,,,,,
-tetani,2,,,,,,,
-thalpophilum,2,,,,,,,
-theileri,2,,,,,,,
-thetaiotaomicron,2,,,,,,,
-thomasii,2,,,,,,,
-thompkinsii,2,,,,,,,
-thuringiensis,2,,,,,,,
-tillae,2,,,,,,,
-timidum,2,,,,,,,
-timori,2,,,,,,,
-tonsurans,2,,,,,,,
-tortuosum,2,,,,,,,
-trabulsii,2,,,,,,,
-trachomatis,2,,,,,,,
-trachuri,2,,,,,,,
-translucens pv. translucens,2,,,,,,,
-transvalensis,2,,,,,,,
-trehalosi,2,,,,,,,
-trematum,2,,,,,,,
-tribocorum,3,,,,,,,
-trichiura,2,,,,,,,
-trichoides,3,,,,,,,
-triplex,2,,,,,,,
-tropica,2,,,,,,,
-tropicalis,2,,,,,,,
-trota,2,,,,,,,
-tructi,2,,,,,,,
-tsutsugamushi,3,,,,,,,
-tuberculosis,3,,,,,,,
-tucsonensis,2,,,,,,,
-tularensis (Type A),3,,,,,,,
-tularensis (Type B),3,,,,,,,
-turdi,2,,,,,,,
-turicatae,2,,,,,,,
-turicensis,2,,,,,,,
-tusciae,2,,,,,,,
-typhi,3,,,,,,,
-typhi (mooseri),3,,,,,,,
-typhimurium,2,,,,,,,
-tyrosinosolvens,2,,,,,,,
-uberis,2,,,,,,,
-ulcerans,3,,,,,,,
-uli,2,,,,,,,
-ulmi,3,,,,,,,
-uniformis,2,,,,,,,
-upsaliensis,2,,,,,,,
-urea,2,,,,,,,
-ureae,2,,,,,,,
-urealyticum,2,,,,,,,
-ureolyticus,2,,,,,,,
-urinae,2,,,,,,,
-ustus,2,,,,,,,
-vaccae,2,,,,,,,
-vaginae,2,,,,,,,
-vaginalis,2,,,,,,,
-valaisiana,2,,,,,,,
-vanbreuseghemii,2,,,,,,,
-varigena,2,,,,,,,
-variotii,2,,,,,,,
-varium,2,,,,,,,
-venezuelensis,2,,,,,,,
-ventriosum,2,,,,,,,
-verecundum,2,,,,,,,
-vermicularis,2,,,,,,,
-veronii,2,,,,,,,
-verrucosa,2,,,,,,,
-verrucosum,2,,,,,,,
-vesicatoria pv. vesicatoria,2,,,,,,,
-vietnamiensis,2,,,,,,,
-vincentii,2,,,,,,,
-vinsonii,2,,,,,,,
-violaceum,2,,,,,,,
-violoaceum,2,,,,,,,
-viridans,2,,,,,,,
-viscosus,2,,,,,,,
-vivax,2,,,,,,,
-viverrini,2,,,,,,,
-vogeli,3,,,,,,,
-volvulus,2,,,,,,,
-vulgaris,2,,,,,,,
-vulneris,2,,,,,,,
-vulnificia,2,,,,,,,
-vulnificus,2,,,,,,,
-wadsworthensis,2,,,,,,,
-wadsworthia,2,,,,,,,
-wadsworthii,2,,,,,,,
-weaveri,2,,,,,,,
-weilii,2,,,,,,,
-weisii,3,,,,,,,
-wenyonii,2,,,,,,,
-werkmanii,2,,,,,,,
-werneckii,2,,,,,,,
-westermanii,2,,,,,,,
-wolinskyi,2,,,,,,,
-woluwensis,2,,,,,,,
-xenopi,2,,,,,,,
-xerosis,2,,,,,,,
-xylosoxidans,1,,,,,,,
-xylosoxidans subsp. denitrificans,2,,,,,,,
-xylosoxidans subsp. xylosoxidans,2,,,,,,,
-yabuuchiae,2,,,,,,,
-yaoundei,2,,,,,,,
-youngae,2,,,,,,,
-yurii,2,,,,,,,
-zoohelcum,2,,,,,,,
