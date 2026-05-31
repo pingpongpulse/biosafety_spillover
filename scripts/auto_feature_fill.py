@@ -12,7 +12,7 @@ load_dotenv()
 
 INPUT_PATH = 'data/processed/rg_dataset_features.csv'
 BATCH_SIZE = 30  
-MODEL_NAME = "llama-3.1-70b-versatile"  
+MODEL_NAME = "llama-3.3-70b-versatile"
 
 # Fetch the credential from the system environment
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
@@ -37,11 +37,20 @@ feature_cols = ['genome_type', 'transmission_route', 'host_range',
 # Initialize the Groq Client with the secure variable
 client = Groq(api_key=GROQ_API_KEY)
 
-missing_mask = df[feature_cols].isna().all(axis=1)
+# Find rows with ANY missing features (not just completely empty rows)
+missing_mask = df[feature_cols].isna().any(axis=1)
 indices_to_process = df[missing_mask].index.tolist()
 
 print(f"Total rows in template: {len(df)}")
-print(f"Rows remaining to process via LLM: {len(indices_to_process)}")
+print(f"Rows with ANY missing features: {len(indices_to_process)}")
+
+# Show progress breakdown
+fully_filled = df[feature_cols].notna().all(axis=1).sum()
+partially_filled = df[feature_cols].notna().any(axis=1).sum() - fully_filled
+completely_empty = len(df) - fully_filled - partially_filled
+print(f"  - Fully filled: {fully_filled}")
+print(f"  - Partially filled: {partially_filled}")
+print(f"  - Completely empty: {completely_empty}")
 
 if len(indices_to_process) == 0:
     print("✅ All rows are already filled!")
@@ -97,7 +106,8 @@ for i in range(0, len(indices_to_process), BATCH_SIZE):
                 if not match.empty:
                     target_idx = match[0]
                     for col in feature_cols:
-                        if col in item:
+                        # ONLY fill if the cell is currently empty (NaN)
+                        if col in item and pd.isna(df.at[target_idx, col]):
                             df.at[target_idx, col] = item[col]
             
             success = True
@@ -110,4 +120,7 @@ for i in range(0, len(indices_to_process), BATCH_SIZE):
             
     time.sleep(1.5)
 
-print(f"\n🎉 Metadata population complete! Check the populated template at: {INPUT_PATH}")
+print(f"\n✅ Feature filling complete!")
+fully_filled_final = df[feature_cols].notna().all(axis=1).sum()
+print(f"Final status: {fully_filled_final}/{len(df)} organisms fully filled ({100*fully_filled_final/len(df):.1f}%)")
+print(f"Check the populated template at: {INPUT_PATH}")
