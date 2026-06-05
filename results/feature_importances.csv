@@ -1,0 +1,8 @@
+feature,importance
+genome_type_enc,0.2635859
+zoonotic_enc,0.18154736
+treatment_available_enc,0.1478635
+infectious_dose_enc,0.11313336
+host_range_enc,0.100210406
+transmission_route_enc,0.09857534
+environmental_stability_enc,0.09508406

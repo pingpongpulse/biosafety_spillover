@@ -1,0 +1,52 @@
+{
+  "genome_type": {
+    "DNA": 0,
+    "RNA": 1,
+    "dsDNA": 2,
+    "dsRNA": 3,
+    "none": 4,
+    "prion": 5,
+    "protein": 6,
+    "ssDNA": 7,
+    "ssRNA+": 8,
+    "ssRNA-": 9
+  },
+  "transmission_route": {
+    "airborne": 0,
+    "contact": 1,
+    "droplet": 2,
+    "fecal-oral": 3,
+    "inhalation": 4,
+    "none": 5,
+    "tick": 6,
+    "vector": 7,
+    "water": 8,
+    "waterborne": 9
+  },
+  "host_range": {
+    "broad": 0,
+    "human-only": 1,
+    "narrow": 2
+  },
+  "environmental_stability": {
+    "high": 0,
+    "low": 1,
+    "medium": 2,
+    "none": 3
+  },
+  "treatment_available": {
+    "no": 0,
+    "partial": 1,
+    "yes": 2
+  },
+  "infectious_dose": {
+    "high": 0,
+    "low": 1,
+    "medium": 2,
+    "none": 3
+  },
+  "zoonotic": {
+    "no": 0,
+    "yes": 1
+  }
+}

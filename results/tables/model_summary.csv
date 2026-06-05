@@ -1,0 +1,9 @@
+Parameter,Value
+Model,XGBoost (Gradient Boosted Trees)
+Task,Multi-class classification (RG1–RG4)
+Input,7 biological metadata features
+Training samples,17876
+Validation,5-fold stratified cross-validation
+Class balancing,SMOTE (k_neighbors=3)
+F1-macro (CV),0.708 ± 0.008
+Accuracy (CV),0.717 ± 0.008
