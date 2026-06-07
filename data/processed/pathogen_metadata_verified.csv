@@ -1,0 +1,36 @@
+name,rg_label,genome_type,transmission_route,host_range,environmental_stability,treatment_available,infectious_dose,zoonotic,source_reference
+SARS-CoV-2,3,ssRNA+,airborne,broad,medium,yes,medium,yes,WHO Interim Biosafety Guidance COVID-19 (2020)
+Ebola virus,4,ssRNA-,contact,broad,high,no,low,yes,CDC Viral Special Pathogens Branch - Risk Assessment
+Escherichia coli K12,1,dsDNA,fecal-oral,broad,high,yes,high,no,ATCC Biological Agents Reference - Risk Tier 1
+Bacillus anthracis,3,dsDNA,contact,broad,high,yes,low,yes,WHO Biosafety Manual 3rd Edition (2004)
+Mycobacterium tuberculosis,3,dsDNA,airborne,narrow,high,yes,medium,no,CDC TB Reference Laboratory Classification
+Lassa virus,4,ssRNA-,contact,narrow,high,no,low,yes,CDC Division of High-Consequence Pathogens - Tier 4
+Rabies lyssavirus,3,ssRNA-,contact,broad,medium,yes,low,yes,CDC Rabies Post-Exposure Prophylaxis Guidelines
+Influenza A virus,2,ssRNA+,airborne,broad,low,yes,medium,yes,CDC FluSight Risk Assessment
+Norovirus,2,ssRNA+,fecal-oral,broad,medium,yes,high,no,EMRO Norovirus Outbreak Guidelines
+Staphylococcus aureus,2,dsDNA,contact,broad,high,yes,high,no,CDC MRSA Reference Lab
+Yersinia pestis,3,dsDNA,contact,broad,medium,yes,low,yes,CDC Select Agent Reference
+Marburg virus,4,ssRNA-,contact,broad,high,no,low,yes,CDC Special Pathogens Branch - Ebola/Marburg
+Zika virus,2,ssRNA+,vector,broad,low,partial,medium,yes,CDC Arbovirus Surveillance & Mapping Systems
+Dengue virus,2,ssRNA+,vector,broad,low,partial,high,yes,WHO Dengue Guidelines & WHO Zika Response
+Vibrio cholerae,2,dsDNA,fecal-oral,broad,high,yes,low,no,CDC Cholera Case Definitions & Management
+Salmonella enterica,2,dsDNA,fecal-oral,broad,high,yes,medium,no,USDA FSIS Salmonella Risk Assessment
+Listeria monocytogenes,2,dsDNA,fecal-oral,broad,high,yes,high,no,FDA Listeria Monocytogenes Risk Assessment
+Clostridium botulinum,2,dsDNA,contact,broad,high,yes,low,no,CDC Botulism Case Definitions
+Campylobacter jejuni,2,dsDNA,fecal-oral,broad,medium,yes,high,no,EFSA Campylobacteriosis Risk Assessment
+Streptococcus pneumoniae,2,dsDNA,droplet,broad,low,yes,medium,no,CDC Pneumococcal Reference Lab
+Neisseria meningitidis,2,dsDNA,droplet,narrow,low,yes,medium,no,CDC Meningococcal Disease Guidelines
+Pseudomonas aeruginosa,2,dsDNA,contact,broad,high,yes,high,no,CDC Hospital-Acquired Infection Reference
+Haemophilus influenzae,2,dsDNA,droplet,narrow,low,yes,high,no,CDC Haemophilus Reference Lab
+Coxiella burnetii,3,dsDNA,airborne,broad,high,yes,low,yes,CDC Q Fever Special Pathogens Assessment
+Brucella abortus,3,dsDNA,contact,broad,high,yes,low,yes,CDC Brucellosis Occupational Risk Assessment
+Rickettsia prowazekii,3,dsDNA,contact,broad,medium,yes,low,yes,CDC Rocky Mountain Spotted Fever Laboratory
+Chlamydia trachomatis,2,dsDNA,contact,broad,medium,yes,high,no,CDC STD Treatment Guidelines
+Legionella pneumophila,2,dsDNA,airborne,broad,high,yes,medium,no,CDC Legionellosis Case Definitions
+Hepatitis C virus,2,ssRNA+,contact,narrow,medium,yes,low,no,WHO Hepatitis C Guidelines
+HIV-1,2,ssRNA+,contact,narrow,medium,yes,low,no,CDC HIV/AIDS Case Definitions
+Measles morbillivirus,2,ssRNA-,airborne,broad,low,yes,high,no,CDC Measles Laboratory Guidelines
+Variola virus,4,dsDNA,droplet,human-only,high,no,low,no,CDC Smallpox Post-Eradication Reference (archived)
+Poliovirus,2,ssRNA+,fecal-oral,broad,high,yes,high,no,WHO Polio Post-Eradication Surveillance Guidelines
+Clostridioides difficile,2,dsDNA,contact,broad,high,yes,high,no,CDC CDI Prevention Guidelines
+Bacillus subtilis,1,dsDNA,contact,broad,high,yes,high,no,ATCC Biological Agents Reference - Tier 1

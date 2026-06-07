@@ -1,3 +1,14 @@
+"""
+SHAP Spillover Model Explainability Pipeline
+=============================================
+IMPORTANT METHODOLOGICAL NOTE:
+SHAP feature importance shows which verified biological features most distinguish 
+spillover vs. non-spillover viruses in the OLIVAL dataset—NOT causal mechanisms.
+
+This reflects CORRELATIONS in published host-virus interaction data, not novel 
+biological discoveries. All features sourced from verified databases (see DATA_SOURCES.md).
+"""
+
 import os
 import pandas as pd
 import pickle
@@ -26,8 +37,13 @@ if isinstance(shap_values, list):
 else:
     shap.summary_plot(shap_values, X, show=False)
 
-plt.title('SHAP Feature Importance — Zoonotic Spillover Model', fontweight='bold')
+# Updated title to reflect correlation analysis, not causal importance
+plt.title('Feature Contributions to Spillover Classification\n(OLIVAL Dataset Correlations)', 
+          fontweight='bold', fontsize=12)
+plt.figtext(0.5, 0.02, 'Based on verified biological features from published host-virus databases', 
+            ha='center', fontsize=9, style='italic', color='gray')
 plt.tight_layout()
 plt.savefig(os.path.join('results', 'figures', 'shap_spillover.png'), dpi=300, bbox_inches='tight')
 plt.close()
-print('Saved: results/figures/shap_spillover.png')
+print('✅ Saved: results/figures/shap_spillover.png')
+print('   Interpretation: Feature contributions to model predictions (not biological causation)')
