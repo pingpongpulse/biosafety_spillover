@@ -6,11 +6,11 @@ import matplotlib.pyplot as plt
 
 os.makedirs(os.path.join('results', 'figures'), exist_ok=True)
 
-model_path = os.path.join('results', 'xgboost_model.pkl')
+model_path = os.path.join('models', 'xgboost_rg_classifier.pkl')
 data_path = os.path.join('data', 'processed', 'smote_dataset.csv')
 
 if not os.path.exists(model_path):
-    raise FileNotFoundError('Missing model file: results/xgboost_model.pkl')
+    raise FileNotFoundError('Missing model file: models/xgboost_rg_classifier.pkl')
 if not os.path.exists(data_path):
     raise FileNotFoundError('Missing dataset file: data/processed/smote_dataset.csv')
 

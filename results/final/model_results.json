@@ -1,0 +1,34 @@
+{
+  "cv_f1_macro_mean": 0.7078,
+  "cv_f1_macro_std": 0.0079,
+  "cv_f1_macro_scores": [
+    0.7004853847262172,
+    0.7064040055238605,
+    0.7207422194218044,
+    0.6994325006061106,
+    0.7119615303060922
+  ],
+  "cv_accuracy_mean": 0.717,
+  "cv_accuracy_std": 0.0077,
+  "training_samples": 17876,
+  "feature_names": [
+    "genome_type_enc",
+    "transmission_route_enc",
+    "host_range_enc",
+    "environmental_stability_enc",
+    "treatment_available_enc",
+    "infectious_dose_enc",
+    "zoonotic_enc"
+  ],
+  "class_labels": [
+    "RG1",
+    "RG2",
+    "RG3",
+    "RG4"
+  ],
+  "model_params": {
+    "n_estimators": 300,
+    "max_depth": 6,
+    "learning_rate": 0.05
+  }
+}

@@ -1,0 +1,4 @@
+Pathogen,Predicted_RG,Known_RG,Match,Off_By,Confidence
+SARS-CoV-2,3,3,YES,0,0.646
+Ebola virus,4,4,YES,0,0.958
+Escherichia coli K12,2,1,NO,1,0.582
