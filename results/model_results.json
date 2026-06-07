@@ -1,24 +1,26 @@
 {
-  "cv_f1_macro_mean": 0.7078,
-  "cv_f1_macro_std": 0.0079,
+  "cv_f1_macro_mean": 0.6818,
+  "cv_f1_macro_std": 0.0207,
   "cv_f1_macro_scores": [
-    0.7004853847262172,
-    0.7064040055238605,
-    0.7207422194218044,
-    0.6994325006061106,
-    0.7119615303060922
+    0.6966,
+    0.6931,
+    0.6734,
+    0.6448,
+    0.7009
   ],
-  "cv_accuracy_mean": 0.717,
-  "cv_accuracy_std": 0.0077,
-  "training_samples": 17876,
+  "cv_accuracy_mean": 0.6844,
+  "cv_accuracy_std": 0.0224,
+  "training_samples": 1904,
   "feature_names": [
     "genome_type_enc",
-    "transmission_route_enc",
-    "host_range_enc",
-    "environmental_stability_enc",
-    "treatment_available_enc",
-    "infectious_dose_enc",
-    "zoonotic_enc"
+    "taxonomic_family_enc",
+    "is_dna",
+    "is_enveloped",
+    "is_segmented",
+    "is_vector_borne",
+    "is_zoonotic",
+    "infects_humans",
+    "host_breadth"
   ],
   "class_labels": [
     "RG1",
@@ -26,9 +28,12 @@
     "RG3",
     "RG4"
   ],
+  "device": "cuda",
   "model_params": {
-    "n_estimators": 300,
-    "max_depth": 6,
-    "learning_rate": 0.05
-  }
+    "n_estimators": 150,
+    "max_depth": 4,
+    "learning_rate": 0.05,
+    "min_child_weight": 5
+  },
+  "dataset_note": "Viral pathogens only. Real biological features from ICTV/Virus-Host DB/Olival. Zero LLM imputation."
 }

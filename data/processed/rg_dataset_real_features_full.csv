@@ -1,0 +1,958 @@
+name,rg_label,agent_type,genome_type,is_dna,is_enveloped,is_segmented,is_vector_borne,is_zoonotic,host_breadth,infects_humans,taxonomic_family,ncbi_tax_id,source_count,feature_sources,n_real_features
+Adeno-associated virus rh.10,1,Virus,,,1.0,0.0,,1.0,3.0,,,,1,olival,4
+Aedes flavivirus,1,Virus,,,1.0,1.0,0.0,1.0,1.0,0.0,,390845.0,2,olival|virushostdb,6
+Alajuela orthobunyavirus,3,Virus,,,,,,,,,,1933181.0,0,,0
+Alongshan virus,3,Virus,,,1.0,1.0,0.0,1.0,7.0,,,2269360.0,1,olival,5
+Alphaarterivirus equid,1,Virus,ssRNA+,0.0,1.0,,,,,,Arteriviridae,2499620.0,1,ictv,4
+Alphabaculovirus adhonmai,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047348.0,1,ictv,3
+Alphabaculovirus agipsilonis,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047352.0,1,ictv,3
+Alphabaculovirus agsegetum,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047354.0,1,ictv,3
+Alphabaculovirus alteragsegetum,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047355.0,1,ictv,3
+Alphabaculovirus alterchofumiferanae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047749.0,1,ictv,3
+Alphabaculovirus altermaconfiguratae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048196.0,1,ictv,3
+Alphabaculovirus angemmatalis,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047368.0,1,ictv,3
+Alphabaculovirus anpernyi,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047366.0,1,ictv,3
+Alphabaculovirus aucalifornicae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047383.0,1,ictv,3
+Alphabaculovirus bomori,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047695.0,1,ictv,3
+Alphabaculovirus busuppressariae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047704.0,1,ictv,3
+Alphabaculovirus capomonae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047737.0,1,ictv,3
+Alphabaculovirus chofumiferanae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047750.0,1,ictv,3
+Alphabaculovirus chomurinanae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047751.0,1,ictv,3
+Alphabaculovirus chorosaceanae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047752.0,1,ictv,3
+Alphabaculovirus chrincludentis,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3050266.0,1,ictv,3
+Alphabaculovirus chrychalcites,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047753.0,1,ictv,3
+Alphabaculovirus clabilineatae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047759.0,1,ictv,3
+Alphabaculovirus ecobliquae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047815.0,1,ictv,3
+Alphabaculovirus eppostvittanae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047825.0,1,ictv,3
+Alphabaculovirus eupseudoconspersae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047831.0,1,ictv,3
+Alphabaculovirus helarmigerae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047947.0,1,ictv,3
+Alphabaculovirus hycuneae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048149.0,1,ictv,3
+Alphabaculovirus lafiscellariae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048172.0,1,ictv,3
+Alphabaculovirus leseparatae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048181.0,1,ictv,3
+Alphabaculovirus lydisparis,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048188.0,1,ictv,3
+Alphabaculovirus lyxylinae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3051419.0,1,ictv,3
+Alphabaculovirus mabrassicae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048194.0,1,ictv,3
+Alphabaculovirus maconfiguratae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048195.0,1,ictv,3
+Alphabaculovirus mavitratae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048197.0,1,ictv,3
+Alphabaculovirus orleucostigmae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048237.0,1,ictv,3
+Alphabaculovirus orpseudotsugatae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048238.0,1,ictv,3
+Alphabaculovirus spexiguae,1,Virus,dsDNA,1.0,,,,,1.0,0.0,Baculoviridae,3051423.0,2,ictv|virushostdb,5
+Alphabaculovirus splittoralis,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048336.0,1,ictv,3
+Alphabaculovirus spliturae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048338.0,1,ictv,3
+Alphabaculovirus spofrugiperdae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048335.0,1,ictv,3
+Alphabaculovirus sujujubae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048345.0,1,ictv,3
+Alphabaculovirus thorichlaceae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048363.0,1,ictv,3
+Alphabaculovirus trini,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048436.0,1,ictv,3
+Alphabaculovirus wisignatae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048450.0,1,ictv,3
+Alphacoronavirus porci,1,Virus,ssRNA+,0.0,1.0,0.0,0.0,0.0,1.0,,Coronaviridae,3433789.0,2,ictv|olival,8
+Alphacoronavirus suis,1,Virus,ssRNA+,0.0,1.0,0.0,0.0,0.0,1.0,,Coronaviridae,3433814.0,2,ictv|olival,8
+Alphainfluenzavirus influenzae (H1N1)pdm09,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae (H1N2)v,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae A/American wigeon/South Carolina/22-000345-001/2021 (H5N1) IDCDC-RG78A,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/Anhui/01/2005(H5N1)-PR8 IDCDC RG6,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/Anhui/1/2013(H7N9)-PR8 NIBRG-268,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae A/Ann Arbor/6/60 cold-adapted (H2N2),2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae A/Astrakhan/3212/2020 (H5N8) IDCDC-RG71A,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae A/California/7/2009(H1N1)-PA(I38M),2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/California/7/2009(H1N1)-PA(I38T),2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/California/7/2009(H1N1)-PR8 NYMC X-181,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/California/7/2009(H1N1)-PR8 NYMC X-181A,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/California/7/2009(H1N1)-PR8 NYMC X-181B,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/California/7/2009(H1N1)-PR8 NYMC X179A,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/Chicken/Bangladesh/11rs1984-30/2011(H5N1)-PR8 IDCDC RG36,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/Chicken/Hong Kong/G9/97(H9N2)-PR8 NIBRG-91,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae A/Chicken/Vietnam/NCVD-03/2008(H5N1)-PR8-IDCDC-25a,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/Egypt/N03072/2010(H5N1)-PR8-IDCDC-29,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/Hong Kong/125/2017(H7N9)-IDCDC-RG56B,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae A/Hubei/1/2010(H5N1)-PR8-IDCDC-30,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/India/NIV/2006(H5N1)-PR8-IBCDC-RG7,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/Indonesia/5/2005(H5N1)-PR8 IDCDC RG2,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/Mallard/Netherlands/12/2000(H7N1)-PR8 NIBRG-63,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae A/Mallard/Netherlands/12/2000(H7N3)-PR8 NIBRG-60,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae A/Mallard/Netherlands/12/2000(H7N7)-IBCDC-1,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae A/NWS/G70c (H1N9),2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae A/New Jersey/8/1976 H1N1,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/Puerto Rico/8/1934 (H1N1),2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/Puerto Rico/8/1934 (H1N1)-NA(Bov),2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/Puerto Rico/8/1934(H1N1)-PA(I38T),2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/Shanghai/2/2013(H7N9)-PR8 IDCDC-RG32A,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae A/Shanghai/2/2013(H7N9)-PR8 NIBRG-267,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae A/Sichuan/26221/2014(H5N6)-PR8 IDCDC RG42A,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae A/Turkey/1/2005(H5N1)-PR8 NIBRG-23,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/Turkey/Virginia/4529/2002(H7N2)-PR8-IBCDC-5,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae A/Vietnam/1194/2004(H5N1)-PR8 NIBRG-14,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/Vietnam/1203/2004(H5N1)-PR8 SJRG-161052,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae A/gyrfalcon/Washington/41088-6/2014(H5N8)-PR8 IDCDC-RG43A,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae A/pheasant/New Jersey/1355/1998(H5N2)/PR8-IBCDC-4,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H10N8,3,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H11N2,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H11N6,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H12N5,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H13N6,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H14N5,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H15N9,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H1N1 reconstructed 1918 strain,4,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae H1N9,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H2N2,3,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H2N3,3,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H2N5,3,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H3N2,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H3N6,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H3N8 (avian and zoonotic),3,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H3N8 (canine),2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H3N8 (equine),2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H3N9,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H4N3,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H4N6,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H5N1,3,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae H5N1 transmissible engineered strain,4,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+Alphainfluenzavirus influenzae H5N2,3,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H5N3,3,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H5N5,3,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H5N6,3,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H5N9,3,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H6N1,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H6N4,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H6N5,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H7N3,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H7N7,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H7N8,3,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H7N9,3,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H8N4,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae H9N2,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphainfluenzavirus influenzae cH6/1N5,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,,1,ictv,4
+Alphanodavirus nodamuraense,2,Virus,ssRNA+,0.0,0.0,,,,,,Nodaviridae,3426216.0,1,ictv,4
+Alphapapillomavirus 1-14,2,Virus,dsDNA,1.0,0.0,0.0,0.0,0.0,1.0,,Papillomaviridae,,2,ictv|olival,8
+Alphapolyomavirus nonihominis,2,Virus,dsDNA,1.0,0.0,,,,,,Polyomaviridae,2955297.0,1,ictv,4
+Alphapolyomavirus octihominis,2,Virus,dsDNA,1.0,0.0,,,,,,Polyomaviridae,1891727.0,1,ictv,4
+Alphapolyomavirus quintihominis,2,Virus,dsDNA,1.0,0.0,,,,,,Polyomaviridae,1891726.0,1,ictv,4
+Alpharetrovirus avileu,1,Virus,other,0.0,1.0,,,,,,Retroviridae,3426267.0,1,ictv,4
+Alpharetrovirus avimyebla,1,Virus,other,0.0,1.0,,,,,,Retroviridae,3426268.0,1,ictv,4
+Alpharetrovirus avimyecyt29,1,Virus,other,0.0,1.0,,,,,,Retroviridae,3426269.0,1,ictv,4
+Alpharetrovirus avirousar,2,Virus,other,0.0,1.0,,,,,,Retroviridae,3426270.0,1,ictv,4
+Alpharetrovirus avisar10,2,Virus,other,0.0,1.0,,,,,,Retroviridae,3426271.0,1,ictv,4
+Alphavirus aura,3,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,2.0,,Togaviridae,3426293.0,2,ictv|olival,8
+Alphavirus barmah,2,Virus,ssRNA+,0.0,1.0,,,,,,Togaviridae,3426294.0,1,ictv,4
+Alphavirus bebaru,2,Virus,ssRNA+,0.0,1.0,0.0,0.0,0.0,1.0,,Togaviridae,3426295.0,2,ictv|olival,8
+Alphavirus cabassou,3,Virus,ssRNA+,0.0,1.0,0.0,0.0,0.0,1.0,,Togaviridae,3426297.0,2,ictv|olival,8
+Alphavirus chikungunya,3,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,16.0,,Togaviridae,3426298.0,2,ictv|olival,8
+Alphavirus chikungunya 181/clone 25,2,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,16.0,,Togaviridae,,2,ictv|olival,8
+Alphavirus eastern,3,Virus,ssRNA+,0.0,1.0,,,,,,Togaviridae,3426299.0,1,ictv,4
+Alphavirus everglades,3,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,4.0,,Togaviridae,3426301.0,2,ictv|olival,8
+Alphavirus fortmorgan,2,Virus,ssRNA+,0.0,1.0,,,,,,Togaviridae,3426302.0,1,ictv,4
+Alphavirus getah,2,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,3.0,,Togaviridae,3426303.0,2,ictv|olival,8
+Alphavirus highlandsj,2,Virus,ssRNA+,0.0,1.0,,,,,,Togaviridae,3426304.0,1,ictv,4
+Alphavirus mayaro,2,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,18.0,,Togaviridae,3426306.0,2,ictv|olival,8
+Alphavirus mucambo,3,Virus,ssRNA+,0.0,1.0,0.0,0.0,0.0,4.0,,Togaviridae,3426309.0,2,ictv|olival,8
+Alphavirus ndumu,3,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,2.0,,Togaviridae,3426310.0,2,ictv|olival,8
+Alphavirus onyong,2,Virus,ssRNA+,0.0,1.0,,,,,,Togaviridae,3426312.0,1,ictv,4
+Alphavirus pixuna,3,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,3.0,,Togaviridae,3426313.0,2,ictv|olival,8
+Alphavirus rossriver,2,Virus,ssRNA+,0.0,1.0,,,,,,Togaviridae,3426314.0,1,ictv,4
+Alphavirus salmon,1,Virus,ssRNA+,0.0,1.0,,,,,,Togaviridae,3426315.0,1,ictv,4
+Alphavirus semliki,2,Virus,ssRNA+,0.0,1.0,,,,,,Togaviridae,3426317.0,1,ictv,4
+Alphavirus sindbis,2,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,10.0,,Togaviridae,3426318.0,2,ictv|olival,8
+Alphavirus una,2,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,3.0,,Togaviridae,3426321.0,2,ictv|olival,8
+Alphavirus venezuelan,3,Virus,ssRNA+,0.0,1.0,,,,,,Togaviridae,3426322.0,1,ictv,4
+Alphavirus venezuelan TC-83,2,Virus,ssRNA+,0.0,1.0,,,,,,Togaviridae,,1,ictv,4
+Alphavirus western,3,Virus,ssRNA+,0.0,1.0,,,,,,Togaviridae,3426323.0,1,ictv,4
+Alphavirus whataroa,2,Virus,ssRNA+,0.0,1.0,,,,,,Togaviridae,3426324.0,1,ictv,4
+Amdoparvovirus carnivoran1,1,Virus,ssDNA,1.0,0.0,,,,,,Parvoviridae,3051624.0,1,ictv,4
+Aparavirus apisacutum,2,Virus,ssRNA+,0.0,,,,,,,Dicistroviridae,3047346.0,1,ictv,3
+Aparavirus tauraense,1,Virus,ssRNA+,0.0,,,,,,,Dicistroviridae,3048357.0,1,ictv,3
+Aphthovirus bogeli,1,Virus,ssRNA+,0.0,0.0,,,,,,Picornaviridae,3426398.0,1,ictv,4
+Aphthovirus reedi,1,Virus,ssRNA+,0.0,0.0,,,,,,Picornaviridae,3426400.0,1,ictv,4
+Aquabirnavirus salmonidae,1,Virus,dsRNA,0.0,,,,,,,Birnaviridae,3048153.0,1,ictv,3
+Aransas Bay virus,3,Virus,,,1.0,0.0,0.0,0.0,13.0,,,1428582.0,1,olival,5
+Aripo virus,2,Virus,,,1.0,0.0,0.0,0.0,2.0,,,2861005.0,1,olival,5
+Arurhavirus inhangapi,3,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,2734371.0,1,ictv,4
+Arurhavirus xiburema,3,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,2734373.0,1,ictv,4
+Asfivirus haemorrhagiae (African swine fever virus),1,Virus,dsDNA,1.0,1.0,0.0,0.0,0.0,3.0,,Asfarviridae,,2,ictv|olival,8
+Ash River virus,3,Virus,,,1.0,0.0,0.0,1.0,6.0,,,466216.0,1,olival,5
+Aurivirus haliotidmalaco1,1,Virus,dsDNA,1.0,1.0,,,,1.0,0.0,Malacoherpesviridae,3416944.0,2,ictv|virushostdb,6
+Ausdyk disease virus,2,Virus,,,1.0,0.0,0.0,0.0,11.0,,,,1,olival,5
+Avastrovirus galli,2,Virus,ssRNA+,0.0,0.0,,,,,,Astroviridae,3426505.0,1,ictv,4
+Avastrovirus intestini,2,Virus,ssRNA+,0.0,0.0,,,,,,Astroviridae,3426506.0,1,ictv,4
+Avastrovirus meleagridis,2,Virus,ssRNA+,0.0,0.0,,,,,,Astroviridae,3426507.0,1,ictv,4
+Aviadenovirus ventriculi,1,Virus,dsDNA,1.0,0.0,0.0,0.0,0.0,1.0,,Adenoviridae,3426541.0,2,ictv|olival,8
+Avian orthoavulavirus 1 Newcastle disease virus (NDV) strain TS09-C,2,Virus,,,1.0,0.0,0.0,0.0,1.0,,,,1,olival,5
+Avibirnavirus gumboroense,1,Virus,dsRNA,0.0,,,,,,,Birnaviridae,3048151.0,1,ictv,3
+Avipoxvirus canarypox,1,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,3426548.0,1,ictv,4
+Avipoxvirus canarypox Replication-defective ALVAC vectors,1,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,,1,ictv,4
+Avipoxvirus fowlpox,1,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,3426550.0,1,ictv,4
+Avipoxvirus pigeonpox,1,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,3426552.0,1,ictv,4
+Avipoxvirus quailpox,1,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,3426553.0,1,ictv,4
+Avipoxvirus turkeypox,1,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,3426554.0,1,ictv,4
+Bacteriophages,1,Virus,,,,,,,1.0,1.0,,38018.0,1,virushostdb,2
+Baku virus,2,Virus,,,1.0,1.0,0.0,0.0,6.0,,,1484571.0,1,olival,5
+Bandavirus bhanjanagarense,3,Virus,other,0.0,1.0,,,,,,Phenuiviridae,3051989.0,1,ictv,4
+Bandavirus dabieense,3,Virus,other,0.0,1.0,,,,,,Phenuiviridae,2748958.0,1,ictv,4
+Bandavirus heartlandense,2,Virus,other,0.0,1.0,,,,,,Phenuiviridae,3051992.0,1,ictv,4
+Bandavirus razdanense,3,Virus,other,0.0,1.0,,,,,,Phenuiviridae,3051994.0,1,ictv,4
+Bangui virus,2,Virus,,,1.0,1.0,0.0,0.0,1.0,,,2748253.0,1,olival,5
+Barthadenovirus galloanserae,1,Virus,dsDNA,1.0,0.0,,,,,,Adenoviridae,3426632.0,1,ictv,4
+Barthadenovirus ovis,2,Virus,dsDNA,1.0,0.0,0.0,0.0,0.0,1.0,,Adenoviridae,3426638.0,2,ictv|olival,8
+Batravirus ranidallo1,1,Virus,dsDNA,1.0,1.0,,,,,,Alloherpesviridae,3050346.0,1,ictv,4
+Bauline virus,2,Virus,,,1.0,1.0,0.0,0.0,1.0,,,3459226.0,1,olival,5
+Betaarterivirus americense,1,Virus,ssRNA+,0.0,1.0,,,,,,Arteriviridae,2499685.0,1,ictv,4
+Betaarterivirus europensis,1,Virus,ssRNA+,0.0,1.0,,,,,,Arteriviridae,3411021.0,1,ictv,4
+Betabaculovirus adoranae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047349.0,1,ictv,3
+Betabaculovirus agsegetum,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047353.0,1,ictv,3
+Betabaculovirus alterclanastomosis,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047764.0,1,ictv,3
+Betabaculovirus arrapae,1,Virus,dsDNA,1.0,,,,,1.0,0.0,Baculoviridae,2848030.0,2,ictv|virushostdb,5
+Betabaculovirus chofumiferanae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3051997.0,1,ictv,3
+Betabaculovirus clanachoretae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047762.0,1,ictv,3
+Betabaculovirus clanastomosis,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047763.0,1,ictv,3
+Betabaculovirus cryleucotretae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047776.0,1,ictv,3
+Betabaculovirus cypomonellae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047787.0,1,ictv,3
+Betabaculovirus disaccharalis,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047795.0,1,ictv,3
+Betabaculovirus epaporemae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047824.0,1,ictv,3
+Betabaculovirus erellonis,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047828.0,1,ictv,3
+Betabaculovirus habrilliantis,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047862.0,1,ictv,3
+Betabaculovirus helarmigerae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047946.0,1,ictv,3
+Betabaculovirus lacoleraceae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048171.0,1,ictv,3
+Betabaculovirus myunipunctae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3051999.0,1,ictv,3
+Betabaculovirus phoperculellae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048268.0,1,ictv,3
+Betabaculovirus plinterpunctellae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048275.0,1,ictv,3
+Betabaculovirus pluxylostellae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048276.0,1,ictv,3
+Betabaculovirus spliturae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048337.0,1,ictv,3
+Betabaculovirus spofrugiperdae,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048334.0,1,ictv,3
+Betabaculovirus trini,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048435.0,1,ictv,3
+Betabaculovirus xecnigri,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048452.0,1,ictv,3
+Betacoronavirus cameli,3,Virus,ssRNA+,0.0,1.0,0.0,0.0,0.0,1.0,,Coronaviridae,3433633.0,2,ictv|olival,8
+Betacoronavirus gravedinis (excluding human coronavirus OC43),1,Virus,ssRNA+,0.0,1.0,0.0,0.0,0.0,1.0,,Coronaviridae,,2,ictv|olival,8
+Betacoronavirus gravedinis (human coronavirus OC43),2,Virus,ssRNA+,0.0,1.0,0.0,0.0,0.0,1.0,,Coronaviridae,,2,ictv|olival,8
+Betacoronavirus muris,2,Virus,ssRNA+,0.0,1.0,0.0,0.0,0.0,1.0,,Coronaviridae,3433759.0,2,ictv|olival,8
+Betainfluenzavirus influenzae,2,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,2955465.0,1,ictv,4
+Betapolyomavirus hominis,2,Virus,dsDNA,1.0,0.0,0.0,0.0,0.0,1.0,1.0,Polyomaviridae,1891762.0,3,ictv|olival|virushostdb,9
+Betapolyomavirus macacae,2,Virus,dsDNA,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Polyomaviridae,1891767.0,3,ictv|olival|virushostdb,9
+Betapolyomavirus quartihominis,2,Virus,dsDNA,1.0,0.0,,,,,,Polyomaviridae,1891765.0,1,ictv,4
+Betapolyomavirus secuhominis,2,Virus,dsDNA,1.0,0.0,,,,,,Polyomaviridae,2898086.0,1,ictv,4
+Betapolyomavirus tertihominis,2,Virus,dsDNA,1.0,0.0,,,,1.0,1.0,Polyomaviridae,1891764.0,2,ictv|virushostdb,6
+Betaretrovirus maspfimon,1,Virus,other,0.0,1.0,,,,,,Retroviridae,3427294.0,1,ictv,4
+Betaretrovirus murmamtum,1,Virus,other,0.0,1.0,,,,,,Retroviridae,3427295.0,1,ictv,4
+Bocaparvovirus primate1,2,Virus,ssDNA,1.0,0.0,0.0,0.0,0.0,1.0,1.0,Parvoviridae,3052040.0,3,ictv|olival|virushostdb,9
+Bocaparvovirus primate2,2,Virus,ssDNA,1.0,0.0,,,,,,Parvoviridae,3052041.0,1,ictv,4
+Bocaparvovirus ungulate1,1,Virus,ssDNA,1.0,0.0,0.0,0.0,0.0,1.0,,Parvoviridae,3052045.0,2,ictv|olival,8
+Bourbon virus,3,Virus,,,1.0,0.0,0.0,1.0,1.0,0.0,,1618189.0,2,olival|virushostdb,6
+Bovine viral diarrhea virus,1,Virus,,,1.0,0.0,0.0,0.0,1.0,0.0,,11099.0,2,olival|virushostdb,6
+Calbertado virus,1,Virus,,,1.0,0.0,0.0,0.0,1.0,,,537023.0,1,olival,5
+Calchaqui virus,3,Virus,,,1.0,0.0,0.0,0.0,1.0,,,1552845.0,1,olival,5
+Capripoxvirus goatpox,1,Virus,dsDNA,1.0,1.0,0.0,0.0,0.0,1.0,,Poxviridae,3427717.0,2,ictv|olival,8
+Capripoxvirus lumpyskinpox,1,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,3427718.0,1,ictv,4
+Capripoxvirus sheeppox,1,Virus,dsDNA,1.0,1.0,0.0,0.0,0.0,2.0,,Poxviridae,3427719.0,2,ictv|olival,8
+Cardiovirus rueckerti,1,Virus,ssRNA+,0.0,0.0,,,,,,Picornaviridae,3427730.0,1,ictv,4
+Cardiovirus theileri,1,Virus,ssRNA+,0.0,0.0,,,,,,Picornaviridae,3427732.0,1,ictv,4
+Cell fusing agent virus,1,Virus,,,1.0,0.0,0.0,1.0,2.0,0.0,,31658.0,2,olival|virushostdb,6
+ChimeriVax-West Nile virus vaccine,1,Virus,,,1.0,0.0,0.0,1.0,25.0,,,,1,olival,5
+Chloriridovirus simulium1,1,Virus,dsDNA,1.0,,,,,,,Iridoviridae,3427924.0,1,ictv,3
+Circovirus porcine1,1,Virus,ssDNA,1.0,0.0,,,,,,Circoviridae,3048278.0,1,ictv,4
+Circovirus porcine2,1,Virus,ssDNA,1.0,0.0,,,,,,Circoviridae,3048279.0,1,ictv,4
+"Cold-adapted, temperature-sensitive and attenuated influenza A/Norway/31694/2022 (H1N1) virus",2,Virus,,,1.0,1.0,0.0,1.0,22.0,,,,1,olival,5
+"Cold-adapted, temperature-sensitive, and attenuated influenza A/Thailand/8/2022 (H3N2)-like virus",2,Virus,,,1.0,1.0,0.0,1.0,22.0,,,,1,olival,5
+Coltivirus dermacentoris,2,Virus,dsRNA,0.0,,,,,,,Spinareoviridae,3428066.0,1,ictv,3
+Coltivirus ixodis,2,Virus,dsRNA,0.0,,,,,,,Spinareoviridae,3428067.0,1,ictv,3
+Culex flavivirus,1,Virus,,,,,,,1.0,0.0,,390844.0,1,virushostdb,2
+Culex theileri flavivirus,1,Virus,,,,,,,3.0,0.0,,1244563.0,1,virushostdb,2
+Curiovirus rochambeau,3,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1985691.0,1,ictv,4
+Cytomegalovirus cercopithecinebeta5,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050258.0,1,ictv,3
+Cytomegalovirus humanbeta5,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050295.0,1,ictv,3
+Cyvirus cyprinidallo3,1,Virus,dsDNA,1.0,1.0,,,,,,Alloherpesviridae,3050271.0,1,ictv,4
+Deltaarterivirus hemfev,2,Virus,ssRNA+,0.0,1.0,,,,,,Arteriviridae,2499622.0,1,ictv,4
+Deltabaculovirus cunigripalpi,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3047782.0,1,ictv,3
+Deltacoronavirus suis,2,Virus,ssRNA+,0.0,1.0,0.0,0.0,0.0,7.0,,Coronaviridae,3433742.0,2,ictv|olival,8
+Deltapapillomavirus 3,1,Virus,dsDNA,1.0,0.0,0.0,0.0,0.0,2.0,,Papillomaviridae,2012639.0,2,ictv|olival,8
+Deltapolyomavirus septihominis,2,Virus,dsDNA,1.0,0.0,,,,,,Polyomaviridae,2955745.0,1,ictv,4
+Deltapolyomavirus sextihominis,2,Virus,dsDNA,1.0,0.0,,,,,,Polyomaviridae,2955746.0,1,ictv,4
+Deltaretrovirus bovleu,1,Virus,other,0.0,1.0,,,,,,Retroviridae,3428211.0,1,ictv,4
+Dengue virus quadrivalent vaccine V181,1,Virus,,,1.0,0.0,0.0,1.0,25.0,,,,1,olival,5
+Dependoparvovirus anseriform1,1,Virus,ssDNA,1.0,0.0,,,,,,Parvoviridae,1737584.0,1,ictv,4
+Dependoparvovirus primate1,1,Virus,ssDNA,1.0,0.0,,,,,,Parvoviridae,2876790.0,1,ictv,4
+Dependoparvovirus primate1 AAV9-GP-AAV-syn-jGCaMP8f-WPRE,1,Virus,ssDNA,1.0,0.0,,,,,,Parvoviridae,,1,ictv,4
+Dependoparvovirus primate1 AAV9-hDlx-GiDREADD-dTomato-Fishell-5,1,Virus,ssDNA,1.0,0.0,,,,,,Parvoviridae,,1,ictv,4
+Dependoparvovirus primate1 encoding Human Tau gene insert (Tau E14 P301),2,Virus,ssDNA,1.0,0.0,,,,,,Parvoviridae,,1,ictv,4
+Dependoparvovirus primate1 encoding antisense RNA to DMPK transgene,2,Virus,ssDNA,1.0,0.0,,,,,,Parvoviridae,,1,ictv,4
+Dianlovirus menglaense,4,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Filoviridae,3052181.0,2,ictv|virushostdb,6
+Ebola virus minigenome contained in transcription and replication competent virus-like particles (trVLPs),2,Virus,,,,,,,,,,,0,,0
+Ebolaviruses,4,Virus,,,1.0,0.0,0.0,0.0,1.0,,,,1,olival,5
+Elephantpox virus,2,Virus,,,1.0,0.0,0.0,0.0,2.0,,,160797.0,1,olival,5
+Enterovirus SV-16 ATCC VR-211,2,Virus,,,1.0,0.0,0.0,1.0,3.0,,,,1,olival,5
+Enterovirus SV-18 ATCC VR-212,2,Virus,,,1.0,0.0,0.0,1.0,3.0,,,,1,olival,5
+Enterovirus SV-2 ATCC VR-210,2,Virus,,,1.0,0.0,0.0,1.0,3.0,,,,1,olival,5
+Enterovirus SV-26 ATCC VR-290,2,Virus,,,1.0,0.0,0.0,1.0,3.0,,,,1,olival,5
+Enterovirus SV-28 ATCC VR-291,2,Virus,,,1.0,0.0,0.0,1.0,3.0,,,,1,olival,5
+Enterovirus SV-35 ATCC VR-292,2,Virus,,,1.0,0.0,0.0,1.0,3.0,,,,1,olival,5
+Enterovirus SV-4 ATCC VR-287,2,Virus,,,1.0,0.0,0.0,1.0,3.0,,,,1,olival,5
+Enterovirus alphacoxsackie,2,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,3428500.0,2,ictv|olival,8
+Enterovirus alphacoxsackie simian virus 19 (SV-19) ATCC VR-213,2,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,,2,ictv|olival,8
+Enterovirus alpharhino,2,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,3428501.0,2,ictv|olival,8
+Enterovirus betacoxsackie,2,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,3428502.0,2,ictv|olival,8
+Enterovirus betarhino,2,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,3428503.0,2,ictv|olival,8
+Enterovirus cerhino,2,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,3428504.0,2,ictv|olival,8
+Enterovirus coxsackiepol coxsackievirus A21,2,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,,2,ictv|olival,8
+Enterovirus coxsackiepol novel oral polio vaccine 1 (nOPV1),3,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,,2,ictv|olival,8
+Enterovirus coxsackiepol novel oral polio vaccine 2 (nOPV2),3,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,,2,ictv|olival,8
+Enterovirus coxsackiepol novel oral polio vaccine 3 (nOPV3),3,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,,2,ictv|olival,8
+Enterovirus coxsackiepol poliovirus 1,3,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,,2,ictv|olival,8
+Enterovirus coxsackiepol poliovirus 2,3,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,,2,ictv|olival,8
+Enterovirus coxsackiepol poliovirus 3,3,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,,2,ictv|olival,8
+Enterovirus coxsackiepol poliovirus Sabin oral vaccine 1 (OPV1),3,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,,2,ictv|olival,8
+Enterovirus coxsackiepol poliovirus Sabin oral vaccine 2 (OPV2),3,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,,2,ictv|olival,8
+Enterovirus coxsackiepol poliovirus Sabin oral vaccine 3 (OPV3),3,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,,2,ictv|olival,8
+Enterovirus coxsackiepol vaccine-derived poliovirus 1,3,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,,2,ictv|olival,8
+Enterovirus coxsackiepol vaccine-derived poliovirus 2,3,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,,2,ictv|olival,8
+Enterovirus coxsackiepol vaccine-derived poliovirus 3,3,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,,2,ictv|olival,8
+Enterovirus deconjuncti,2,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,3428506.0,2,ictv|olival,8
+Enterovirus eibovi,1,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,3428507.0,2,ictv|olival,8
+Env pseudotyped Human immunodeficiency virus,3,Virus,,,1.0,0.0,0.0,0.0,1.0,,,,1,olival,5
+Ephemerovirus adelaide,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972589.0,1,ictv,4
+Ephemerovirus berrimah,3,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,1.0,,Rhabdoviridae,1972594.0,2,ictv|olival,8
+Ephemerovirus febris,1,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972593.0,1,ictv,4
+Ephemerovirus kimberley,3,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972595.0,1,ictv,4
+Ephemerovirus kotonkan,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,4.0,,Rhabdoviridae,1972587.0,2,ictv|olival,8
+Ephemerovirus puchong,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,2845987.0,1,ictv,4
+Ephemerovirus yata,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972597.0,1,ictv,4
+Eptesicus fuscus gammaherpesvirus,2,Virus,,,,,,,1.0,0.0,,2035399.0,1,virushostdb,2
+Equine parapoxvirus,2,Virus,,,1.0,0.0,0.0,0.0,2.0,,,1686431.0,1,olival,5
+Erbovirus aequirhi,1,Virus,ssRNA+,0.0,0.0,,,,,,Picornaviridae,3428567.0,1,ictv,4
+Erythroparvovirus primate1,2,Virus,ssDNA,1.0,0.0,0.0,0.0,0.0,1.0,,Parvoviridae,3052189.0,2,ictv|olival,8
+Farmington virus,2,Virus,,,1.0,1.0,0.0,0.0,3.0,0.0,,1027468.0,2,olival|virushostdb,6
+Feline C type RNA tumour virus (ATCC VR-805),2,Virus,,,,,,,,,,,0,,0
+Gammabaculovirus nelecontei,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048221.0,1,ictv,3
+Gammabaculovirus nesertiferis,1,Virus,dsDNA,1.0,,,,,,,Baculoviridae,3048222.0,1,ictv,3
+Gammacoronavirus galli,1,Virus,ssRNA+,0.0,1.0,,,,,,Coronaviridae,3433766.0,1,ictv,4
+Gammainfluenzavirus influenzae,2,Virus,ssRNA-,0.0,1.0,0.0,,1.0,3.0,,Orthomyxoviridae,2955935.0,2,ictv|olival,7
+Gammaretrovirus felleu,1,Virus,other,0.0,1.0,,,,,,Retroviridae,3428951.0,1,ictv,4
+Gammaretrovirus gibleu,1,Virus,other,0.0,1.0,,,,,,Retroviridae,3428953.0,1,ictv,4
+Gammaretrovirus momursar,1,Virus,other,0.0,1.0,,,,,,Retroviridae,3428958.0,1,ictv,4
+Gammaretrovirus murleu,1,Virus,other,0.0,1.0,,,,,,Retroviridae,3428959.0,1,ictv,4
+Gammaretrovirus murleu genetically modified Moloney strain SinVec-COL7A1,2,Virus,other,0.0,1.0,,,,,,Retroviridae,,1,ictv,4
+Gammaretrovirus porConc,1,Virus,other,0.0,1.0,,,,,,Retroviridae,3428960.0,1,ictv,4
+Grunt Fin Agent,1,Virus,,,,,,,,,,,0,,0
+Guaico Culex virus,2,Virus,,,1.0,0.0,0.0,0.0,1.0,,,1665361.0,1,olival,5
+Gyrovirus chickenanemia,1,Virus,other,0.0,0.0,,,,,,Anelloviridae,3047743.0,1,ictv,4
+HIV-SIV chimera pseudoviruses,2,Virus,,,,,,,,,,,0,,0
+Hamster parvovirus H-1,1,Virus,,,1.0,0.0,0.0,0.0,1.0,,,,1,olival,5
+Hapavirus bangoran,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,2955980.0,1,ictv,4
+Hapavirus graylodge,3,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972613.0,1,ictv,4
+Hapavirus joinjakaka,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972615.0,1,ictv,4
+Hapavirus kamese,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972616.0,1,ictv,4
+Hapavirus lajoya,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972617.0,1,ictv,4
+Hapavirus landjia,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972618.0,1,ictv,4
+Hapavirus manitoba,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972619.0,1,ictv,4
+Hapavirus marco,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972620.0,1,ictv,4
+Hapavirus mosqueiro,3,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972621.0,1,ictv,4
+Hapavirus mossuril,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972622.0,1,ictv,4
+Hapavirus ngaingan,2,Virus,ssRNA-,0.0,1.0,,,,3.0,0.0,Rhabdoviridae,1972623.0,2,ictv|virushostdb,6
+Henipavirus cedarense,2,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3052221.0,1,ictv,4
+Henipavirus hendraense,4,Virus,ssRNA-,0.0,1.0,,,,3.0,1.0,Paramyxoviridae,3052223.0,2,ictv|virushostdb,6
+Henipavirus nipahense,4,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3467512.0,1,ictv,4
+"Henipavirus nipahense virus-like particles composed of M, G, F proteins",1,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,,1,ictv,4
+Hepacivirus hominis,2,Virus,ssRNA+,0.0,,,,,1.0,1.0,Hepaciviridae,3052230.0,2,ictv|virushostdb,5
+Hepatitis delta virus,2,Virus,,,1.0,0.0,0.0,1.0,6.0,,,2691025.0,1,olival,5
+Hepatovirus ahepa,2,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,6.0,,Picornaviridae,3407641.0,2,ictv|olival,8
+Herpes Simplex Virus Type 2 Vaccine candidate ACAM-529,1,Virus,,,,,,,,,,,0,,0
+Horsepox virus,2,Virus,,,1.0,0.0,0.0,1.0,2.0,0.0,,397342.0,2,olival|virushostdb,6
+Human alphaherpesvirus 1 genetically modified ONCR-177,2,Virus,,,,,,,,,,,0,,0
+Human alphaherpesvirus 2 ACAM-529,1,Virus,,,1.0,0.0,0.0,0.0,1.0,,,,1,olival,5
+Human coronavirus,3,Virus,,,1.0,0.0,0.0,0.0,1.0,,,694448.0,1,olival,5
+Human immunodeficiency virus -based second generation replication incompetent lentiviral vector containing APOBEC3,2,Virus,,,,,,,,,,,0,,0
+Human immunodeficiency virus 1 and 2,3,Virus,,,1.0,0.0,0.0,0.0,1.0,,,,1,olival,5
+Human immunodeficiency virus 1 from 8E5 cells,2,Virus,,,1.0,0.0,0.0,0.0,1.0,,,,1,olival,5
+Human torovirus,2,Virus,ssRNA+,0.0,1.0,0.0,0.0,0.0,1.0,,Tobaniviridae,67605.0,2,ictv|olival,8
+Ictavirus ictaluridallo1,1,Virus,dsDNA,1.0,1.0,,,,,,Alloherpesviridae,3050301.0,1,ictv,4
+Iltovirus gallidalpha1,1,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050286.0,1,ictv,3
+Influenza A-like virus H17N10,2,Virus,,,1.0,1.0,0.0,1.0,22.0,,,,1,olival,5
+Influenza A-like virus H18N11,2,Virus,,,1.0,1.0,0.0,1.0,22.0,,,,1,olival,5
+Isavirus salaris,1,Virus,ssRNA-,0.0,1.0,,,,6.0,0.0,Orthomyxoviridae,2907958.0,2,ictv|virushostdb,6
+Isla Vista virus,3,Virus,,,1.0,1.0,0.0,0.0,2.0,,,42097.0,1,olival,5
+Jemez Springs virus,3,Virus,,,,,,,,,,466215.0,0,,0
+Jingmen tick virus,2,Virus,,,1.0,1.0,0.0,1.0,2.0,,,3058444.0,1,olival,5
+Juncopox virus,1,Virus,,,1.0,0.0,0.0,1.0,16.0,,,2169710.0,1,olival,5
+Juquitiba virus,3,Virus,,,1.0,0.0,0.0,0.0,1.0,,,430511.0,1,olival,5
+Kamiti River virus,1,Virus,,,1.0,1.0,0.0,1.0,1.0,0.0,,218849.0,2,olival|virushostdb,6
+Kannamangalam virus,2,Virus,,,1.0,1.0,0.0,1.0,6.0,,,1272944.0,1,olival,5
+Kappapapillomavirus 2,1,Virus,dsDNA,1.0,0.0,0.0,0.0,0.0,1.0,,Papillomaviridae,31554.0,2,ictv|olival,8
+La Tina virus,2,Virus,,,1.0,1.0,0.0,0.0,2.0,,,2045187.0,1,olival,5
+Lagovirus europaeus (Rabbit hemorrhagic disease virus),1,Virus,ssRNA+,0.0,0.0,0.0,0.0,0.0,3.0,,Caliciviridae,,2,ictv|olival,8
+Ledantevirus barur,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,1.0,,Rhabdoviridae,1978534.0,2,ictv|olival,8
+Ledantevirus elgon,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1978542.0,1,ictv,4
+Ledantevirus kern,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1978537.0,1,ictv,4
+Ledantevirus keuraliba,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,1.0,,Rhabdoviridae,1978538.0,2,ictv|olival,8
+Ledantevirus ledantec,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1978540.0,1,ictv,4
+Ledantevirus nkolbisson,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1978533.0,1,ictv,4
+Lentivirus bovimdef,1,Virus,other,0.0,1.0,,,,,,Retroviridae,3418645.0,1,ictv,4
+Lentivirus capartenc,1,Virus,other,0.0,1.0,,,,,,Retroviridae,3418647.0,1,ictv,4
+Lentivirus equinfane,1,Virus,other,0.0,1.0,,,,,,Retroviridae,3418648.0,1,ictv,4
+Lentivirus felimdef,1,Virus,other,0.0,1.0,,,,,,Retroviridae,3418649.0,1,ictv,4
+Lentivirus simimdef,2,Virus,other,0.0,1.0,,,,,,Retroviridae,3418654.0,1,ictv,4
+Leporipoxvirus myxoma,1,Virus,dsDNA,1.0,1.0,0.0,0.0,0.0,3.0,,Poxviridae,3430367.0,2,ictv|olival,8
+Leporipoxvirus shope,1,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,3430368.0,1,ictv,4
+Leporipoxvirus squirrelfibroma,1,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,3430369.0,1,ictv,4
+Long Pine Key virus,2,Virus,,,1.0,0.0,0.0,0.0,2.0,,,2045185.0,1,olival,5
+Lymphocryptovirus humangamma4,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050299.0,1,ictv,3
+Lymphocystivirus platichthys1,1,Virus,dsDNA,1.0,,,,,,,Iridoviridae,3430560.0,1,ictv,3
+Lyssavirus australis,3,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,446562.0,1,ictv,4
+Lyssavirus bokeloh,3,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Rhabdoviridae,1072176.0,2,ictv|virushostdb,6
+Lyssavirus duvenhage,3,Virus,ssRNA-,0.0,1.0,0.0,,1.0,2.0,1.0,Rhabdoviridae,38767.0,3,ictv|olival|virushostdb,8
+Lyssavirus hamburg,3,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,2951618.0,1,ictv,4
+Lyssavirus helsinki,3,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,2951619.0,1,ictv,4
+Lyssavirus ikoma,3,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,10.0,,Rhabdoviridae,2956142.0,2,ictv|olival,8
+Lyssavirus lagos,3,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,2.0,0.0,Rhabdoviridae,38766.0,3,ictv|olival|virushostdb,9
+Lyssavirus mokola,3,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,5.0,1.0,Rhabdoviridae,12538.0,3,ictv|olival|virushostdb,9
+Lyssavirus rabies,3,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,140.0,,Rhabdoviridae,574748.0,2,ictv|olival,8
+Lyssavirus rabies CTN-1,3,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,140.0,,Rhabdoviridae,,2,ictv|olival,8
+Lyssavirus rabies CVS-11,3,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,140.0,,Rhabdoviridae,,2,ictv|olival,8
+Lyssavirus rabies CVS-N2cdeltaG,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,140.0,,Rhabdoviridae,,2,ictv|olival,8
+Lyssavirus rabies Flury low-egg-passage (LEP) strain,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,140.0,,Rhabdoviridae,,2,ictv|olival,8
+Lyssavirus rabies Pitman-Moore strain,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,140.0,,Rhabdoviridae,,2,ictv|olival,8
+Lyssavirus rabies Street Alabama Dufferin (SAD) strain,3,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,140.0,,Rhabdoviridae,,2,ictv|olival,8
+Macavirus alcelaphinegamma1,1,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050134.0,1,ictv,3
+Macavirus alcelaphinegamma2,1,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050135.0,1,ictv,3
+Macavirus ovinegamma2,1,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050332.0,1,ictv,3
+Macrobrachium rosenbergii nodavirus,1,Virus,,,,,,,1.0,0.0,,222557.0,1,virushostdb,2
+Magpiepox virus,1,Virus,,,1.0,0.0,0.0,1.0,2.0,,,2670734.0,1,olival,5
+Mamastrovirus hominis,2,Virus,ssRNA+,0.0,0.0,,,,,,Astroviridae,3430629.0,1,ictv,4
+Mammarenavirus allpahuayoense,3,Virus,other,0.0,1.0,,,,2.0,0.0,Arenaviridae,144752.0,2,ictv|virushostdb,6
+Mammarenavirus amapariense,2,Virus,other,0.0,1.0,,,,,,Arenaviridae,3052296.0,1,ictv,4
+Mammarenavirus bearense,3,Virus,other,0.0,1.0,,,,1.0,0.0,Arenaviridae,3052298.0,2,ictv|virushostdb,6
+Mammarenavirus brazilense,4,Virus,other,0.0,1.0,,,,,,Arenaviridae,3052299.0,1,ictv,4
+Mammarenavirus caliense,2,Virus,other,0.0,1.0,,,,,,Arenaviridae,3052300.0,1,ictv,4
+Mammarenavirus chapareense,4,Virus,other,0.0,1.0,,,,1.0,1.0,Arenaviridae,3052302.0,2,ictv|virushostdb,6
+Mammarenavirus choriomeningitidis,3,Virus,other,0.0,1.0,,,,3.0,0.0,Arenaviridae,3052303.0,2,ictv|virushostdb,6
+Mammarenavirus choriomeningitidis Armstrong strain,2,Virus,other,0.0,1.0,,,,,,Arenaviridae,,1,ictv,4
+Mammarenavirus choriomeningitidis Clone 13,2,Virus,other,0.0,1.0,,,,,,Arenaviridae,,1,ictv,4
+Mammarenavirus flexalense,3,Virus,other,0.0,1.0,,,,1.0,0.0,Arenaviridae,3052305.0,2,ictv|virushostdb,6
+Mammarenavirus guanaritoense,4,Virus,other,0.0,1.0,,,,2.0,1.0,Arenaviridae,3052307.0,2,ictv|virushostdb,6
+Mammarenavirus ippyense,2,Virus,other,0.0,1.0,,,,1.0,0.0,Arenaviridae,3052308.0,2,ictv|virushostdb,6
+Mammarenavirus juninense,4,Virus,other,0.0,1.0,,,,5.0,1.0,Arenaviridae,2169991.0,2,ictv|virushostdb,6
+Mammarenavirus lassaense,4,Virus,other,0.0,1.0,,,,3.0,1.0,Arenaviridae,3052310.0,2,ictv|virushostdb,6
+Mammarenavirus latinum,2,Virus,other,0.0,1.0,,,,1.0,0.0,Arenaviridae,3052311.0,2,ictv|virushostdb,6
+Mammarenavirus lujoense,4,Virus,other,0.0,1.0,,,,1.0,1.0,Arenaviridae,3052314.0,2,ictv|virushostdb,6
+Mammarenavirus machupoense,4,Virus,other,0.0,1.0,,,,3.0,1.0,Arenaviridae,3052317.0,2,ictv|virushostdb,6
+Mammarenavirus oliverosense,3,Virus,other,0.0,1.0,,,,1.0,0.0,Arenaviridae,3052322.0,2,ictv|virushostdb,6
+Mammarenavirus paranaense,2,Virus,other,0.0,1.0,,,,,,Arenaviridae,3052323.0,1,ictv,4
+Mammarenavirus piritalense,3,Virus,other,0.0,1.0,,,,1.0,0.0,Arenaviridae,3052324.0,2,ictv|virushostdb,6
+Mammarenavirus praomyidis,3,Virus,other,0.0,1.0,,,,1.0,0.0,Arenaviridae,3052325.0,2,ictv|virushostdb,6
+Mammarenavirus tacaribeense,2,Virus,other,0.0,1.0,,,,1.0,0.0,Arenaviridae,3052328.0,2,ictv|virushostdb,6
+Mammarenavirus tamiamiense,2,Virus,other,0.0,1.0,,,,1.0,0.0,Arenaviridae,3052329.0,2,ictv|virushostdb,6
+Mammarenavirus whitewaterense,3,Virus,other,0.0,1.0,,,,2.0,0.0,Arenaviridae,3052331.0,2,ictv|virushostdb,6
+Mardivirus gallidalpha2,1,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050287.0,1,ictv,3
+Marisma mosquito virus,2,Virus,,,,,,,,,,1105173.0,0,,0
+Mastadenovirus adami,2,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,2.0,,Adenoviridae,3241402.0,2,ictv|olival,8
+Mastadenovirus adami Adenovirus 12-SV40 hybrid virus,2,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,2.0,,Adenoviridae,,2,ictv|olival,8
+Mastadenovirus blackbeardi,2,Virus,dsDNA,1.0,0.0,,,,,,Adenoviridae,3241406.0,1,ictv,4
+Mastadenovirus blackbeardi THEO-260,2,Virus,dsDNA,1.0,0.0,,,,,,Adenoviridae,,1,ictv,4
+Mastadenovirus bosprimum,2,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,5.0,,Adenoviridae,3241408.0,2,ictv|olival,8
+Mastadenovirus bostertium,2,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,5.0,,Adenoviridae,3241409.0,2,ictv|olival,8
+Mastadenovirus caesari,2,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,2.0,,Adenoviridae,3241411.0,2,ictv|olival,8
+Mastadenovirus caesari Replication-competent human adenovirus type 5 expressing rabies glycoprotein and chronic wasting disease agent epitope,2,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,2.0,,Adenoviridae,,2,ictv|olival,8
+Mastadenovirus caesari Replication-incompetent human adenovirus type 5 expressing rabies glycoprotein and chronic wasting disease agent epitope,2,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,2.0,,Adenoviridae,,2,ictv|olival,8
+Mastadenovirus caesari recombinant replication-incompetent adenovirus 5 encoding tick antigens rAd5-Tick,1,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,2.0,,Adenoviridae,,2,ictv|olival,8
+Mastadenovirus caesari replication-incompetent human adenovirus 5 encoding Flp recombinase,1,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,2.0,,Adenoviridae,,2,ictv|olival,8
+Mastadenovirus canidae,2,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,2.0,,Adenoviridae,3241412.0,2,ictv|olival,8
+Mastadenovirus dominans,2,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,2.0,,Adenoviridae,3241420.0,2,ictv|olival,8
+Mastadenovirus encephalomyelitidis,2,Virus,dsDNA,1.0,0.0,,,,,,Adenoviridae,3241422.0,1,ictv,4
+Mastadenovirus equi,1,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,3.0,,Adenoviridae,3241423.0,2,ictv|olival,8
+Mastadenovirus equidae,1,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,2.0,,Adenoviridae,3241424.0,2,ictv|olival,8
+Mastadenovirus exoticum,2,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,5.0,,Adenoviridae,3241425.0,2,ictv|olival,8
+Mastadenovirus faecale,2,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,2.0,,Adenoviridae,3241426.0,2,ictv|olival,8
+Mastadenovirus simiae,2,Virus,dsDNA,1.0,0.0,0.0,0.0,1.0,2.0,,Adenoviridae,3241447.0,2,ictv|olival,8
+Megalocytivirus pagrus1 (Red sea bream iridovirus),1,Virus,dsDNA,1.0,,,,,,,Iridoviridae,,1,ictv,3
+Mercadeo virus,1,Virus,,,1.0,0.0,,0.0,1.0,0.0,,1708574.0,2,olival|virushostdb,5
+Metaavulavirus delawarense,1,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3051374.0,1,ictv,4
+Metaavulavirus falklandense,2,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,2560309.0,1,ictv,4
+Metaavulavirus galliense,2,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3051365.0,1,ictv,4
+Metaavulavirus hongkongense,1,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3051372.0,1,ictv,4
+Metaavulavirus kunitachiense,1,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3051371.0,1,ictv,4
+Metaavulavirus tennessense,1,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3051373.0,1,ictv,4
+Metaavulavirus yucaipaense,1,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Paramyxoviridae,3051368.0,2,ictv|virushostdb,6
+Metapneumovirus avis,1,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,3.0,,Pneumoviridae,3047384.0,2,ictv|olival,8
+Metapneumovirus hominis,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,3.0,,Pneumoviridae,3048148.0,2,ictv|olival,8
+Mitchell River virus,2,Virus,,,1.0,0.0,0.0,0.0,1.0,,,3459237.0,1,olival,5
+Mobatvirus novaense,3,Virus,ssRNA-,0.0,1.0,,,,,,Hantaviridae,3052337.0,1,ictv,4
+Modified Vaccinia Ankara virus clone 33 (MVA-N33) MVA-HPV-IL2,2,Virus,,,1.0,0.0,0.0,1.0,10.0,,,,1,olival,5
+Modified Vaccinia virus Ankara (MVA),2,Virus,,,1.0,0.0,0.0,1.0,10.0,,,,1,olival,5
+Molluscipoxvirus molluscum,2,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,3430922.0,1,ictv,4
+Mopeia mammarenavirus,3,Virus,,,1.0,1.0,,0.0,1.0,0.0,,3052320.0,2,olival|virushostdb,5
+Morbillivirus canis,1,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,7.0,0.0,Paramyxoviridae,3139435.0,3,ictv|olival|virushostdb,9
+Morbillivirus caprinae,1,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3052343.0,1,ictv,4
+Morbillivirus hominis,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,5.0,,Paramyxoviridae,3052345.0,2,ictv|olival,8
+Morbillivirus pecoris,1,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,5.0,,Paramyxoviridae,3052346.0,2,ictv|olival,8
+Morbillivirus phocae,1,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3052347.0,1,ictv,4
+Murine leukemia virus (B10 xenotropic virus 1),1,Virus,,,1.0,0.0,0.0,0.0,3.0,,,,1,olival,5
+Murine rotavirus,1,Virus,dsRNA,0.0,1.0,1.0,0.0,1.0,6.0,,Sedoreoviridae,418976.0,2,ictv|olival,8
+Muromegalovirus muridbeta1,1,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050323.0,1,ictv,3
+Muromegalovirus muridbeta2,1,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050324.0,1,ictv,3
+Nairobi sheep disease virus,1,Virus,,,1.0,0.0,0.0,0.0,6.0,1.0,,194540.0,2,olival|virushostdb,6
+Nanay virus,2,Virus,,,1.0,0.0,0.0,0.0,2.0,0.0,,1254420.0,2,olival|virushostdb,6
+Negevirus,1,Virus,,,1.0,1.0,0.0,1.0,27.0,,,3450236.0,1,olival,5
+Nhumirim virus,2,Virus,,,1.0,1.0,0.0,1.0,1.0,0.0,,1485186.0,2,olival|virushostdb,6
+Norovirus norwalkense (except murine norovirus 1),2,Virus,ssRNA+,0.0,0.0,0.0,0.0,0.0,1.0,,Caliciviridae,,2,ictv|olival,8
+Norovirus norwalkense (murine norovirus 1),1,Virus,ssRNA+,0.0,0.0,0.0,0.0,0.0,1.0,,Caliciviridae,,2,ictv|olival,8
+Novirhabdovirus piscine,1,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1980916.0,1,ictv,4
+Novirhabdovirus salmonid,1,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1980917.0,1,ictv,4
+Okhotskiy virus,2,Virus,,,1.0,0.0,0.0,0.0,2.0,,,1471048.0,1,olival,5
+Orbivirus alphaequi,1,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,117204.0,1,ictv,3
+"Orbivirus alphaequi experimentally neuroadapted strains, serotypes 1 and 6",2,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,,1,ictv,3
+Orbivirus alphamitchellense,2,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3431237.0,1,ictv,3
+Orbivirus betamitchellense,2,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3431239.0,1,ictv,3
+Orbivirus caerulinguae,1,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3431240.0,1,ictv,3
+Orbivirus chenudaense,2,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3431242.0,1,ictv,3
+Orbivirus deltamitchellense,2,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3431244.0,1,ictv,3
+Orbivirus eubenangeense,2,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3431245.0,1,ictv,3
+Orbivirus gammamitchellense,2,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3431247.0,1,ictv,3
+Orbivirus lebomboense,2,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3431248.0,1,ictv,3
+Orbivirus magninsulae,2,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3431249.0,1,ictv,3
+Orbivirus orungoense,3,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3431250.0,1,ictv,3
+Orbivirus palyamense,2,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3431251.0,1,ictv,3
+Orbivirus ruminantium,1,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3431252.0,1,ictv,3
+Orbivirus trinidadense,2,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3431254.0,1,ictv,3
+Orbivirus umatillaense,2,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3431255.0,1,ictv,3
+Orbivirus wadmedaniense,2,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3431256.0,1,ictv,3
+Orthoavulavirus italiense,2,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3431263.0,1,ictv,4
+Orthoavulavirus javaense,2,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3051375.0,1,ictv,4
+Orthoavulavirus javaense Newcastle disease virus Lentogenic strain La Sota,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,1.0,,Paramyxoviridae,,2,ictv|olival,8
+"Orthoavulavirus javaense Newcastle disease virus Lentogenic strains: Hitchner B1, N79, V4",2,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,1.0,,Paramyxoviridae,,2,ictv|olival,8
+"Orthoavulavirus javaense Newcastle disease virus Mesogenic strains: NJ-Roakin, Mukteswar, Komorov, Roakin",2,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,1.0,,Paramyxoviridae,,2,ictv|olival,8
+Orthoavulavirus newyorkense,1,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3051383.0,1,ictv,4
+Orthobornavirus bornaense,2,Virus,ssRNA-,0.0,,,,,2.0,0.0,Bornaviridae,1714622.0,2,ictv|virushostdb,5
+Orthobunyavirus acaraense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,2748231.0,1,ictv,4
+Orthobunyavirus achiotei,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052368.0,1,ictv,4
+Orthobunyavirus ainoense,1,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,2560289.0,1,ictv,4
+Orthobunyavirus akabaneense,3,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,1933178.0,1,ictv,4
+Orthobunyavirus angeloense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052369.0,1,ictv,4
+Orthobunyavirus bakauense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052370.0,1,ictv,4
+Orthobunyavirus batamaense,3,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052372.0,1,ictv,4
+Orthobunyavirus botambiense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052376.0,1,ictv,4
+Orthobunyavirus bunyamweraense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052381.0,1,ictv,4
+Orthobunyavirus bushbushense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052382.0,1,ictv,4
+Orthobunyavirus bwambaense,2,Virus,ssRNA-,0.0,1.0,,,,2.0,1.0,Peribunyaviridae,3052384.0,2,ictv|virushostdb,6
+Orthobunyavirus cacheense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052414.0,1,ictv,4
+Orthobunyavirus capimense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052386.0,1,ictv,4
+Orthobunyavirus caraparuense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052428.0,1,ictv,4
+Orthobunyavirus catuense (Catu virus),2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,12.0,,Peribunyaviridae,,2,ictv|olival,8
+Orthobunyavirus catuense (Moju virus),2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,,1,ictv,4
+Orthobunyavirus cuchillaense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,1933176.0,1,ictv,4
+Orthobunyavirus encephalitidis,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052390.0,1,ictv,4
+Orthobunyavirus enseadaense,3,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052391.0,1,ictv,4
+Orthobunyavirus gamboaense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052393.0,1,ictv,4
+Orthobunyavirus guajaraense,2,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Peribunyaviridae,3052395.0,2,ictv|virushostdb,6
+Orthobunyavirus guamaense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052396.0,1,ictv,4
+Orthobunyavirus guaroaense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052397.0,1,ictv,4
+Orthobunyavirus horizonteense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,2748214.0,1,ictv,4
+Orthobunyavirus insulae,3,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052401.0,1,ictv,4
+Orthobunyavirus jamestownense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052402.0,1,ictv,4
+Orthobunyavirus kaengkhoiense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052404.0,1,ictv,4
+Orthobunyavirus kernense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052405.0,1,ictv,4
+Orthobunyavirus keystoneense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052406.0,1,ictv,4
+Orthobunyavirus khatangaense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052407.0,1,ictv,4
+Orthobunyavirus koongoli,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052408.0,1,ictv,4
+Orthobunyavirus lacrosseense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052409.0,1,ictv,4
+Orthobunyavirus lumboense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052411.0,1,ictv,4
+Orthobunyavirus madridense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052413.0,1,ictv,4
+Orthobunyavirus maritubaense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052418.0,1,ictv,4
+Orthobunyavirus melajoense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052420.0,1,ictv,4
+Orthobunyavirus mitchellense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052423.0,1,ictv,4
+Orthobunyavirus mpokoense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052424.0,1,ictv,4
+Orthobunyavirus nyandoense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052426.0,1,ictv,4
+Orthobunyavirus oribocaense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052428.0,1,ictv,4
+Orthobunyavirus oropoucheense,3,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052429.0,1,ictv,4
+Orthobunyavirus patoisense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052431.0,1,ictv,4
+Orthobunyavirus sedlecense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052438.0,1,ictv,4
+Orthobunyavirus shuniense,2,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Peribunyaviridae,3052440.0,2,ictv|virushostdb,6
+Orthobunyavirus simbuense,2,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Peribunyaviridae,3052441.0,2,ictv|virushostdb,6
+Orthobunyavirus squalofluvii,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052443.0,1,ictv,4
+Orthobunyavirus tacaiumaense,2,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Peribunyaviridae,3052444.0,2,ictv|virushostdb,6
+Orthobunyavirus tahynaense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052445.0,1,ictv,4
+Orthobunyavirus teteense,2,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Peribunyaviridae,3052448.0,2,ictv|virushostdb,6
+Orthobunyavirus thimiriense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052449.0,1,ictv,4
+Orthobunyavirus timboteuaense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052450.0,1,ictv,4
+Orthobunyavirus turlockense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052452.0,1,ictv,4
+Orthobunyavirus wyeomyiae,2,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Peribunyaviridae,3052456.0,2,ictv|virushostdb,6
+Orthoflavivirus apoiense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3047370.0,1,ictv,4
+Orthoflavivirus bagazaense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3047385.0,1,ictv,4
+Orthoflavivirus banziense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3047395.0,1,ictv,4
+Orthoflavivirus boubouiense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3047696.0,1,ictv,4
+Orthoflavivirus bravoense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048300.0,1,ictv,4
+Orthoflavivirus cacipacoreense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3052463.0,1,ictv,4
+Orthoflavivirus careyense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3047725.0,1,ictv,4
+Orthoflavivirus cowboneense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3047770.0,1,ictv,4
+Orthoflavivirus dakarense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3047790.0,1,ictv,4
+Orthoflavivirus denguei,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3052464.0,1,ictv,4
+Orthoflavivirus edgehillense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3047817.0,1,ictv,4
+Orthoflavivirus encephalitidis,4,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052465.0,1,ictv,4
+Orthoflavivirus entebbeense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3047823.0,1,ictv,4
+Orthoflavivirus flavi,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3046277.0,1,ictv,4
+Orthoflavivirus flavi (Yellow fever virus vaccine strain 17D),2,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,24.0,,Flaviviridae,,2,ictv|olival,8
+Orthoflavivirus gadgetsense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3047837.0,1,ictv,4
+Orthoflavivirus ilheusense (Ilheus virus),2,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,16.0,,Flaviviridae,,2,ictv|olival,8
+Orthoflavivirus ilheusense (Rocio virus),3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,,1,ictv,4
+Orthoflavivirus israelense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048154.0,1,ictv,4
+Orthoflavivirus japonicum,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048158.0,1,ictv,4
+Orthoflavivirus jugraense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048162.0,1,ictv,4
+Orthoflavivirus jutiapaense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048164.0,1,ictv,4
+Orthoflavivirus kadamense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048165.0,1,ictv,4
+Orthoflavivirus kedougouense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3052467.0,1,ictv,4
+Orthoflavivirus kokoberaorum,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048168.0,1,ictv,4
+Orthoflavivirus koutangoense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048169.0,1,ictv,4
+Orthoflavivirus kyasanurense (Alkhumra hemorrhagic fever virus),4,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,5.0,,Flaviviridae,,2,ictv|olival,8
+Orthoflavivirus kyasanurense (Kyasanur Forest disease virus),4,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,18.0,,Flaviviridae,,2,ictv|olival,8
+Orthoflavivirus langatense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048175.0,1,ictv,4
+Orthoflavivirus louisense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3052468.0,1,ictv,4
+Orthoflavivirus loupingi,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048184.0,1,ictv,4
+Orthoflavivirus meabanense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048198.0,1,ictv,4
+Orthoflavivirus modocense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048205.0,1,ictv,4
+Orthoflavivirus montanaense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048206.0,1,ictv,4
+Orthoflavivirus murrayense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048215.0,1,ictv,4
+Orthoflavivirus nilense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048448.0,1,ictv,4
+Orthoflavivirus nilense (West Nile virus NS5-E218A mutant strain),2,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,25.0,,Flaviviridae,,2,ictv|olival,8
+Orthoflavivirus nilense NATtrol Inactivated,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,,1,ictv,4
+Orthoflavivirus nilense RepliVax WN,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,,1,ictv,4
+Orthoflavivirus ntayaense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048225.0,1,ictv,4
+Orthoflavivirus omskense,4,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048233.0,1,ictv,4
+Orthoflavivirus perlitaense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048312.0,1,ictv,4
+Orthoflavivirus phnompenhense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048267.0,1,ictv,4
+Orthoflavivirus powassanense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048287.0,1,ictv,4
+Orthoflavivirus royalense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048305.0,1,ictv,4
+Orthoflavivirus saboyaense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048308.0,1,ictv,4
+Orthoflavivirus saumarezense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048314.0,1,ictv,4
+Orthoflavivirus sepikense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048316.0,1,ictv,4
+Orthoflavivirus tembusu,2,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,3.0,,Flaviviridae,3048360.0,2,ictv|olival,8
+Orthoflavivirus tyuleniyense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048439.0,1,ictv,4
+Orthoflavivirus ugandaense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048440.0,1,ictv,4
+Orthoflavivirus usutuense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048443.0,1,ictv,4
+Orthoflavivirus viejaense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3048311.0,1,ictv,4
+Orthoflavivirus yaoundeense,3,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3052469.0,1,ictv,4
+Orthoflavivirus zikaense,2,Virus,ssRNA+,0.0,1.0,,,,,,Flaviviridae,3087233.0,1,ictv,4
+Orthohantavirus andesense,3,Virus,ssRNA-,0.0,1.0,,,,2.0,0.0,Hantaviridae,1980456.0,2,ictv|virushostdb,6
+Orthohantavirus asamaense,3,Virus,ssRNA-,0.0,1.0,,,,,,Hantaviridae,1980457.0,1,ictv,4
+Orthohantavirus bayoui,3,Virus,ssRNA-,0.0,1.0,,,,2.0,1.0,Hantaviridae,3052470.0,2,ictv|virushostdb,6
+Orthohantavirus caobangense,3,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Hantaviridae,3052473.0,2,ictv|virushostdb,6
+Orthohantavirus chocloense,3,Virus,ssRNA-,0.0,1.0,,,,,,Hantaviridae,3052474.0,1,ictv,4
+Orthohantavirus delgaditoense,3,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Hantaviridae,3052476.0,2,ictv|virushostdb,6
+Orthohantavirus dobravaense,3,Virus,ssRNA-,0.0,1.0,,,,,,Hantaviridae,3116880.0,1,ictv,4
+Orthohantavirus hantanense,3,Virus,ssRNA-,0.0,1.0,,,,3.0,1.0,Hantaviridae,3052480.0,2,ictv|virushostdb,6
+Orthohantavirus khabarovskense,3,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Hantaviridae,3052483.0,2,ictv|virushostdb,6
+Orthohantavirus mamorense (Laguna negra virus),3,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,5.0,,Hantaviridae,,2,ictv|olival,8
+Orthohantavirus maporalense,3,Virus,ssRNA-,0.0,1.0,,,,,,Hantaviridae,3052485.0,1,ictv,4
+Orthohantavirus nigrorivense,3,Virus,ssRNA-,0.0,1.0,,,,,,Hantaviridae,3052490.0,1,ictv,4
+Orthohantavirus oxbowense,3,Virus,ssRNA-,0.0,1.0,,,,,,Hantaviridae,3052491.0,1,ictv,4
+Orthohantavirus prospectense,2,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Hantaviridae,3052492.0,2,ictv|virushostdb,6
+Orthohantavirus puumalaense,3,Virus,ssRNA-,0.0,1.0,,,,2.0,0.0,Hantaviridae,3052493.0,2,ictv|virushostdb,6
+Orthohantavirus sangassouense,3,Virus,ssRNA-,0.0,1.0,,,,2.0,0.0,Hantaviridae,3052496.0,2,ictv|virushostdb,6
+Orthohantavirus seoulense,3,Virus,ssRNA-,0.0,1.0,,,,3.0,1.0,Hantaviridae,3052498.0,2,ictv|virushostdb,6
+Orthohantavirus sinnombreense,3,Virus,ssRNA-,0.0,1.0,,,,2.0,1.0,Hantaviridae,3052499.0,2,ictv|virushostdb,6
+Orthohantavirus thailandense,3,Virus,ssRNA-,0.0,1.0,,,,,,Hantaviridae,3052501.0,1,ictv,4
+Orthohantavirus tulaense,3,Virus,ssRNA-,0.0,1.0,,,,4.0,1.0,Hantaviridae,3052503.0,2,ictv|virushostdb,6
+Orthohepadnavirus hominoidei,2,Virus,other,0.0,1.0,,,,,,Hepadnaviridae,3431302.0,1,ictv,4
+Orthohepadnavirus marmotae,1,Virus,other,0.0,1.0,,,,,,Hepadnaviridae,3431307.0,1,ictv,4
+Orthohepadnavirus sciuri,1,Virus,other,0.0,1.0,,,,,,Hepadnaviridae,3431463.0,1,ictv,4
+Orthomarburgvirus marburgense,4,Virus,ssRNA-,0.0,1.0,,,,1.0,1.0,Filoviridae,3052505.0,2,ictv|virushostdb,6
+Orthonairovirus bushkeyense,2,Virus,ssRNA-,0.0,1.0,,,,,,Nairoviridae,3052510.0,1,ictv,4
+Orthonairovirus chimense,3,Virus,ssRNA-,0.0,1.0,,,,3.0,0.0,Nairoviridae,3052511.0,2,ictv|virushostdb,6
+Orthonairovirus dugbeense,3,Virus,ssRNA-,0.0,1.0,,,,8.0,1.0,Nairoviridae,3052514.0,2,ictv|virushostdb,6
+Orthonairovirus esteroense,3,Virus,ssRNA-,0.0,1.0,,,,,,Nairoviridae,3052516.0,1,ictv,4
+Orthonairovirus gossasense,2,Virus,ssRNA-,0.0,1.0,,,,,,Nairoviridae,3052517.0,1,ictv,4
+Orthonairovirus haemorrhagiae,4,Virus,ssRNA-,0.0,1.0,,,,,,Nairoviridae,3391156.0,1,ictv,4
+Orthonairovirus keterehense,2,Virus,ssRNA-,0.0,1.0,,,,,,Nairoviridae,3052524.0,1,ictv,4
+Orthonairovirus khani,2,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Nairoviridae,3052525.0,2,ictv|virushostdb,6
+Orthonairovirus qalyubense,2,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Nairoviridae,3052532.0,2,ictv|virushostdb,6
+Orthonairovirus thiaforaense,2,Virus,ssRNA-,0.0,1.0,,,,3.0,0.0,Nairoviridae,3052537.0,2,ictv|virushostdb,6
+Orthonairovirus tomdiense,3,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Nairoviridae,3052538.0,2,ictv|virushostdb,6
+Orthonairovirus yezoense,2,Virus,ssRNA-,0.0,1.0,,,,,,Nairoviridae,3060506.0,1,ictv,4
+Orthonairovirus yogueense,2,Virus,ssRNA-,0.0,1.0,,,,,,Nairoviridae,3052541.0,1,ictv,4
+Orthopneumovirus bovis,1,Virus,ssRNA-,0.0,,,,,1.0,0.0,Pneumoviridae,3136119.0,2,ictv|virushostdb,5
+Orthopneumovirus hominis,2,Virus,ssRNA-,0.0,,,,,,,Pneumoviridae,3049954.0,1,ictv,3
+Orthopneumovirus hominis LIDdeltaM2-2,1,Virus,ssRNA-,0.0,,,,,,,Pneumoviridae,,1,ictv,3
+Orthopneumovirus hominis LIDdeltaM2-2/276,1,Virus,ssRNA-,0.0,,,,,,,Pneumoviridae,,1,ictv,3
+Orthopneumovirus hominis deltaNS2-L19F-4M,1,Virus,ssRNA-,0.0,,,,,,,Pneumoviridae,,1,ictv,3
+Orthopneumovirus hominis deltaNS2/delta1313/I1314L,1,Virus,ssRNA-,0.0,,,,,,,Pneumoviridae,,1,ictv,3
+Orthopneumovirus muris,1,Virus,ssRNA-,0.0,,,,,,,Pneumoviridae,3050329.0,1,ictv,3
+Orthopoxvirus camelpox,2,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,2.0,,Poxviridae,3431480.0,2,ictv|olival,8
+Orthopoxvirus cowpox,2,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,16.0,,Poxviridae,3431481.0,2,ictv|olival,8
+Orthopoxvirus ectromelia,2,Virus,dsDNA,1.0,1.0,0.0,0.0,0.0,3.0,,Poxviridae,3431482.0,2,ictv|olival,8
+Orthopoxvirus monkeypox,3,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,9.0,,Poxviridae,3431483.0,2,ictv|olival,8
+Orthopoxvirus raccoonpox,2,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,3431484.0,1,ictv,4
+Orthopoxvirus skunkpox,2,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,3431485.0,1,ictv,4
+Orthopoxvirus taterapox,2,Virus,dsDNA,1.0,1.0,0.0,0.0,0.0,1.0,,Poxviridae,3431486.0,2,ictv|olival,8
+Orthopoxvirus vaccinia,2,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,10.0,,Poxviridae,1651169.0,2,ictv|olival,8
+Orthopoxvirus vaccinia NYVAC,1,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,10.0,,Poxviridae,,2,ictv|olival,8
+Orthopoxvirus vaccinia Recombinant modified vaccinia virus Ankara (MVA) encoding rabies glycoprotein and chronic wasting disease agent epitope,2,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,140.0,,Poxviridae,,2,ictv|olival,8
+Orthopoxvirus vaccinia strain VET3-TGI,2,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,10.0,,Poxviridae,,2,ictv|olival,8
+Orthopoxvirus volepox,2,Virus,dsDNA,1.0,1.0,0.0,0.0,0.0,2.0,,Poxviridae,3431488.0,2,ictv|olival,8
+Orthoreovirus avis,1,Virus,dsRNA,0.0,1.0,1.0,0.0,0.0,1.0,,Spinareoviridae,3470286.0,2,ictv|olival,8
+Orthoreovirus mammalis type 1 Lang,2,Virus,dsRNA,0.0,,,,,,,Spinareoviridae,,1,ictv,3
+Orthoreovirus mammalis type 2 Jones,2,Virus,dsRNA,0.0,,,,,,,Spinareoviridae,,1,ictv,3
+Orthoreovirus mammalis type 3 Dearing,2,Virus,dsRNA,0.0,,,,,,,Spinareoviridae,,1,ictv,3
+Orthoreovirus mammalis type 4 Ndelle,2,Virus,dsRNA,0.0,,,,,,,Spinareoviridae,,1,ictv,3
+Orthoreovirus nelsonense,2,Virus,dsRNA,0.0,,,,,,,Spinareoviridae,3431496.0,1,ictv,3
+Orthorubulavirus hominis,2,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3052556.0,1,ictv,4
+Orthorubulavirus laryngotracheitidis,2,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3052557.0,1,ictv,4
+Orthorubulavirus mapueraense,3,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Paramyxoviridae,3052559.0,2,ictv|virushostdb,6
+Orthorubulavirus parotitidis,2,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3052560.0,1,ictv,4
+Oryzopoxvirus cotia,2,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,3431515.0,1,ictv,4
+Ostreavirus ostreidmalaco1,1,Virus,dsDNA,1.0,1.0,,,,,,Malacoherpesviridae,3050331.0,1,ictv,4
+Ourem virus,3,Virus,,,1.0,1.0,0.0,0.0,1.0,,,,1,olival,5
+Pacuvirus chilibreense,2,Virus,ssRNA-,0.0,1.0,,,,,,Peribunyaviridae,3052588.0,1,ictv,4
+Paraavulavirus hongkongense,1,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3052593.0,1,ictv,4
+Paraavulavirus wisconsinense,1,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Paramyxoviridae,3052594.0,2,ictv|virushostdb,6
+Parahenipavirus langyaense,3,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3431360.0,1,ictv,4
+Parahenipavirus mojiangense,4,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3052224.0,1,ictv,4
+Parapoxvirus bovinestomatitis,2,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,3431388.0,1,ictv,4
+Parapoxvirus orf,2,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,5.0,,Poxviridae,3431389.0,2,ictv|olival,8
+Parapoxvirus pseudocowpox,2,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,2.0,,Poxviridae,3431390.0,2,ictv|olival,8
+Parechovirus ahumpari,2,Virus,ssRNA+,0.0,0.0,0.0,0.0,0.0,1.0,,Picornaviridae,3431395.0,2,ictv|olival,8
+Parechovirus cebokele,2,Virus,ssRNA+,0.0,0.0,0.0,0.0,0.0,1.0,,Picornaviridae,3431397.0,2,ictv|olival,8
+Paroo River virus,3,Virus,,,1.0,0.0,0.0,1.0,6.0,,,3459242.0,1,olival,5
+Paslahepevirus balayani,2,Virus,ssRNA+,0.0,,,,,,,Hepeviridae,3070749.0,1,ictv,3
+Pestivirus ovis,1,Virus,ssRNA+,0.0,,,,,,,Pestiviridae,3052622.0,1,ictv,3
+Pestivirus suis,1,Virus,ssRNA+,0.0,,,,,,,Hepaciviridae,3052625.0,1,ictv,3
+Phlebovirus bujaruense,2,Virus,other,0.0,1.0,,,,,,Phenuiviridae,3052637.0,1,ictv,4
+Phlebovirus florisense,2,Virus,other,0.0,1.0,,,,,,Phenuiviridae,3052649.0,1,ictv,4
+Phlebovirus gabekense,3,Virus,other,0.0,1.0,,,,,,Phenuiviridae,3052650.0,1,ictv,4
+Phlebovirus limboense,2,Virus,other,0.0,1.0,,,,,,Phenuiviridae,3431643.0,1,ictv,4
+Phlebovirus napoliense,2,Virus,other,0.0,1.0,,,,,,Phenuiviridae,3052666.0,1,ictv,4
+Phlebovirus riftense,3,Virus,other,0.0,1.0,,,,,,Phenuiviridae,3052676.0,1,ictv,4
+Phlebovirus riftense strain MP-12,2,Virus,other,0.0,1.0,,,,,,Phenuiviridae,,1,ictv,4
+Phlebovirus riograndense,2,Virus,other,0.0,1.0,,,,,,Phenuiviridae,3052677.0,1,ictv,4
+Phlebovirus salangaense,3,Virus,other,0.0,1.0,,,,,,Phenuiviridae,3052678.0,1,ictv,4
+Ponteves virus,3,Virus,,,1.0,0.0,,0.0,1.0,,,,1,olival,4
+Porcine enteric calicivirus,2,Virus,,,1.0,0.0,0.0,0.0,1.0,,,523795.0,1,olival,5
+Protoparvovirus carnivoran1,1,Virus,ssDNA,1.0,0.0,0.0,0.0,0.0,1.0,,Parvoviridae,3052707.0,2,ictv|olival,8
+Protoparvovirus rodent1,1,Virus,ssDNA,1.0,0.0,0.0,0.0,0.0,1.0,,Parvoviridae,3344803.0,2,ictv|olival,8
+Protoparvovirus ungulate1,1,Virus,ssDNA,1.0,0.0,0.0,0.0,0.0,1.0,,Parvoviridae,3052720.0,2,ictv|olival,8
+Quang Binh virus,1,Virus,,,1.0,1.0,0.0,1.0,1.0,0.0,,673515.0,2,olival|virushostdb,6
+Quaranjavirus araguariense,3,Virus,ssRNA-,0.0,1.0,,,,,,Orthomyxoviridae,2956348.0,1,ictv,4
+Quaranjavirus johnstonense,2,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Orthomyxoviridae,688437.0,2,ictv|virushostdb,6
+Quwivirus caviidbeta2,1,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050254.0,1,ictv,3
+Ranavirus perca1,1,Virus,dsDNA,1.0,1.0,1.0,0.0,1.0,6.0,,Iridoviridae,3432137.0,2,ictv|olival,8
+Ranavirus rana1,1,Virus,dsDNA,1.0,1.0,1.0,0.0,1.0,6.0,,Iridoviridae,3391521.0,2,ictv|olival,8
+Rat leukemia virus,2,Virus,,,1.0,0.0,0.0,0.0,3.0,,,31695.0,1,olival,5
+Recombinant horsepox virus TNX-1800,2,Virus,,,,,,,,,,,0,,0
+Respirovirus bovis,1,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Paramyxoviridae,3052729.0,2,ictv|virushostdb,6
+Respirovirus laryngotracheitidis,2,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3049952.0,1,ictv,4
+Respirovirus muris,2,Virus,ssRNA-,0.0,1.0,,,,4.0,0.0,Paramyxoviridae,3052731.0,2,ictv|virushostdb,6
+Respirovirus pneumoniae,2,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,3049953.0,1,ictv,4
+Rhadinovirus atelinegamma2,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050139.0,1,ictv,3
+Rhadinovirus atelinegamma3,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050140.0,1,ictv,3
+Rhadinovirus humangamma8,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050300.0,1,ictv,3
+Rhadinovirus muridgamma4,1,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050327.0,1,ictv,3
+Rhadinovirus saimiriinegamma2,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050350.0,1,ictv,3
+Rhopobota naevana betabaculovirus,1,Virus,,,,,,,,,,,0,,0
+Rio Segundo virus - unclassified orthohantavirus,3,Virus,,,1.0,1.0,0.0,0.0,2.0,,,,1,olival,5
+Roseolovirus humanbeta6a,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050296.0,1,ictv,3
+Roseolovirus humanbeta6b,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050297.0,1,ictv,3
+Roseolovirus humanbeta7,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050298.0,1,ictv,3
+Roseolovirus suidbeta2,1,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050356.0,1,ictv,3
+Rotavirus alphagastroenteritidis,2,Virus,dsRNA,0.0,1.0,1.0,0.0,1.0,6.0,,Sedoreoviridae,3432193.0,2,ictv|olival,8
+Rous-associated virus,2,Virus,,,1.0,0.0,,1.0,3.0,,,11865.0,1,olival,4
+Rubivirus rubellae,2,Virus,ssRNA+,0.0,,,,,,,Matonaviridae,3019660.0,1,ictv,3
+Saaremaa virus - unclassified orthohantavirus,3,Virus,,,,,,,,,,,0,,0
+Salmovirus salmonidallo2,1,Virus,dsDNA,1.0,1.0,,,,,,Alloherpesviridae,3050352.0,1,ictv,4
+Sapovirus sapporoense,2,Virus,ssRNA+,0.0,0.0,,,,,,Caliciviridae,3432266.0,1,ictv,4
+Sarbecovirus BANAL-236,3,Virus,,,,,,,,,,,0,,0
+Sawgrhavirus minto,3,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,2734399.0,1,ictv,4
+Schmallenberg virus,1,Virus,,,1.0,0.0,0.0,0.0,1.0,,,1318464.0,1,olival,5
+Seadornavirus bannaense,2,Virus,dsRNA,0.0,,,,,,,Sedoreoviridae,3240447.0,1,ictv,3
+Senecavirus valles,1,Virus,ssRNA+,0.0,0.0,,,,,,Picornaviridae,3241303.0,1,ictv,4
+Serang virus,3,Virus,,,1.0,0.0,0.0,1.0,6.0,,,528322.0,1,olival,5
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),3,Virus,,,1.0,0.0,0.0,1.0,13.0,,,,1,olival,5
+Severe acute respiratory syndrome coronavirus 2 virus replicon particles trans-complemented with spike protein (?S-VRP(S)),3,Virus,,,1.0,0.0,0.0,1.0,13.0,,,,1,olival,5
+Severe acute respiratory syndrome-related coronavirus (SARS-CoV),3,Virus,,,1.0,0.0,0.0,1.0,13.0,,,,1,olival,5
+Siadenovirus gallopavotertii,1,Virus,dsDNA,1.0,0.0,,,,,,Adenoviridae,3241306.0,1,ictv,4
+Simian-Human immunodeficiency virus,3,Virus,,,1.0,0.0,0.0,0.0,15.0,,,2912739.0,1,olival,5
+Simiispumavirus pantroschfo,2,Virus,other,0.0,1.0,,,,,,Retroviridae,,1,ictv,4
+Simplexvirus atelinealpha1,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050138.0,1,ictv,3
+Simplexvirus bovinealpha2,1,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050244.0,1,ictv,3
+Simplexvirus humanalpha1,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050292.0,1,ictv,3
+Simplexvirus humanalpha2,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050293.0,1,ictv,3
+Simplexvirus macacinealpha1,4,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050305.0,1,ictv,3
+Simplexvirus saimiriinealpha1,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050348.0,1,ictv,3
+Snakehead retrovirus,1,Virus,,,1.0,1.0,0.0,0.0,1.0,0.0,,40270.0,2,olival|virushostdb,6
+Sparrowpox virus,1,Virus,,,1.0,0.0,0.0,1.0,16.0,,,2169713.0,1,olival,5
+Sprivivirus cyprinus,1,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Rhabdoviridae,696863.0,2,ictv|virushostdb,6
+Sripuvirus almpiwar,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1985693.0,1,ictv,4
+Sripuvirus chaco,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1985694.0,1,ictv,4
+Sripuvirus madureira,3,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1985696.0,1,ictv,4
+Starlingpox virus,1,Virus,,,1.0,0.0,0.0,1.0,2.0,,,2169714.0,1,olival,5
+Suipoxvirus swinepox,1,Virus,dsDNA,1.0,1.0,0.0,0.0,0.0,1.0,,Poxviridae,3432644.0,2,ictv|olival,8
+Sunday Canyon virus,2,Virus,,,1.0,1.0,0.0,0.0,2.0,,,2748255.0,1,olival,5
+Sunrhavirus kolongo,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,2956481.0,1,ictv,4
+Sunrhavirus sandjimba,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,2956484.0,1,ictv,4
+Swine vesicular disease virus,2,Virus,,,1.0,0.0,0.0,0.0,8.0,,,12077.0,1,olival,5
+Teschovirus asilesi,1,Virus,ssRNA+,0.0,0.0,,,,,,Picornaviridae,3432768.0,1,ictv,4
+Thogotovirus dhoriense,3,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,7.0,,Orthomyxoviridae,53017.0,2,ictv|olival,8
+Thogotovirus ozense,3,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,7.0,,Orthomyxoviridae,2956525.0,2,ictv|olival,8
+Thogotovirus upoluense,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,7.0,,Orthomyxoviridae,2956528.0,2,ictv|olival,8
+Thottimvirus imjinense,3,Virus,ssRNA-,0.0,1.0,,,,,,Hantaviridae,3052788.0,1,ictv,4
+Thottimvirus thottapalayamense,2,Virus,ssRNA-,0.0,1.0,,,,,,Hantaviridae,3052789.0,1,ictv,4
+Tibrovirus coastal,3,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972586.0,1,ictv,4
+Tibrovirus congo,4,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,1.0,1.0,Rhabdoviridae,1987017.0,3,ictv|olival|virushostdb,9
+Tibrovirus tibrogargan,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972584.0,1,ictv,4
+Tilapinevirus tilapiae,1,Virus,ssRNA-,0.0,,,,,,,Amnoonviridae,2034996.0,1,ictv,3
+Tilligerry virus,3,Virus,,,1.0,0.0,0.0,0.0,1.0,,,1170505.0,1,olival,5
+Tindholmur virus,2,Virus,,,1.0,1.0,0.0,1.0,4.0,,,3459245.0,1,olival,5
+Tobamovirus fructirugosum,1,Virus,ssRNA+,0.0,0.0,,,,,,Virgaviridae,3432872.0,1,ictv,4
+Tribec virus,2,Virus,,,1.0,1.0,0.0,1.0,10.0,,,881914.0,1,olival,5
+Tupavirus klamath,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,1972588.0,1,ictv,4
+Uukuvirus tyulenyense,2,Virus,other,0.0,1.0,,,,,,Phenuiviridae,3052809.0,1,ictv,4
+Varicellovirus bovinealpha1,1,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050243.0,1,ictv,3
+Varicellovirus equidalpha1,1,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050276.0,1,ictv,3
+Varicellovirus equidalpha3,1,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050277.0,1,ictv,3
+Varicellovirus equidalpha4,1,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050278.0,1,ictv,3
+Varicellovirus humanalpha3,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050294.0,1,ictv,3
+Varicellovirus suidalpha1,2,Virus,dsDNA,1.0,,,,,,,Orthoherpesviridae,3050355.0,1,ictv,3
+Vesicular stomatitis virus,3,Virus,,,1.0,0.0,0.0,1.0,3.0,,,11276.0,1,olival,5
+Vesiculovirus alagoas,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,3.0,,Rhabdoviridae,1972579.0,2,ictv|olival,8
+Vesiculovirus bogdanovac,3,Virus,ssRNA-,0.0,1.0,,,,2.0,0.0,Rhabdoviridae,1972567.0,2,ictv|virushostdb,6
+Vesiculovirus chandipura,3,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,2.0,,Rhabdoviridae,1972576.0,2,ictv|olival,8
+Vesiculovirus cocal,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,1.0,,Rhabdoviridae,1972572.0,2,ictv|olival,8
+Vesiculovirus indiana,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,58.0,,Rhabdoviridae,1972577.0,2,ictv|olival,8
+Vesiculovirus indiana VSV-?M51-GFP,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,,1,ictv,4
+Vesiculovirus indiana VSV-GP,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,58.0,,Rhabdoviridae,,2,ictv|olival,8
+Vesiculovirus indiana VSV?G SARS 2 SPIKE,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,,1,ictv,4
+Vesiculovirus indiana VSV?G-LASV-GPC,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,,1,ictv,4
+Vesiculovirus indiana VSV?G-SARS-CoV-2.Delta,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,,1,ictv,4
+Vesiculovirus indiana VSV?G-SARS-CoV-2.V590,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,,1,ictv,4
+Vesiculovirus indiana rVSV?G SARS-CoV-2 pseudovirus,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,,1,ictv,4
+Vesiculovirus indiana rVSV?G-ZEBOV-GP (V920),2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,,1,ictv,4
+Vesiculovirus indiana rVSV?G/EBOV-GP-NLucP,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,,1,ictv,4
+Vesiculovirus indiana rVSVind-GML,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,,1,ictv,4
+Vesiculovirus isfahan,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,3.0,,Rhabdoviridae,1972573.0,2,ictv|olival,8
+Vesiculovirus jurona,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Rhabdoviridae,1972568.0,3,ictv|olival|virushostdb,9
+Vesiculovirus maraba,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,1.0,,Rhabdoviridae,1972574.0,2,ictv|olival,8
+Vesiculovirus maraba 0MG1 strain,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,1.0,,Rhabdoviridae,,2,ictv|olival,8
+Vesiculovirus newjersey,2,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,16.0,,Rhabdoviridae,1972578.0,2,ictv|olival,8
+Vesiculovirus newjersey rVSVnj-GMM,2,Virus,ssRNA-,0.0,1.0,,,,,,Rhabdoviridae,,1,ictv,4
+Vesiculovirus perinet,3,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Rhabdoviridae,1972569.0,2,ictv|virushostdb,6
+Vesiculovirus piry,3,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,1.0,,Rhabdoviridae,1972575.0,2,ictv|olival,8
+Vesiculovirus radi,3,Virus,ssRNA-,0.0,1.0,,,,1.0,0.0,Rhabdoviridae,1972566.0,2,ictv|virushostdb,6
+Vesivirus exanthema,1,Virus,ssRNA+,0.0,0.0,,,,,,Caliciviridae,3433198.0,1,ictv,4
+Vesivirus felis,1,Virus,ssRNA+,0.0,0.0,,,,,,Caliciviridae,3433199.0,1,ictv,4
+Vespertilionpoxvirus eptesipox,2,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,3433200.0,1,ictv,4
+Wanowrie virus,2,Virus,,,1.0,1.0,0.0,0.0,1.0,,,2748252.0,1,olival,5
+Wesselsbrons virus,3,Virus,,,1.0,0.0,0.0,1.0,11.0,,,,1,olival,5
+White spot syndrome virus,1,Virus,,,1.0,0.0,0.0,1.0,25.0,,,2778543.0,1,olival,5
+Xenotropic Murine Leukemia Virus-related virus,2,Virus,,,1.0,0.0,0.0,0.0,3.0,,,1133973.0,1,olival,5
+YF-ZIKprM/E,2,Virus,,,,,,,,,,,0,,0
+Yacaaba virus,3,Virus,,,1.0,0.0,0.0,0.0,1.0,,,1819307.0,1,olival,5
+Yatapoxvirus tanapox,2,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,2.0,,Poxviridae,3433538.0,2,ictv|olival,8
+Yatapoxvirus yabapox,2,Virus,dsDNA,1.0,1.0,,,,,,Poxviridae,3433539.0,1,ictv,4
+Zegla orthobunyavirus,2,Virus,,,1.0,1.0,0.0,0.0,1.0,,,2170060.0,1,olival,5
+(Ortho) reoviruses,2,Virus,dsRNA,0.0,1.0,1.0,0.0,0.0,1.0,,Spinareoviridae,,2,ictv|olival,8
+8E5,2,Virus,,,,,,,,,,,0,,0
+Adeno-associated viruses AAV,2,Virus,,,1.0,0.0,,1.0,3.0,,,,1,olival,4
+Aino virus,3,Virus,,,1.0,1.0,0.0,0.0,1.0,0.0,,11582.0,2,olival|virushostdb,6
+Alphaviruses,3,Virus,ssRNA+,0.0,1.0,1.0,0.0,0.0,1.0,,Togaviridae,,2,ictv|olival,8
+Aphthovirus,2,Virus,ssRNA+,0.0,0.0,0.0,0.0,0.0,2.0,,Picornaviridae,3477799.0,2,ictv|olival,8
+Aura virus,2,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,1.0,0.0,Togaviridae,44158.0,3,ictv|olival|virushostdb,9
+Ausdyk (contagious ecthyma of camels),2,Virus,,,,,,,,,,,0,,0
+Bebaru virus,2,Virus,ssRNA+,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Togaviridae,59305.0,3,ictv|olival|virushostdb,9
+Borna disease virus,2,Virus,,,1.0,0.0,0.0,1.0,20.0,,,928296.0,1,olival,5
+Bovine coronavirus,2,Virus,,,1.0,0.0,0.0,0.0,1.0,,,2838310.0,1,olival,5
+Bovine diarrhoea virus,2,Virus,,,1.0,0.0,0.0,0.0,42.0,,,,1,olival,5
+Bovine enteric calicivirus,2,Virus,,,1.0,0.0,0.0,0.0,1.0,,,914040.0,1,olival,5
+Bovine enteroviruses types 1-7,2,Virus,,,1.0,0.0,0.0,0.0,17.0,,,,1,olival,5
+Cabassou virus,3,Virus,ssRNA+,0.0,1.0,0.0,0.0,0.0,2.0,0.0,Togaviridae,60879.0,3,ictv|olival|virushostdb,9
+Calicivirus,2,Virus,,,1.0,0.0,0.0,0.0,1.0,,,,1,olival,5
+Canid herpesvirus 1,2,Virus,,,1.0,0.0,0.0,0.0,1.0,0.0,,170325.0,2,olival|virushostdb,6
+Canine coronavirus,2,Virus,,,1.0,0.0,0.0,0.0,2.0,,,2185079.0,1,olival,5
+Cardiovirus,2,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,2.0,,Picornaviridae,3427732.0,2,ictv|olival,8
+Chikungunya virus,3,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,16.0,,Togaviridae,1224303.0,2,ictv|olival,8
+Chronic wasting disease,3,Virus,,,,,,,,,,,0,,0
+Coronavirus,3,Virus,,,1.0,0.0,0.0,0.0,1.0,,,3433814.0,1,olival,5
+Cowpox virus,2,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,16.0,,Poxviridae,265872.0,2,ictv|olival,8
+Dengue virus,3,Virus,,,1.0,0.0,0.0,1.0,25.0,,,413041.0,1,olival,5
+"Dengue virus types 1-4 Synthetic RNA (ATCC VR-3228SD, VR-3229SD, VR-3230SD, VR-3231SD)",1,Virus,,,1.0,0.0,0.0,1.0,25.0,,,,1,olival,5
+Duvenhage virus,3,Virus,ssRNA-,0.0,1.0,0.0,,1.0,2.0,1.0,Rhabdoviridae,38767.0,3,ictv|olival|virushostdb,8
+Ebola virus,4,Virus,,,1.0,1.0,0.0,0.0,1.0,,,1570291.0,1,olival,5
+Ectromelia virus,3,Virus,dsDNA,1.0,1.0,0.0,0.0,0.0,3.0,,Poxviridae,2696714.0,2,ictv|olival,8
+Enterovirus,2,Virus,ssRNA+,0.0,0.0,0.0,0.0,1.0,3.0,,Picornaviridae,3701373.0,2,ictv|olival,8
+Felid herpesvirus 1,2,Virus,,,1.0,0.0,0.0,0.0,1.0,0.0,,10334.0,2,olival|virushostdb,6
+Fowlpox virus,2,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,16.0,,Poxviridae,987150.0,2,ictv|olival,8
+Getah virus,3,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,3.0,,Togaviridae,3239330.0,2,ictv|olival,8
+Hamster H-1 virus,2,Virus,,,1.0,0.0,0.0,0.0,1.0,1.0,,10799.0,2,olival|virushostdb,6
+Hanta virus,3,Virus,,,1.0,1.0,0.0,1.0,6.0,,,,1,olival,5
+Hepatitis A virus,2,Virus,ssRNA+,0.0,0.0,0.0,0.0,0.0,1.0,,Picornaviridae,2200757.0,2,ictv|olival,8
+Hepatitis B virus,3,Virus,,,1.0,0.0,0.0,1.0,6.0,,,3382295.0,1,olival,5
+Hepatitis C virus,3,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,1.0,1.0,Hepaciviridae,3052230.0,3,ictv|olival|virushostdb,9
+Hepatitis D virus,3,Virus,,,1.0,0.0,0.0,1.0,6.0,,,2691025.0,1,olival,5
+Hepatitis E virus,3,Virus,,,1.0,0.0,0.0,1.0,1.0,1.0,,291484.0,2,olival|virushostdb,6
+Hepatitis G virus,3,Virus,,,1.0,0.0,0.0,1.0,6.0,,,871649.0,1,olival,5
+Human Immunodeficiency virus (HIV),3,Virus,,,1.0,0.0,0.0,0.0,1.0,,,,1,olival,5
+Infectious hematopoietic necrosis virus,4,Virus,,,,,,,,,,429315.0,0,,0
+Influenza A virus subtype H5N1,3,Virus,,,1.0,1.0,0.0,1.0,22.0,,,,1,olival,5
+Influenza A virus subtype H7N9,3,Virus,,,1.0,1.0,0.0,1.0,22.0,,,,1,olival,5
+Influenza virus,2,Virus,,,1.0,1.0,0.0,1.0,22.0,,,11309.0,1,olival,5
+Kairi virus,3,Virus,,,1.0,1.0,0.0,1.0,2.0,0.0,,80939.0,2,olival|virushostdb,6
+Kumlinge virus,4,Virus,,,1.0,1.0,0.0,1.0,9.0,,,11092.0,1,olival,5
+Kyasanur forest disease virus,4,Virus,,,1.0,0.0,0.0,1.0,6.0,1.0,,172148.0,2,olival|virushostdb,6
+Mayaro virus,3,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,18.0,,Togaviridae,374990.0,2,ictv|olival,8
+Mokola virus,3,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,5.0,1.0,Rhabdoviridae,12538.0,3,ictv|olival|virushostdb,9
+Monkey enteroviruses (SEV),2,Virus,,,1.0,0.0,0.0,0.0,1.0,,,,1,olival,5
+Monkeypox virus,3,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,9.0,1.0,Poxviridae,619591.0,3,ictv|olival|virushostdb,9
+Morbillivirus,4,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,5.0,,Paramyxoviridae,3430946.0,2,ictv|olival,8
+"Mouse rotavirus (EDIM, epizootic diarhoea of infant mice)",2,Virus,dsRNA,0.0,1.0,1.0,0.0,1.0,6.0,,Sedoreoviridae,,2,ictv|olival,8
+Mucambo virus,3,Virus,ssRNA+,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Togaviridae,60875.0,3,ictv|olival|virushostdb,9
+Murine leukemia virus,3,Virus,,,1.0,0.0,0.0,0.0,3.0,,,1615765.0,1,olival,5
+"Murine poliovirus (Theiler's encephalomyelitis virus, TO, FA, GD7)",2,Virus,ssRNA+,0.0,0.0,0.0,0.0,0.0,1.0,,Picornaviridae,,2,ictv|olival,8
+Myxoma virus,3,Virus,dsDNA,1.0,1.0,0.0,0.0,0.0,3.0,,Poxviridae,265876.0,2,ictv|olival,8
+Nairobi Sheep Disease,3,Virus,,,,,,,,,,,0,,0
+Ndumu virus,3,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,1.0,0.0,Togaviridae,59302.0,3,ictv|olival|virushostdb,9
+Newcastle disease virus,3,Virus,,,1.0,0.0,0.0,0.0,2.0,0.0,,2560319.0,2,olival|virushostdb,6
+Norovirus (former Norwalk virus),2,Virus,ssRNA+,0.0,0.0,0.0,0.0,0.0,1.0,,Caliciviridae,,2,ictv|olival,8
+Orf virus,2,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,5.0,,Poxviridae,647330.0,2,ictv|olival,8
+Paravaccinia virus,2,Virus,,,1.0,0.0,0.0,1.0,10.0,,,,1,olival,5
+Parvovirus,2,Virus,,,1.0,0.0,,0.0,1.0,,,3711648.0,1,olival,4
+Piry,3,Virus,ssRNA-,0.0,1.0,0.0,0.0,0.0,2.0,0.0,Rhabdoviridae,11274.0,3,ictv|olival|virushostdb,9
+Poliovirus,3,Virus,ssRNA+,0.0,0.0,0.0,0.0,0.0,1.0,,Picornaviridae,3393935.0,2,ictv|olival,8
+Porcine enterovirus type 1 (Teschen disease),3,Virus,,,1.0,0.0,0.0,1.0,3.0,,,,1,olival,5
+Rabies virus,3,Virus,ssRNA-,0.0,1.0,0.0,0.0,1.0,140.0,,Rhabdoviridae,574748.0,2,ictv|olival,8
+Rat coronavirus,2,Virus,,,1.0,0.0,0.0,0.0,2.0,0.0,,502102.0,2,olival|virushostdb,6
+Rat rotavirus,2,Virus,dsRNA,0.0,1.0,1.0,0.0,1.0,6.0,,Sedoreoviridae,,2,ictv|olival,8
+Reoviruses,2,Virus,,,1.0,1.0,0.0,0.0,1.0,,,3470286.0,1,olival,5
+Rocio virus,3,Virus,,,1.0,0.0,0.0,0.0,2.0,1.0,,64315.0,2,olival|virushostdb,6
+Ross river virus,2,Virus,,,1.0,0.0,0.0,1.0,6.0,,,11032.0,1,olival,5
+Rotavirus,2,Virus,dsRNA,0.0,1.0,1.0,0.0,1.0,6.0,,Sedoreoviridae,3479218.0,2,ictv|olival,8
+Rotaviruses for animals (other),2,Virus,dsRNA,0.0,1.0,1.0,0.0,1.0,6.0,,Sedoreoviridae,,2,ictv|olival,8
+Rubivirus,2,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,140.0,,Matonaviridae,3019660.0,2,ictv|olival,8
+SARS,3,Virus,,,,,,,,,,3092168.0,0,,0
+Sarafend,2,Virus,,,,,,,,,,,0,,0
+Sealpox virus,2,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,2.0,,Poxviridae,358127.0,2,ictv|olival,8
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RNA,2,Virus,,,1.0,0.0,0.0,1.0,13.0,,,,1,olival,5
+Sheeppox virus,3,Virus,dsDNA,1.0,1.0,0.0,0.0,0.0,2.0,,Poxviridae,1158713.0,2,ictv|olival,8
+Simian immunodeficiency virus,3,Virus,,,1.0,0.0,0.0,0.0,15.0,,,2989724.0,1,olival,5
+Sindbis virus,2,Virus,ssRNA+,0.0,1.0,0.0,0.0,1.0,4.0,1.0,Togaviridae,84272.0,3,ictv|olival|virushostdb,9
+Swinepox virus,2,Virus,dsDNA,1.0,1.0,0.0,0.0,0.0,1.0,,Poxviridae,300880.0,2,ictv|olival,8
+Tanapox,2,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,2.0,,Poxviridae,,2,ictv|olival,8
+Turkey coronavirus,2,Virus,,,1.0,0.0,0.0,0.0,1.0,,,231431.0,1,olival,5
+Uasin Gishu disease virus,2,Virus,,,1.0,0.0,0.0,0.0,11.0,,,28872.0,1,olival,5
+Vaccinia virus,2,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,10.0,,Poxviridae,1651169.0,2,ictv|olival,8
+Vesicular exanthema of swine virus,3,Virus,,,1.0,0.0,0.0,0.0,1.0,0.0,,1266463.0,2,olival|virushostdb,6
+Wesselsbron virus,3,Virus,,,1.0,0.0,0.0,1.0,2.0,1.0,,164416.0,2,olival|virushostdb,6
+West Nile Virus 2 (Strain: 1986) Lysate,2,Virus,,,1.0,0.0,0.0,1.0,25.0,,,,1,olival,5
+West Nile virus,3,Virus,,,1.0,0.0,0.0,1.0,25.0,,,2421440.0,1,olival,5
+Yabapox virus,2,Virus,dsDNA,1.0,1.0,0.0,0.0,1.0,2.0,,Poxviridae,,2,ictv|olival,8
+Yellow fever virus (vaccine strain 17D),2,Virus,,,1.0,0.0,0.0,1.0,24.0,,,,1,olival,5
+Yellow fever virus Synthetic RNA (ATCC VR-3253SD),2,Virus,,,1.0,0.0,0.0,1.0,24.0,,,,1,olival,5
+"Yellow fever virus, wild type",3,Virus,,,1.0,0.0,0.0,1.0,24.0,,,,1,olival,5
+australis,3,Virus,ssRNA+,0.0,,,,,,,Kitaviridae,,1,ictv,3
+bovis,3,Virus,dsDNA,1.0,0.0,,,,,,Polyomaviridae,,1,ictv,4
+canis,3,Virus,dsDNA,1.0,0.0,,,,,,Polyomaviridae,3414035.0,1,ictv,4
+equi,2,Virus,dsDNA,1.0,0.0,,,,,,Polyomaviridae,,1,ictv,4
+europaeus,2,Virus,ssRNA+,0.0,0.0,,,,,,Caliciviridae,,1,ictv,4
+felis,2,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,2665947.0,1,ictv,4
+hominis,2,Virus,dsDNA,1.0,,,,,,,Darmviridae,,1,ictv,3
+influenzae,2,Virus,ssRNA-,0.0,1.0,1.0,0.0,1.0,22.0,,Orthomyxoviridae,,2,ictv|olival,8
+japonicum,2,Virus,ssRNA+,0.0,0.0,,,,,,Virgaviridae,,1,ictv,4
+macacae,2,Virus,dsDNA,1.0,0.0,,,,,,Polyomaviridae,,1,ictv,4
+meleagridis,2,Virus,ssRNA+,0.0,0.0,,,,,,Caliciviridae,,1,ictv,4
+muris,2,Virus,dsDNA,1.0,0.0,,,,,,Polyomaviridae,,1,ictv,4
+ovis,3,Virus,ssRNA+,0.0,,,,,,,Pestiviridae,3370470.0,1,ictv,3
+phocae,2,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,,1,ictv,4
+pneumoniae,2,Virus,ssRNA-,0.0,1.0,,,,,,Paramyxoviridae,,1,ictv,4
+salmonis,2,Virus,dsRNA,0.0,,,,,,,Spinareoviridae,,1,ictv,3
+simiae,2,Virus,dsDNA,1.0,,,,,,,Darmviridae,,1,ictv,3
+simplex,2,Virus,,,,,,,,,,,0,,0
+suis,3,Virus,dsDNA,1.0,0.0,,,,,,Polyomaviridae,,1,ictv,4
+theileri,2,Virus,ssRNA+,0.0,0.0,,,,,,Picornaviridae,,1,ictv,4

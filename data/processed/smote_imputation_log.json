@@ -1,0 +1,37 @@
+{
+  "is_dna": {
+    "n_filled": 145,
+    "fill_value": 0.0,
+    "strategy": "mode"
+  },
+  "is_enveloped": {
+    "n_filled": 154,
+    "fill_value": 1.0,
+    "strategy": "mode"
+  },
+  "is_segmented": {
+    "n_filled": 580,
+    "fill_value": 0.0,
+    "strategy": "mode"
+  },
+  "is_vector_borne": {
+    "n_filled": 590,
+    "fill_value": 0.0,
+    "strategy": "mode"
+  },
+  "is_zoonotic": {
+    "n_filled": 580,
+    "fill_value": 1.0,
+    "strategy": "mode"
+  },
+  "infects_humans": {
+    "n_filled": 817,
+    "fill_value": 0.0,
+    "strategy": "mode"
+  },
+  "host_breadth": {
+    "n_filled": 509,
+    "fill_value": 3.0,
+    "strategy": "median"
+  }
+}

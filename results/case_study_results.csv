@@ -1,4 +1,4 @@
-Pathogen,Predicted_RG,Known_RG,Match,Off_By,Confidence
-SARS-CoV-2,3,3,YES,0,0.646
-Ebola virus,4,4,YES,0,0.958
-Escherichia coli K12,2,1,NO,1,0.582
+Pathogen,Predicted_RG,Known_RG,Match,Off_By,Confidence,Taxonomic_Family,Genome_Type,Features_Present
+SARS-CoV-2,3,3,YES,0,0.659,,,7/9
+Marburg virus (Orthomarburgvirus marburgense),4,4,YES,0,0.941,Filoviridae,ssRNA-,6/9
+Influenza A virus (H1N1)pdm09,4,2,NO,2,0.537,Orthomyxoviridae,ssRNA-,8/9
