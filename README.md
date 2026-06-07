@@ -1,43 +1,54 @@
-# BioRiskNet
+# BioRiskNet v2
 
-## Metadata-Driven WHO Risk Group Classification and Zoonotic Spillover Scoring with SHAP Explainability
+## Viral Pathogen Risk Classification & Zoonotic Spillover Prediction
+**100% Verified Biological Metadata | Zero Imputation**
 
 **Course:** Biosafety and Ethics | 4-Person Team Project  
 **Target:** PLOS ONE / Bioinformatics Advances  
+**Branch:** `v2-real-features`
 
 ---
 
 ## What Is BioRiskNet?
 
-BioRiskNet is a dual-objective machine learning framework that predicts pathogen biosafety risk from biological metadata alone, without requiring genome sequences.
+BioRiskNet is an explainable machine learning framework that evaluates whether verified biological metadata can predict WHO biosafety Risk Groups for viral pathogens. It explicitly tests whether the biological features driving laboratory containment severity are the same as those driving zoonotic spillover potential.
 
-| Model | Task | Dataset | Key Metric |
-|---|---|---|---|
-| **RG Classifier** | Predict WHO Risk Group 1–4 | ABSA + ePATHogen + BMBL (~1000 organisms) | F1-macro = 0.708 ± 0.008 (5-fold CV) |
-| **Spillover Scorer** | Predict zoonotic spillover probability | Olival 2017 (~586 viruses) | AUC-ROC (5-fold CV) |
-
-SHAP TreeExplainer is used to explain every prediction at the individual pathogen level.
+**The Pipeline:**
+1. Merges pathogen labels from ePATHogen, ABSA, and WHO BMBL.
+2. Extracts 9 biological features from **ICTV MSL 2025**, **Virus-Host DB**, and **Olival 2017** using NCBI Entrez fuzzy matching.
+3. Classifies 934 viral pathogens into WHO Risk Groups 1–4 using an XGBoost classifier and SMOTE class balancing.
+4. Uses SHAP TreeExplainer to compare biosafety severity predictors against zoonotic spillover predictors.
 
 ---
 
-## Key Results
+## Key Scientific Findings
 
-- **F1-macro (5-fold CV): 0.708 ± 0.008** — exceeds the 0.70 paper target
-- **Per-class F1:** RG1=0.758, RG2=0.604, RG3=0.645, RG4=0.825
-- **Top 3 predictive features (by SHAP importance):**
-  1. `genome_type` (26.4%) — RNA viruses systematically score higher
-  2. `zoonotic` (18.2%) — zoonotic origin strongly correlates with higher RG
-  3. `treatment_available` (14.8%) — codified WHO criterion for RG3/RG4
-- **Case studies:** SARS-CoV-2, Ebola virus, E. coli K12 predictions vs known RG
+1. **Biosafety Severity ≠ Spillover Potential:** `is_vector_borne` carries **0.0% weight** in risk group classification, but is a primary predictor in spillover models. This quantitatively demonstrates that ecological emergence risk and laboratory biosafety severity are partially independent biological constructs.
+2. **RNA vs DNA drives Risk:** `is_dna` (RNA/DNA genome status) is the single strongest predictor of WHO Risk Group (42.7% importance), reflecting that RNA viruses disproportionately occupy RG3 and RG4.
+3. **Clinical Limitations:** Genome architecture alone cannot distinguish Influenza A (RG2) from Marburg virus (RG4). The model systematically over-predicts risk for RG2 respiratory viruses due to the absence of clinical variables (Case Fatality Rate, treatment/vaccine availability) in public metadata databases.
+
+---
+
+## v2 Results (Real Data)
+
+| Metric | Value | Notes |
+|---|---|---|
+| Dataset Size | **934 viral organisms** | Filtered for ≥2 real biological features |
+| Feature Set | **9 biological features** | Genome type, family, DNA/RNA, envelope, segmentation, vector-borne, zoonotic, infects humans, host breadth |
+| F1-macro | **0.682 ± 0.021** | 5-fold stratified CV |
+| Accuracy | **0.684 ± 0.022** | 5-fold stratified CV |
+| RG4 F1 | **0.82** | Extreme-risk pathogens have the clearest biological fingerprint |
+| Case Studies | **2/3 Correct** | SARS-CoV-2 (RG3) ✅, Marburg (RG4) ✅, Influenza A (RG4 ≠ RG2) ❌ |
 
 ---
 
 ## Setup
 
 ```bash
-# Clone the repo
-git clone https://github.com/YOUR_USERNAME/biorisknet.git
-cd biorisknet
+# Clone the repo and switch to v2 branch
+git clone https://github.com/pingpongpulse/biosafety_spillover.git
+cd biosafety_spillover
+git checkout v2-real-features
 
 # Create and activate virtual environment
 python -m venv venv
@@ -50,101 +61,47 @@ pip install -r requirements.txt
 
 ---
 
-## Run in Order
+## Full Pipeline Execution Order
 
 ```bash
-# Person 1 — Data Collection & Merging
+# Person 1 — Data Collection & Real Feature Building
 python scripts/download_olival.py        # 1. Download Olival 2017 virus-host data
 python scripts/clean_epathogen.py        # 2. Clean ePATHogen risk group database
 python scripts/scrape_absa.py            # 3. Scrape ABSA risk group database
 python scripts/extract_bmbl.py           # 4. Extract WHO BMBL PDF tables
-python scripts/merge_datasets.py         # 5. Merge all sources → rg_dataset.csv
+python scripts/merge_datasets.py         # 5. Merge all sources
+python scripts/build_real_features.py    # 6. Build v2 matrix (ICTV/VH-DB/Olival/NCBI)
 
-# Person 2 — ML Model Training
-python scripts/encode_features.py        # 6. Label-encode biological features
-python scripts/apply_smote.py            # 7. SMOTE class balancing
-python scripts/train_model.py            # 8. Train XGBoost RG classifier
-python scripts/plot_confusion.py         # 9. Generate confusion matrix figure
+# Person 2 — ML Pipeline (GPU-Accelerated)
+python scripts/encode_features.py        # 7. Label-encode biological features
+python scripts/apply_smote.py            # 8. NaN-aware SMOTE class balancing
+python scripts/train_model.py            # 9. Train XGBoost RG classifier
+python scripts/plot_confusion.py         # 10. Generate confusion matrix figure
+python scripts/build_results_tables.py   # 11. Build summary and per-class tables
 
-# Person 3 — Spillover Model & SHAP
-python scripts/train_spillover.py        # 10. Train zoonotic spillover model
-python scripts/shap_global.py            # 11. SHAP global feature importance plots
-python scripts/shap_case_studies.py      # 12. SHAP waterfall plots for 3 pathogens
-python scripts/shap_spillover.py         # 13. SHAP analysis for spillover model
+# Person 3 — Spillover Model & Explainability
+python scripts/train_spillover.py        # 12. Train zoonotic spillover model
+python scripts/shap_global.py            # 13. SHAP global feature importance plots
+python scripts/shap_case_studies.py      # 14. SHAP waterfall plots for Marburg/SARS-CoV-2
+python scripts/shap_spillover.py         # 15. SHAP analysis for spillover model
 
 # Person 4 — Validation & Results
-python scripts/check_outputs.py          # 14. Validate all required outputs exist
-python scripts/case_studies.py > results/case_study_results.txt  # 15. Case study predictions
-python scripts/build_results_tables.py   # 16. Build summary and per-class tables
+python scripts/check_outputs.py          # 16. Validate all required v2 outputs exist
+python scripts/case_studies.py           # 17. Run case study predictions
 ```
 
 ---
 
-## Project Structure
+## Datasets & Provenance
 
-```
-biorisknet/
-├── data/
-│   ├── raw/                    # Source datasets (not tracked in git)
-│   │   ├── olival_viruses.csv
-│   │   ├── olival_associations.csv
-│   │   ├── absa_raw.csv
-│   │   ├── epathogen_clean.csv
-│   │   └── bmbl_extracted.csv
-│   └── processed/              # Cleaned and encoded datasets
-│       ├── rg_dataset.csv
-│       ├── rg_dataset_features.csv
-│       ├── rg_dataset_encoded.csv
-│       └── smote_dataset.csv
-├── models/
-│   ├── xgboost_rg_classifier.pkl
-│   └── encoder_mappings.json
-├── results/
-│   ├── model_results.json
-│   ├── spillover_model.pkl
-│   ├── spillover_results.json
-│   ├── feature_importances.csv
-│   ├── summary_table.csv
-│   ├── case_study_results.txt
-│   ├── shap_validation.txt
-│   ├── figures/
-│   │   ├── confusion_matrix.png
-│   │   ├── shap_summary_bar.png
-│   │   ├── shap_beeswarm_rg3.png
-│   │   ├── shap_spillover.png
-│   │   ├── shap_case_SARS_CoV_2.png
-│   │   ├── shap_case_Ebola_virus.png
-│   │   └── shap_case_Escherichia_coli.png
-│   └── tables/
-│       ├── model_summary.csv
-│       └── per_class_metrics.csv
-└── scripts/                    # All analysis scripts (run in order above)
-```
-
----
-
-## Datasets
-
-| Dataset | Source | License |
+| Dataset | Source | Features Extracted |
 |---|---|---|
-| Olival 2017 virus-host associations | https://github.com/ecohealthalliance/HP3 | CC-BY |
-| ePATHogen Risk Group Database | https://ePathogen.phac-aspc.gc.ca | Public |
-| ABSA Risk Group Database | https://absa.org/biosafety-resources/risk-group-database/ | Public |
-| WHO BMBL 6th Edition | https://www.cdc.gov/labs/BMBL.html | Public domain |
+| **ICTV MSL 2025** | ictv.global | `genome_type`, `taxonomic_family` |
+| **Virus-Host DB** | genome.jp/ftp | `host_breadth`, `infects_humans` |
+| **Olival 2017** | ecohealthalliance/HP3 | `is_enveloped`, `is_segmented`, `is_vector_borne`, `is_zoonotic` |
+| **NCBI Entrez** | biopython/Entrez | Cross-database tax ID resolution |
 
-> **Note:** Raw data files are excluded from this repository via `.gitignore`.
-> Run `scripts/download_olival.py` to retrieve the Olival dataset automatically.
-> ePATHogen and ABSA must be downloaded manually (see procedure book).
-
----
-
-## Methods Summary
-
-- **Class imbalance:** SMOTE with `k_neighbors=3` applied to all classes before training
-- **Model:** XGBoost (`n_estimators=300, max_depth=6, learning_rate=0.05`)
-- **Validation:** 5-fold stratified cross-validation, `random_state=42`
-- **Explainability:** SHAP TreeExplainer — global summary, beeswarm per class, individual waterfall plots
-- **Feature encoding:** Scikit-learn `LabelEncoder` — mappings saved to `models/encoder_mappings.json`
+> **Note:** Raw data files are tracked in this `v2-real-features` branch to ensure full reproducibility, but larger raw databases may require manual download if run from scratch.
 
 ---
 
@@ -152,25 +109,4 @@ biorisknet/
 
 If you use BioRiskNet in your work, please cite:
 
-> [Authors]. BioRiskNet: Metadata-Driven WHO Risk Group Classification and Zoonotic
-> Spillover Scoring with SHAP Explainability. *Bioinformatics Advances*, 2026.
-
----
-
-## Requirements
-
-See `requirements.txt`. Key dependencies:
-
-```
-pandas>=1.5
-scikit-learn>=1.2
-xgboost>=1.7
-shap>=0.42
-imbalanced-learn>=0.10
-matplotlib>=3.6
-seaborn>=0.12
-pdfplumber>=0.9
-biopython>=1.80
-requests>=2.28
-beautifulsoup4>=4.11
-```
+> [Authors]. BioRiskNet: Verified Viral Metadata Reveals Diverging Biological Drivers of Zoonotic Spillover and WHO Biosafety Severity. *Biosafety and Ethics Course Project*, 2026.
