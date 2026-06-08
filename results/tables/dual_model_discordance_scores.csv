@@ -1,0 +1,935 @@
+name,taxonomic_family,genome_type,known_rg,spillover_probability,rg3_rg4_probability,discordance_score,discordance_quadrant
+Adeno-associated virus rh.10,unknown,unknown,1,0.005376685,0.38814107,-0.38276437,Low spillover / Low severity
+Aedes flavivirus,unknown,unknown,1,0.0016013996,0.22234039,-0.22073899,Low spillover / Low severity
+Alongshan virus,unknown,unknown,3,0.005376685,0.63688004,-0.63150334,Low spillover / High severity
+Alphaarterivirus equid,Arteriviridae,ssRNA+,1,0.0016013996,0.7601376,-0.7585362,Low spillover / High severity
+Alphabaculovirus adhonmai,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus agipsilonis,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus agsegetum,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus alteragsegetum,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus alterchofumiferanae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus altermaconfiguratae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus angemmatalis,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus anpernyi,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus aucalifornicae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus bomori,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus busuppressariae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus capomonae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus chofumiferanae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus chomurinanae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus chorosaceanae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus chrincludentis,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus chrychalcites,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus clabilineatae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus ecobliquae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus eppostvittanae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus eupseudoconspersae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus helarmigerae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus hycuneae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus lafiscellariae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus leseparatae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus lydisparis,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus lyxylinae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus mabrassicae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus maconfiguratae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus mavitratae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus orleucostigmae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus orpseudotsugatae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus spexiguae,Baculoviridae,dsDNA,1,0.0016013996,0.009274905,-0.0076735048,Low spillover / Low severity
+Alphabaculovirus splittoralis,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus spliturae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus spofrugiperdae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus sujujubae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus thorichlaceae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus trini,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphabaculovirus wisignatae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Alphacoronavirus porci,Coronaviridae,ssRNA+,1,0.0016013996,0.55908626,-0.55748487,Low spillover / High severity
+Alphacoronavirus suis,Coronaviridae,ssRNA+,1,0.0016013996,0.55908626,-0.55748487,Low spillover / High severity
+Alphainfluenzavirus influenzae (H1N1)pdm09,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae (H1N2)v,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae A/American wigeon/South Carolina/22-000345-001/2021 (H5N1) IDCDC-RG78A,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Anhui/01/2005(H5N1)-PR8 IDCDC RG6,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Anhui/1/2013(H7N9)-PR8 NIBRG-268,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Ann Arbor/6/60 cold-adapted (H2N2),Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Astrakhan/3212/2020 (H5N8) IDCDC-RG71A,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae A/California/7/2009(H1N1)-PA(I38M),Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/California/7/2009(H1N1)-PA(I38T),Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/California/7/2009(H1N1)-PR8 NYMC X-181,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/California/7/2009(H1N1)-PR8 NYMC X-181A,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/California/7/2009(H1N1)-PR8 NYMC X-181B,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/California/7/2009(H1N1)-PR8 NYMC X179A,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Chicken/Bangladesh/11rs1984-30/2011(H5N1)-PR8 IDCDC RG36,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Chicken/Hong Kong/G9/97(H9N2)-PR8 NIBRG-91,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Chicken/Vietnam/NCVD-03/2008(H5N1)-PR8-IDCDC-25a,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Egypt/N03072/2010(H5N1)-PR8-IDCDC-29,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Hong Kong/125/2017(H7N9)-IDCDC-RG56B,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Hubei/1/2010(H5N1)-PR8-IDCDC-30,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/India/NIV/2006(H5N1)-PR8-IBCDC-RG7,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Indonesia/5/2005(H5N1)-PR8 IDCDC RG2,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Mallard/Netherlands/12/2000(H7N1)-PR8 NIBRG-63,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Mallard/Netherlands/12/2000(H7N3)-PR8 NIBRG-60,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Mallard/Netherlands/12/2000(H7N7)-IBCDC-1,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae A/NWS/G70c (H1N9),Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae A/New Jersey/8/1976 H1N1,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Puerto Rico/8/1934 (H1N1),Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Puerto Rico/8/1934 (H1N1)-NA(Bov),Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Puerto Rico/8/1934(H1N1)-PA(I38T),Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Shanghai/2/2013(H7N9)-PR8 IDCDC-RG32A,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Shanghai/2/2013(H7N9)-PR8 NIBRG-267,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Sichuan/26221/2014(H5N6)-PR8 IDCDC RG42A,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Turkey/1/2005(H5N1)-PR8 NIBRG-23,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Turkey/Virginia/4529/2002(H7N2)-PR8-IBCDC-5,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Vietnam/1194/2004(H5N1)-PR8 NIBRG-14,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/Vietnam/1203/2004(H5N1)-PR8 SJRG-161052,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae A/gyrfalcon/Washington/41088-6/2014(H5N8)-PR8 IDCDC-RG43A,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae A/pheasant/New Jersey/1355/1998(H5N2)/PR8-IBCDC-4,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H10N8,Orthomyxoviridae,ssRNA-,3,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H11N2,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H11N6,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H12N5,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H13N6,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H14N5,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H15N9,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H1N1 reconstructed 1918 strain,Orthomyxoviridae,ssRNA-,4,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae H1N9,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H2N2,Orthomyxoviridae,ssRNA-,3,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H2N3,Orthomyxoviridae,ssRNA-,3,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H2N5,Orthomyxoviridae,ssRNA-,3,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H3N2,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H3N6,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H3N8 (avian and zoonotic),Orthomyxoviridae,ssRNA-,3,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H3N8 (canine),Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H3N8 (equine),Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H3N9,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H4N3,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H4N6,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H5N1,Orthomyxoviridae,ssRNA-,3,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae H5N1 transmissible engineered strain,Orthomyxoviridae,ssRNA-,4,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+Alphainfluenzavirus influenzae H5N2,Orthomyxoviridae,ssRNA-,3,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H5N3,Orthomyxoviridae,ssRNA-,3,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H5N5,Orthomyxoviridae,ssRNA-,3,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H5N6,Orthomyxoviridae,ssRNA-,3,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H5N9,Orthomyxoviridae,ssRNA-,3,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H6N1,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H6N4,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H6N5,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H7N3,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H7N7,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H7N8,Orthomyxoviridae,ssRNA-,3,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H7N9,Orthomyxoviridae,ssRNA-,3,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H8N4,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae H9N2,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphainfluenzavirus influenzae cH6/1N5,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Alphanodavirus nodamuraense,Nodaviridae,ssRNA+,2,0.0016013996,0.6345177,-0.63291633,Low spillover / High severity
+Alphapapillomavirus 1-14,Papillomaviridae,dsDNA,2,0.0016013996,0.07561784,-0.074016444,Low spillover / Low severity
+Alphapolyomavirus nonihominis,Polyomaviridae,dsDNA,2,0.0016013996,0.26754788,-0.26594648,Low spillover / Low severity
+Alphapolyomavirus octihominis,Polyomaviridae,dsDNA,2,0.0016013996,0.26754788,-0.26594648,Low spillover / Low severity
+Alphapolyomavirus quintihominis,Polyomaviridae,dsDNA,2,0.0016013996,0.26754788,-0.26594648,Low spillover / Low severity
+Alpharetrovirus avileu,Retroviridae,other,1,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Alpharetrovirus avimyebla,Retroviridae,other,1,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Alpharetrovirus avimyecyt29,Retroviridae,other,1,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Alpharetrovirus avirousar,Retroviridae,other,2,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Alpharetrovirus avisar10,Retroviridae,other,2,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Alphavirus aura,Togaviridae,ssRNA+,3,0.0029756394,0.80384046,-0.8008648,Low spillover / High severity
+Alphavirus barmah,Togaviridae,ssRNA+,2,0.0016013996,0.78502744,-0.78342605,Low spillover / High severity
+Alphavirus bebaru,Togaviridae,ssRNA+,2,0.0016013996,0.76544154,-0.76384014,Low spillover / High severity
+Alphavirus cabassou,Togaviridae,ssRNA+,3,0.0016013996,0.76544154,-0.76384014,Low spillover / High severity
+Alphavirus chikungunya,Togaviridae,ssRNA+,3,0.005376685,0.7861652,-0.7807885,Low spillover / High severity
+Alphavirus chikungunya 181/clone 25,Togaviridae,ssRNA+,2,0.005376685,0.7861652,-0.7807885,Low spillover / High severity
+Alphavirus eastern,Togaviridae,ssRNA+,3,0.0016013996,0.78502744,-0.78342605,Low spillover / High severity
+Alphavirus everglades,Togaviridae,ssRNA+,3,0.005376685,0.7887266,-0.78334993,Low spillover / High severity
+Alphavirus fortmorgan,Togaviridae,ssRNA+,2,0.0016013996,0.78502744,-0.78342605,Low spillover / High severity
+Alphavirus getah,Togaviridae,ssRNA+,2,0.005376685,0.6754201,-0.6700434,Low spillover / High severity
+Alphavirus highlandsj,Togaviridae,ssRNA+,2,0.0016013996,0.78502744,-0.78342605,Low spillover / High severity
+Alphavirus mayaro,Togaviridae,ssRNA+,2,0.005376685,0.71433777,-0.70896107,Low spillover / High severity
+Alphavirus mucambo,Togaviridae,ssRNA+,3,0.005376685,0.8337498,-0.8283731,Low spillover / High severity
+Alphavirus ndumu,Togaviridae,ssRNA+,3,0.0029756394,0.80384046,-0.8008648,Low spillover / High severity
+Alphavirus onyong,Togaviridae,ssRNA+,2,0.0016013996,0.78502744,-0.78342605,Low spillover / High severity
+Alphavirus pixuna,Togaviridae,ssRNA+,3,0.005376685,0.6754201,-0.6700434,Low spillover / High severity
+Alphavirus rossriver,Togaviridae,ssRNA+,2,0.0016013996,0.78502744,-0.78342605,Low spillover / High severity
+Alphavirus salmon,Togaviridae,ssRNA+,1,0.0016013996,0.78502744,-0.78342605,Low spillover / High severity
+Alphavirus semliki,Togaviridae,ssRNA+,2,0.0016013996,0.78502744,-0.78342605,Low spillover / High severity
+Alphavirus sindbis,Togaviridae,ssRNA+,2,0.005376685,0.7406311,-0.7352544,Low spillover / High severity
+Alphavirus una,Togaviridae,ssRNA+,2,0.005376685,0.6754201,-0.6700434,Low spillover / High severity
+Alphavirus venezuelan,Togaviridae,ssRNA+,3,0.0016013996,0.78502744,-0.78342605,Low spillover / High severity
+Alphavirus venezuelan TC-83,Togaviridae,ssRNA+,2,0.0016013996,0.78502744,-0.78342605,Low spillover / High severity
+Alphavirus western,Togaviridae,ssRNA+,3,0.0016013996,0.78502744,-0.78342605,Low spillover / High severity
+Alphavirus whataroa,Togaviridae,ssRNA+,2,0.0016013996,0.78502744,-0.78342605,Low spillover / High severity
+Amdoparvovirus carnivoran1,Parvoviridae,ssDNA,1,0.0016013996,0.13518402,-0.13358262,Low spillover / Low severity
+Aparavirus apisacutum,Dicistroviridae,ssRNA+,2,0.0016013996,0.8070169,-0.8054155,Low spillover / High severity
+Aparavirus tauraense,Dicistroviridae,ssRNA+,1,0.0016013996,0.8070169,-0.8054155,Low spillover / High severity
+Aphthovirus bogeli,Picornaviridae,ssRNA+,1,0.0016013996,0.7371444,-0.735543,Low spillover / High severity
+Aphthovirus reedi,Picornaviridae,ssRNA+,1,0.0016013996,0.7371444,-0.735543,Low spillover / High severity
+Aquabirnavirus salmonidae,Birnaviridae,dsRNA,1,0.0016013996,0.8531546,-0.8515532,Low spillover / High severity
+Aransas Bay virus,unknown,unknown,3,0.005376685,0.733151,-0.7277743,Low spillover / High severity
+Aripo virus,unknown,unknown,2,0.0029756394,0.57169485,-0.5687192,Low spillover / High severity
+Arurhavirus inhangapi,Rhabdoviridae,ssRNA-,3,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Arurhavirus xiburema,Rhabdoviridae,ssRNA-,3,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Asfivirus haemorrhagiae (African swine fever virus),Asfarviridae,dsDNA,1,0.005376685,0.043626506,-0.03824982,Low spillover / Low severity
+Ash River virus,unknown,unknown,3,0.005376685,0.7283998,-0.7230231,Low spillover / High severity
+Aurivirus haliotidmalaco1,Malacoherpesviridae,dsDNA,1,0.0016013996,0.031659402,-0.030058002,Low spillover / Low severity
+Ausdyk disease virus,unknown,unknown,2,0.005376685,0.5969344,-0.5915577,Low spillover / High severity
+Avastrovirus galli,Astroviridae,ssRNA+,2,0.0016013996,0.31547734,-0.31387594,Low spillover / Low severity
+Avastrovirus intestini,Astroviridae,ssRNA+,2,0.0016013996,0.31547734,-0.31387594,Low spillover / Low severity
+Avastrovirus meleagridis,Astroviridae,ssRNA+,2,0.0016013996,0.31547734,-0.31387594,Low spillover / Low severity
+Aviadenovirus ventriculi,Adenoviridae,dsDNA,1,0.0016013996,0.10976984,-0.108168446,Low spillover / Low severity
+Avian orthoavulavirus 1 Newcastle disease virus (NDV) strain TS09-C,unknown,unknown,2,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Avibirnavirus gumboroense,Birnaviridae,dsRNA,1,0.0016013996,0.8531546,-0.8515532,Low spillover / High severity
+Avipoxvirus canarypox,Poxviridae,dsDNA,1,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Avipoxvirus canarypox Replication-defective ALVAC vectors,Poxviridae,dsDNA,1,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Avipoxvirus fowlpox,Poxviridae,dsDNA,1,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Avipoxvirus pigeonpox,Poxviridae,dsDNA,1,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Avipoxvirus quailpox,Poxviridae,dsDNA,1,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Avipoxvirus turkeypox,Poxviridae,dsDNA,1,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Bacteriophages,unknown,unknown,1,0.0060108164,0.36079654,-0.3547857,Low spillover / Low severity
+Baku virus,unknown,unknown,2,0.005376685,0.68060386,-0.67522717,Low spillover / High severity
+Bandavirus bhanjanagarense,Phenuiviridae,other,3,0.0016013996,0.68514764,-0.68354625,Low spillover / High severity
+Bandavirus dabieense,Phenuiviridae,other,3,0.0016013996,0.68514764,-0.68354625,Low spillover / High severity
+Bandavirus heartlandense,Phenuiviridae,other,2,0.0016013996,0.68514764,-0.68354625,Low spillover / High severity
+Bandavirus razdanense,Phenuiviridae,other,3,0.0016013996,0.68514764,-0.68354625,Low spillover / High severity
+Bangui virus,unknown,unknown,2,0.0016013996,0.53746307,-0.5358617,Low spillover / High severity
+Barthadenovirus galloanserae,Adenoviridae,dsDNA,1,0.0016013996,0.09415098,-0.092549585,Low spillover / Low severity
+Barthadenovirus ovis,Adenoviridae,dsDNA,2,0.0016013996,0.10976984,-0.108168446,Low spillover / Low severity
+Batravirus ranidallo1,Alloherpesviridae,dsDNA,1,0.0016013996,0.11780387,-0.11620247,Low spillover / Low severity
+Bauline virus,unknown,unknown,2,0.0016013996,0.53746307,-0.5358617,Low spillover / High severity
+Betaarterivirus americense,Arteriviridae,ssRNA+,1,0.0016013996,0.7601376,-0.7585362,Low spillover / High severity
+Betaarterivirus europensis,Arteriviridae,ssRNA+,1,0.0016013996,0.7601376,-0.7585362,Low spillover / High severity
+Betabaculovirus adoranae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus agsegetum,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus alterclanastomosis,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus arrapae,Baculoviridae,dsDNA,1,0.0016013996,0.009274905,-0.0076735048,Low spillover / Low severity
+Betabaculovirus chofumiferanae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus clanachoretae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus clanastomosis,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus cryleucotretae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus cypomonellae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus disaccharalis,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus epaporemae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus erellonis,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus habrilliantis,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus helarmigerae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus lacoleraceae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus myunipunctae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus phoperculellae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus plinterpunctellae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus pluxylostellae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus spliturae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus spofrugiperdae,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus trini,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betabaculovirus xecnigri,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Betacoronavirus cameli,Coronaviridae,ssRNA+,3,0.0016013996,0.55908626,-0.55748487,Low spillover / High severity
+Betacoronavirus gravedinis (excluding human coronavirus OC43),Coronaviridae,ssRNA+,1,0.0016013996,0.55908626,-0.55748487,Low spillover / High severity
+Betacoronavirus gravedinis (human coronavirus OC43),Coronaviridae,ssRNA+,2,0.0016013996,0.55908626,-0.55748487,Low spillover / High severity
+Betacoronavirus muris,Coronaviridae,ssRNA+,2,0.0016013996,0.55908626,-0.55748487,Low spillover / High severity
+Betainfluenzavirus influenzae,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Betapolyomavirus hominis,Polyomaviridae,dsDNA,2,0.0060108164,0.20391561,-0.1979048,Low spillover / Low severity
+Betapolyomavirus macacae,Polyomaviridae,dsDNA,2,0.0016013996,0.15453565,-0.15293425,Low spillover / Low severity
+Betapolyomavirus quartihominis,Polyomaviridae,dsDNA,2,0.0016013996,0.26754788,-0.26594648,Low spillover / Low severity
+Betapolyomavirus secuhominis,Polyomaviridae,dsDNA,2,0.0016013996,0.26754788,-0.26594648,Low spillover / Low severity
+Betapolyomavirus tertihominis,Polyomaviridae,dsDNA,2,0.0060108164,0.11317831,-0.1071675,Low spillover / Low severity
+Betaretrovirus maspfimon,Retroviridae,other,1,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Betaretrovirus murmamtum,Retroviridae,other,1,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Bocaparvovirus primate1,Parvoviridae,ssDNA,2,0.0060108164,0.053172525,-0.04716171,Low spillover / Low severity
+Bocaparvovirus primate2,Parvoviridae,ssDNA,2,0.0016013996,0.13518402,-0.13358262,Low spillover / Low severity
+Bocaparvovirus ungulate1,Parvoviridae,ssDNA,1,0.0016013996,0.053172525,-0.051571127,Low spillover / Low severity
+Bourbon virus,unknown,unknown,3,0.0016013996,0.26378447,-0.26218307,Low spillover / Low severity
+Bovine viral diarrhea virus,unknown,unknown,1,0.0016013996,0.4610962,-0.4594948,Low spillover / Low severity
+Calbertado virus,unknown,unknown,1,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Calchaqui virus,unknown,unknown,3,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Capripoxvirus goatpox,Poxviridae,dsDNA,1,0.0016013996,0.27183682,-0.27023542,Low spillover / Low severity
+Capripoxvirus lumpyskinpox,Poxviridae,dsDNA,1,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Capripoxvirus sheeppox,Poxviridae,dsDNA,1,0.0029756394,0.35574102,-0.35276538,Low spillover / Low severity
+Cardiovirus rueckerti,Picornaviridae,ssRNA+,1,0.0016013996,0.7371444,-0.735543,Low spillover / High severity
+Cardiovirus theileri,Picornaviridae,ssRNA+,1,0.0016013996,0.7371444,-0.735543,Low spillover / High severity
+Cell fusing agent virus,unknown,unknown,1,0.0029756394,0.30759278,-0.30461714,Low spillover / Low severity
+ChimeriVax-West Nile virus vaccine,unknown,unknown,1,0.005376685,0.3730332,-0.3676565,Low spillover / Low severity
+Chloriridovirus simulium1,Iridoviridae,dsDNA,1,0.0016013996,0.13112265,-0.12952125,Low spillover / Low severity
+Circovirus porcine1,Circoviridae,ssDNA,1,0.0016013996,0.054309413,-0.052708015,Low spillover / Low severity
+Circovirus porcine2,Circoviridae,ssDNA,1,0.0016013996,0.054309413,-0.052708015,Low spillover / Low severity
+"Cold-adapted, temperature-sensitive and attenuated influenza A/Norway/31694/2022 (H1N1) virus",unknown,unknown,2,0.005376685,0.38788795,-0.38251126,Low spillover / Low severity
+"Cold-adapted, temperature-sensitive, and attenuated influenza A/Thailand/8/2022 (H3N2)-like virus",unknown,unknown,2,0.005376685,0.38788795,-0.38251126,Low spillover / Low severity
+Coltivirus dermacentoris,Spinareoviridae,dsRNA,2,0.0016013996,0.24539927,-0.24379787,Low spillover / Low severity
+Coltivirus ixodis,Spinareoviridae,dsRNA,2,0.0016013996,0.24539927,-0.24379787,Low spillover / Low severity
+Culex flavivirus,unknown,unknown,1,0.0016013996,0.22234039,-0.22073899,Low spillover / Low severity
+Culex theileri flavivirus,unknown,unknown,1,0.005376685,0.21293156,-0.20755488,Low spillover / Low severity
+Curiovirus rochambeau,Rhabdoviridae,ssRNA-,3,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Cytomegalovirus cercopithecinebeta5,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Cytomegalovirus humanbeta5,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Cyvirus cyprinidallo3,Alloherpesviridae,dsDNA,1,0.0016013996,0.11780387,-0.11620247,Low spillover / Low severity
+Deltaarterivirus hemfev,Arteriviridae,ssRNA+,2,0.0016013996,0.7601376,-0.7585362,Low spillover / High severity
+Deltabaculovirus cunigripalpi,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Deltacoronavirus suis,Coronaviridae,ssRNA+,2,0.005376685,0.7186586,-0.7132819,Low spillover / High severity
+Deltapapillomavirus 3,Papillomaviridae,dsDNA,1,0.0029756394,0.109811485,-0.10683584,Low spillover / Low severity
+Deltapolyomavirus septihominis,Polyomaviridae,dsDNA,2,0.0016013996,0.26754788,-0.26594648,Low spillover / Low severity
+Deltapolyomavirus sextihominis,Polyomaviridae,dsDNA,2,0.0016013996,0.26754788,-0.26594648,Low spillover / Low severity
+Deltaretrovirus bovleu,Retroviridae,other,1,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Dengue virus quadrivalent vaccine V181,unknown,unknown,1,0.005376685,0.3730332,-0.3676565,Low spillover / Low severity
+Dependoparvovirus anseriform1,Parvoviridae,ssDNA,1,0.0016013996,0.13518402,-0.13358262,Low spillover / Low severity
+Dependoparvovirus primate1,Parvoviridae,ssDNA,1,0.0016013996,0.13518402,-0.13358262,Low spillover / Low severity
+Dependoparvovirus primate1 AAV9-GP-AAV-syn-jGCaMP8f-WPRE,Parvoviridae,ssDNA,1,0.0016013996,0.13518402,-0.13358262,Low spillover / Low severity
+Dependoparvovirus primate1 AAV9-hDlx-GiDREADD-dTomato-Fishell-5,Parvoviridae,ssDNA,1,0.0016013996,0.13518402,-0.13358262,Low spillover / Low severity
+Dependoparvovirus primate1 encoding Human Tau gene insert (Tau E14 P301),Parvoviridae,ssDNA,2,0.0016013996,0.13518402,-0.13358262,Low spillover / Low severity
+Dependoparvovirus primate1 encoding antisense RNA to DMPK transgene,Parvoviridae,ssDNA,2,0.0016013996,0.13518402,-0.13358262,Low spillover / Low severity
+Dianlovirus menglaense,Filoviridae,ssRNA-,4,0.0016013996,0.9152179,-0.9136165,Low spillover / High severity
+Ebolaviruses,unknown,unknown,4,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Elephantpox virus,unknown,unknown,2,0.0029756394,0.57169485,-0.5687192,Low spillover / High severity
+Enterovirus SV-16 ATCC VR-211,unknown,unknown,2,0.005376685,0.38814107,-0.38276437,Low spillover / Low severity
+Enterovirus SV-18 ATCC VR-212,unknown,unknown,2,0.005376685,0.38814107,-0.38276437,Low spillover / Low severity
+Enterovirus SV-2 ATCC VR-210,unknown,unknown,2,0.005376685,0.38814107,-0.38276437,Low spillover / Low severity
+Enterovirus SV-26 ATCC VR-290,unknown,unknown,2,0.005376685,0.38814107,-0.38276437,Low spillover / Low severity
+Enterovirus SV-28 ATCC VR-291,unknown,unknown,2,0.005376685,0.38814107,-0.38276437,Low spillover / Low severity
+Enterovirus SV-35 ATCC VR-292,unknown,unknown,2,0.005376685,0.38814107,-0.38276437,Low spillover / Low severity
+Enterovirus SV-4 ATCC VR-287,unknown,unknown,2,0.005376685,0.38814107,-0.38276437,Low spillover / Low severity
+Enterovirus alphacoxsackie,Picornaviridae,ssRNA+,2,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus alphacoxsackie simian virus 19 (SV-19) ATCC VR-213,Picornaviridae,ssRNA+,2,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus alpharhino,Picornaviridae,ssRNA+,2,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus betacoxsackie,Picornaviridae,ssRNA+,2,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus betarhino,Picornaviridae,ssRNA+,2,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus cerhino,Picornaviridae,ssRNA+,2,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus coxsackiepol coxsackievirus A21,Picornaviridae,ssRNA+,2,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus coxsackiepol novel oral polio vaccine 1 (nOPV1),Picornaviridae,ssRNA+,3,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus coxsackiepol novel oral polio vaccine 2 (nOPV2),Picornaviridae,ssRNA+,3,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus coxsackiepol novel oral polio vaccine 3 (nOPV3),Picornaviridae,ssRNA+,3,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus coxsackiepol poliovirus 1,Picornaviridae,ssRNA+,3,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus coxsackiepol poliovirus 2,Picornaviridae,ssRNA+,3,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus coxsackiepol poliovirus 3,Picornaviridae,ssRNA+,3,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus coxsackiepol poliovirus Sabin oral vaccine 1 (OPV1),Picornaviridae,ssRNA+,3,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus coxsackiepol poliovirus Sabin oral vaccine 2 (OPV2),Picornaviridae,ssRNA+,3,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus coxsackiepol poliovirus Sabin oral vaccine 3 (OPV3),Picornaviridae,ssRNA+,3,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus coxsackiepol vaccine-derived poliovirus 1,Picornaviridae,ssRNA+,3,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus coxsackiepol vaccine-derived poliovirus 2,Picornaviridae,ssRNA+,3,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus coxsackiepol vaccine-derived poliovirus 3,Picornaviridae,ssRNA+,3,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus deconjuncti,Picornaviridae,ssRNA+,2,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Enterovirus eibovi,Picornaviridae,ssRNA+,1,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Env pseudotyped Human immunodeficiency virus,unknown,unknown,3,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Ephemerovirus adelaide,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Ephemerovirus berrimah,Rhabdoviridae,ssRNA-,3,0.0016013996,0.7943939,-0.7927925,Low spillover / High severity
+Ephemerovirus febris,Rhabdoviridae,ssRNA-,1,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Ephemerovirus kimberley,Rhabdoviridae,ssRNA-,3,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Ephemerovirus kotonkan,Rhabdoviridae,ssRNA-,2,0.005376685,0.76920736,-0.76383066,Low spillover / High severity
+Ephemerovirus puchong,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Ephemerovirus yata,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Eptesicus fuscus gammaherpesvirus,unknown,unknown,2,0.0016013996,0.22234039,-0.22073899,Low spillover / Low severity
+Equine parapoxvirus,unknown,unknown,2,0.0029756394,0.57169485,-0.5687192,Low spillover / High severity
+Erbovirus aequirhi,Picornaviridae,ssRNA+,1,0.0016013996,0.7371444,-0.735543,Low spillover / High severity
+Erythroparvovirus primate1,Parvoviridae,ssDNA,2,0.0016013996,0.053172525,-0.051571127,Low spillover / Low severity
+Farmington virus,unknown,unknown,2,0.005376685,0.33786845,-0.33249176,Low spillover / Low severity
+Gammabaculovirus nelecontei,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Gammabaculovirus nesertiferis,Baculoviridae,dsDNA,1,0.0016013996,0.06758499,-0.06598359,Low spillover / Low severity
+Gammacoronavirus galli,Coronaviridae,ssRNA+,1,0.0016013996,0.7136538,-0.7120524,Low spillover / High severity
+Gammainfluenzavirus influenzae,Orthomyxoviridae,ssRNA-,2,0.005376685,0.7276534,-0.7222767,Low spillover / High severity
+Gammaretrovirus felleu,Retroviridae,other,1,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Gammaretrovirus gibleu,Retroviridae,other,1,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Gammaretrovirus momursar,Retroviridae,other,1,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Gammaretrovirus murleu,Retroviridae,other,1,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Gammaretrovirus murleu genetically modified Moloney strain SinVec-COL7A1,Retroviridae,other,2,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Gammaretrovirus porConc,Retroviridae,other,1,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Guaico Culex virus,unknown,unknown,2,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Gyrovirus chickenanemia,Anelloviridae,other,1,0.0016013996,0.67101747,-0.66941607,Low spillover / High severity
+Hamster parvovirus H-1,unknown,unknown,1,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Hapavirus bangoran,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Hapavirus graylodge,Rhabdoviridae,ssRNA-,3,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Hapavirus joinjakaka,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Hapavirus kamese,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Hapavirus lajoya,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Hapavirus landjia,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Hapavirus manitoba,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Hapavirus marco,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Hapavirus mosqueiro,Rhabdoviridae,ssRNA-,3,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Hapavirus mossuril,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Hapavirus ngaingan,Rhabdoviridae,ssRNA-,2,0.005376685,0.4218319,-0.4164552,Low spillover / Low severity
+Henipavirus cedarense,Paramyxoviridae,ssRNA-,2,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Henipavirus hendraense,Paramyxoviridae,ssRNA-,4,0.9978276,0.7910127,0.20681489,High spillover / High severity
+Henipavirus nipahense,Paramyxoviridae,ssRNA-,4,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+"Henipavirus nipahense virus-like particles composed of M, G, F proteins",Paramyxoviridae,ssRNA-,1,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Hepacivirus hominis,Hepaciviridae,ssRNA+,2,0.0060108164,0.71484804,-0.7088372,Low spillover / High severity
+Hepatitis delta virus,unknown,unknown,2,0.005376685,0.7283998,-0.7230231,Low spillover / High severity
+Hepatovirus ahepa,Picornaviridae,ssRNA+,2,0.005376685,0.7977362,-0.79235953,Low spillover / High severity
+Horsepox virus,unknown,unknown,2,0.0029756394,0.30759278,-0.30461714,Low spillover / Low severity
+Human alphaherpesvirus 2 ACAM-529,unknown,unknown,1,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Human coronavirus,unknown,unknown,3,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Human immunodeficiency virus 1 and 2,unknown,unknown,3,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Human immunodeficiency virus 1 from 8E5 cells,unknown,unknown,2,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Human torovirus,Tobaniviridae,ssRNA+,2,0.0016013996,0.6949738,-0.6933724,Low spillover / High severity
+Ictavirus ictaluridallo1,Alloherpesviridae,dsDNA,1,0.0016013996,0.11780387,-0.11620247,Low spillover / Low severity
+Iltovirus gallidalpha1,Orthoherpesviridae,dsDNA,1,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Influenza A-like virus H17N10,unknown,unknown,2,0.005376685,0.38788795,-0.38251126,Low spillover / Low severity
+Influenza A-like virus H18N11,unknown,unknown,2,0.005376685,0.38788795,-0.38251126,Low spillover / Low severity
+Isavirus salaris,Orthomyxoviridae,ssRNA-,1,0.005376685,0.7371608,-0.7317841,Low spillover / High severity
+Isla Vista virus,unknown,unknown,3,0.0029756394,0.55383193,-0.5508563,Low spillover / High severity
+Jingmen tick virus,unknown,unknown,2,0.0029756394,0.42460802,-0.42163238,Low spillover / Low severity
+Juncopox virus,unknown,unknown,1,0.005376685,0.59032935,-0.58495265,Low spillover / High severity
+Juquitiba virus,unknown,unknown,3,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Kamiti River virus,unknown,unknown,1,0.0016013996,0.22234039,-0.22073899,Low spillover / Low severity
+Kannamangalam virus,unknown,unknown,2,0.005376685,0.6386546,-0.6332779,Low spillover / High severity
+Kappapapillomavirus 2,Papillomaviridae,dsDNA,1,0.0016013996,0.07561784,-0.074016444,Low spillover / Low severity
+La Tina virus,unknown,unknown,2,0.0029756394,0.55383193,-0.5508563,Low spillover / High severity
+Lagovirus europaeus (Rabbit hemorrhagic disease virus),Caliciviridae,ssRNA+,1,0.005376685,0.22769332,-0.22231664,Low spillover / Low severity
+Ledantevirus barur,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7943939,-0.7927925,Low spillover / High severity
+Ledantevirus elgon,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Ledantevirus kern,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Ledantevirus keuraliba,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7943939,-0.7927925,Low spillover / High severity
+Ledantevirus ledantec,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Ledantevirus nkolbisson,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Lentivirus bovimdef,Retroviridae,other,1,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Lentivirus capartenc,Retroviridae,other,1,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Lentivirus equinfane,Retroviridae,other,1,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Lentivirus felimdef,Retroviridae,other,1,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Lentivirus simimdef,Retroviridae,other,2,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Leporipoxvirus myxoma,Poxviridae,dsDNA,1,0.005376685,0.40241367,-0.39703697,Low spillover / Low severity
+Leporipoxvirus shope,Poxviridae,dsDNA,1,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Leporipoxvirus squirrelfibroma,Poxviridae,dsDNA,1,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Long Pine Key virus,unknown,unknown,2,0.0029756394,0.57169485,-0.5687192,Low spillover / High severity
+Lymphocryptovirus humangamma4,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Lymphocystivirus platichthys1,Iridoviridae,dsDNA,1,0.0016013996,0.13112265,-0.12952125,Low spillover / Low severity
+Lyssavirus australis,Rhabdoviridae,ssRNA-,3,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Lyssavirus bokeloh,Rhabdoviridae,ssRNA-,3,0.0016013996,0.6119292,-0.6103278,Low spillover / High severity
+Lyssavirus duvenhage,Rhabdoviridae,ssRNA-,3,0.9914488,0.8192172,0.17223161,High spillover / High severity
+Lyssavirus hamburg,Rhabdoviridae,ssRNA-,3,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Lyssavirus helsinki,Rhabdoviridae,ssRNA-,3,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Lyssavirus ikoma,Rhabdoviridae,ssRNA-,3,0.005376685,0.6338466,-0.6284699,Low spillover / High severity
+Lyssavirus lagos,Rhabdoviridae,ssRNA-,3,0.0029756394,0.6456019,-0.6426263,Low spillover / High severity
+Lyssavirus mokola,Rhabdoviridae,ssRNA-,3,0.9978276,0.8223962,0.17543137,High spillover / High severity
+Lyssavirus rabies,Rhabdoviridae,ssRNA-,3,0.005376685,0.82739204,-0.82201535,Low spillover / High severity
+Lyssavirus rabies CTN-1,Rhabdoviridae,ssRNA-,3,0.005376685,0.82739204,-0.82201535,Low spillover / High severity
+Lyssavirus rabies CVS-11,Rhabdoviridae,ssRNA-,3,0.005376685,0.82739204,-0.82201535,Low spillover / High severity
+Lyssavirus rabies CVS-N2cdeltaG,Rhabdoviridae,ssRNA-,2,0.005376685,0.82739204,-0.82201535,Low spillover / High severity
+Lyssavirus rabies Flury low-egg-passage (LEP) strain,Rhabdoviridae,ssRNA-,2,0.005376685,0.82739204,-0.82201535,Low spillover / High severity
+Lyssavirus rabies Pitman-Moore strain,Rhabdoviridae,ssRNA-,2,0.005376685,0.82739204,-0.82201535,Low spillover / High severity
+Lyssavirus rabies Street Alabama Dufferin (SAD) strain,Rhabdoviridae,ssRNA-,3,0.005376685,0.82739204,-0.82201535,Low spillover / High severity
+Macavirus alcelaphinegamma1,Orthoherpesviridae,dsDNA,1,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Macavirus alcelaphinegamma2,Orthoherpesviridae,dsDNA,1,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Macavirus ovinegamma2,Orthoherpesviridae,dsDNA,1,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Macrobrachium rosenbergii nodavirus,unknown,unknown,1,0.0016013996,0.22234039,-0.22073899,Low spillover / Low severity
+Magpiepox virus,unknown,unknown,1,0.0029756394,0.462385,-0.45940936,Low spillover / Low severity
+Mamastrovirus hominis,Astroviridae,ssRNA+,2,0.0016013996,0.31547734,-0.31387594,Low spillover / Low severity
+Mammarenavirus allpahuayoense,Arenaviridae,other,3,0.0029756394,0.8389285,-0.8359529,Low spillover / High severity
+Mammarenavirus amapariense,Arenaviridae,other,2,0.0016013996,0.9746185,-0.9730171,Low spillover / High severity
+Mammarenavirus bearense,Arenaviridae,other,3,0.0016013996,0.85441756,-0.85281616,Low spillover / High severity
+Mammarenavirus brazilense,Arenaviridae,other,4,0.0016013996,0.9746185,-0.9730171,Low spillover / High severity
+Mammarenavirus caliense,Arenaviridae,other,2,0.0016013996,0.9746185,-0.9730171,Low spillover / High severity
+Mammarenavirus chapareense,Arenaviridae,other,4,0.0060108164,0.96932244,-0.9633116,Low spillover / High severity
+Mammarenavirus choriomeningitidis,Arenaviridae,other,3,0.005376685,0.7861621,-0.7807854,Low spillover / High severity
+Mammarenavirus choriomeningitidis Armstrong strain,Arenaviridae,other,2,0.0016013996,0.9746185,-0.9730171,Low spillover / High severity
+Mammarenavirus choriomeningitidis Clone 13,Arenaviridae,other,2,0.0016013996,0.9746185,-0.9730171,Low spillover / High severity
+Mammarenavirus flexalense,Arenaviridae,other,3,0.0016013996,0.85441756,-0.85281616,Low spillover / High severity
+Mammarenavirus guanaritoense,Arenaviridae,other,4,0.9914488,0.9782027,0.013246119,High spillover / High severity
+Mammarenavirus ippyense,Arenaviridae,other,2,0.0016013996,0.85441756,-0.85281616,Low spillover / High severity
+Mammarenavirus juninense,Arenaviridae,other,4,0.9978276,0.9869128,0.010914803,High spillover / High severity
+Mammarenavirus lassaense,Arenaviridae,other,4,0.9978276,0.9811658,0.016661763,High spillover / High severity
+Mammarenavirus latinum,Arenaviridae,other,2,0.0016013996,0.85441756,-0.85281616,Low spillover / High severity
+Mammarenavirus lujoense,Arenaviridae,other,4,0.0060108164,0.96932244,-0.9633116,Low spillover / High severity
+Mammarenavirus machupoense,Arenaviridae,other,4,0.9978276,0.9811658,0.016661763,High spillover / High severity
+Mammarenavirus oliverosense,Arenaviridae,other,3,0.0016013996,0.85441756,-0.85281616,Low spillover / High severity
+Mammarenavirus paranaense,Arenaviridae,other,2,0.0016013996,0.9746185,-0.9730171,Low spillover / High severity
+Mammarenavirus piritalense,Arenaviridae,other,3,0.0016013996,0.85441756,-0.85281616,Low spillover / High severity
+Mammarenavirus praomyidis,Arenaviridae,other,3,0.0016013996,0.85441756,-0.85281616,Low spillover / High severity
+Mammarenavirus tacaribeense,Arenaviridae,other,2,0.0016013996,0.85441756,-0.85281616,Low spillover / High severity
+Mammarenavirus tamiamiense,Arenaviridae,other,2,0.0016013996,0.85441756,-0.85281616,Low spillover / High severity
+Mammarenavirus whitewaterense,Arenaviridae,other,3,0.0029756394,0.8389285,-0.8359529,Low spillover / High severity
+Mardivirus gallidalpha2,Orthoherpesviridae,dsDNA,1,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Mastadenovirus adami,Adenoviridae,dsDNA,2,0.0029756394,0.08596686,-0.08299122,Low spillover / Low severity
+Mastadenovirus adami Adenovirus 12-SV40 hybrid virus,Adenoviridae,dsDNA,2,0.0029756394,0.08596686,-0.08299122,Low spillover / Low severity
+Mastadenovirus blackbeardi,Adenoviridae,dsDNA,2,0.0016013996,0.09415098,-0.092549585,Low spillover / Low severity
+Mastadenovirus blackbeardi THEO-260,Adenoviridae,dsDNA,2,0.0016013996,0.09415098,-0.092549585,Low spillover / Low severity
+Mastadenovirus bosprimum,Adenoviridae,dsDNA,2,0.005376685,0.10521054,-0.09983386,Low spillover / Low severity
+Mastadenovirus bostertium,Adenoviridae,dsDNA,2,0.005376685,0.10521054,-0.09983386,Low spillover / Low severity
+Mastadenovirus caesari,Adenoviridae,dsDNA,2,0.0029756394,0.08596686,-0.08299122,Low spillover / Low severity
+Mastadenovirus caesari Replication-competent human adenovirus type 5 expressing rabies glycoprotein and chronic wasting disease agent epitope,Adenoviridae,dsDNA,2,0.0029756394,0.08596686,-0.08299122,Low spillover / Low severity
+Mastadenovirus caesari Replication-incompetent human adenovirus type 5 expressing rabies glycoprotein and chronic wasting disease agent epitope,Adenoviridae,dsDNA,2,0.0029756394,0.08596686,-0.08299122,Low spillover / Low severity
+Mastadenovirus caesari recombinant replication-incompetent adenovirus 5 encoding tick antigens rAd5-Tick,Adenoviridae,dsDNA,1,0.0029756394,0.08596686,-0.08299122,Low spillover / Low severity
+Mastadenovirus caesari replication-incompetent human adenovirus 5 encoding Flp recombinase,Adenoviridae,dsDNA,1,0.0029756394,0.08596686,-0.08299122,Low spillover / Low severity
+Mastadenovirus canidae,Adenoviridae,dsDNA,2,0.0029756394,0.08596686,-0.08299122,Low spillover / Low severity
+Mastadenovirus dominans,Adenoviridae,dsDNA,2,0.0029756394,0.08596686,-0.08299122,Low spillover / Low severity
+Mastadenovirus encephalomyelitidis,Adenoviridae,dsDNA,2,0.0016013996,0.09415098,-0.092549585,Low spillover / Low severity
+Mastadenovirus equi,Adenoviridae,dsDNA,1,0.005376685,0.069841,-0.064464316,Low spillover / Low severity
+Mastadenovirus equidae,Adenoviridae,dsDNA,1,0.0029756394,0.08596686,-0.08299122,Low spillover / Low severity
+Mastadenovirus exoticum,Adenoviridae,dsDNA,2,0.005376685,0.10521054,-0.09983386,Low spillover / Low severity
+Mastadenovirus faecale,Adenoviridae,dsDNA,2,0.0029756394,0.08596686,-0.08299122,Low spillover / Low severity
+Mastadenovirus simiae,Adenoviridae,dsDNA,2,0.0029756394,0.08596686,-0.08299122,Low spillover / Low severity
+Megalocytivirus pagrus1 (Red sea bream iridovirus),Iridoviridae,dsDNA,1,0.0016013996,0.13112265,-0.12952125,Low spillover / Low severity
+Mercadeo virus,unknown,unknown,1,0.0016013996,0.4610962,-0.4594948,Low spillover / Low severity
+Metaavulavirus delawarense,Paramyxoviridae,ssRNA-,1,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Metaavulavirus falklandense,Paramyxoviridae,ssRNA-,2,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Metaavulavirus galliense,Paramyxoviridae,ssRNA-,2,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Metaavulavirus hongkongense,Paramyxoviridae,ssRNA-,1,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Metaavulavirus kunitachiense,Paramyxoviridae,ssRNA-,1,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Metaavulavirus tennessense,Paramyxoviridae,ssRNA-,1,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Metaavulavirus yucaipaense,Paramyxoviridae,ssRNA-,1,0.0016013996,0.5082766,-0.5066752,Low spillover / High severity
+Metapneumovirus avis,Pneumoviridae,ssRNA-,1,0.005376685,0.32192844,-0.31655174,Low spillover / Low severity
+Metapneumovirus hominis,Pneumoviridae,ssRNA-,2,0.005376685,0.32192844,-0.31655174,Low spillover / Low severity
+Mitchell River virus,unknown,unknown,2,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Mobatvirus novaense,Hantaviridae,ssRNA-,3,0.0016013996,0.8722689,-0.8706675,Low spillover / High severity
+Modified Vaccinia Ankara virus clone 33 (MVA-N33) MVA-HPV-IL2,unknown,unknown,2,0.005376685,0.56022036,-0.55484366,Low spillover / High severity
+Modified Vaccinia virus Ankara (MVA),unknown,unknown,2,0.005376685,0.56022036,-0.55484366,Low spillover / High severity
+Molluscipoxvirus molluscum,Poxviridae,dsDNA,2,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Mopeia mammarenavirus,unknown,unknown,3,0.0016013996,0.43583807,-0.43423668,Low spillover / Low severity
+Morbillivirus canis,Paramyxoviridae,ssRNA-,1,0.005376685,0.75464,-0.7492633,Low spillover / High severity
+Morbillivirus caprinae,Paramyxoviridae,ssRNA-,1,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Morbillivirus hominis,Paramyxoviridae,ssRNA-,2,0.005376685,0.805954,-0.8005773,Low spillover / High severity
+Morbillivirus pecoris,Paramyxoviridae,ssRNA-,1,0.005376685,0.805954,-0.8005773,Low spillover / High severity
+Morbillivirus phocae,Paramyxoviridae,ssRNA-,1,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Murine leukemia virus (B10 xenotropic virus 1),unknown,unknown,1,0.005376685,0.49191403,-0.48653734,Low spillover / Low severity
+Murine rotavirus,Sedoreoviridae,dsRNA,1,0.005376685,0.35473818,-0.34936148,Low spillover / Low severity
+Muromegalovirus muridbeta1,Orthoherpesviridae,dsDNA,1,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Muromegalovirus muridbeta2,Orthoherpesviridae,dsDNA,1,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Nairobi sheep disease virus,unknown,unknown,1,0.9978276,0.7432052,0.2546224,High spillover / High severity
+Nanay virus,unknown,unknown,2,0.0029756394,0.4288475,-0.42587185,Low spillover / Low severity
+Negevirus,unknown,unknown,1,0.005376685,0.3207886,-0.3154119,Low spillover / Low severity
+Nhumirim virus,unknown,unknown,2,0.0016013996,0.22234039,-0.22073899,Low spillover / Low severity
+Norovirus norwalkense (except murine norovirus 1),Caliciviridae,ssRNA+,2,0.0016013996,0.19889921,-0.19729781,Low spillover / Low severity
+Norovirus norwalkense (murine norovirus 1),Caliciviridae,ssRNA+,1,0.0016013996,0.19889921,-0.19729781,Low spillover / Low severity
+Novirhabdovirus piscine,Rhabdoviridae,ssRNA-,1,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Novirhabdovirus salmonid,Rhabdoviridae,ssRNA-,1,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Okhotskiy virus,unknown,unknown,2,0.0029756394,0.57169485,-0.5687192,Low spillover / High severity
+Orbivirus alphaequi,Sedoreoviridae,dsRNA,1,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+"Orbivirus alphaequi experimentally neuroadapted strains, serotypes 1 and 6",Sedoreoviridae,dsRNA,2,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orbivirus alphamitchellense,Sedoreoviridae,dsRNA,2,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orbivirus betamitchellense,Sedoreoviridae,dsRNA,2,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orbivirus caerulinguae,Sedoreoviridae,dsRNA,1,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orbivirus chenudaense,Sedoreoviridae,dsRNA,2,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orbivirus deltamitchellense,Sedoreoviridae,dsRNA,2,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orbivirus eubenangeense,Sedoreoviridae,dsRNA,2,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orbivirus gammamitchellense,Sedoreoviridae,dsRNA,2,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orbivirus lebomboense,Sedoreoviridae,dsRNA,2,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orbivirus magninsulae,Sedoreoviridae,dsRNA,2,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orbivirus orungoense,Sedoreoviridae,dsRNA,3,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orbivirus palyamense,Sedoreoviridae,dsRNA,2,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orbivirus ruminantium,Sedoreoviridae,dsRNA,1,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orbivirus trinidadense,Sedoreoviridae,dsRNA,2,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orbivirus umatillaense,Sedoreoviridae,dsRNA,2,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orbivirus wadmedaniense,Sedoreoviridae,dsRNA,2,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Orthoavulavirus italiense,Paramyxoviridae,ssRNA-,2,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Orthoavulavirus javaense,Paramyxoviridae,ssRNA-,2,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Orthoavulavirus javaense Newcastle disease virus Lentogenic strain La Sota,Paramyxoviridae,ssRNA-,2,0.0016013996,0.62002385,-0.61842245,Low spillover / High severity
+"Orthoavulavirus javaense Newcastle disease virus Lentogenic strains: Hitchner B1, N79, V4",Paramyxoviridae,ssRNA-,2,0.0016013996,0.62002385,-0.61842245,Low spillover / High severity
+"Orthoavulavirus javaense Newcastle disease virus Mesogenic strains: NJ-Roakin, Mukteswar, Komorov, Roakin",Paramyxoviridae,ssRNA-,2,0.0016013996,0.62002385,-0.61842245,Low spillover / High severity
+Orthoavulavirus newyorkense,Paramyxoviridae,ssRNA-,1,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Orthobornavirus bornaense,Bornaviridae,ssRNA-,2,0.0029756394,0.2686208,-0.26564515,Low spillover / Low severity
+Orthobunyavirus acaraense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus achiotei,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus ainoense,Peribunyaviridae,ssRNA-,1,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus akabaneense,Peribunyaviridae,ssRNA-,3,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus angeloense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus bakauense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus batamaense,Peribunyaviridae,ssRNA-,3,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus botambiense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus bunyamweraense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus bushbushense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus bwambaense,Peribunyaviridae,ssRNA-,2,0.9914488,0.36001587,0.63143295,High spillover / Low severity
+Orthobunyavirus cacheense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus capimense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus caraparuense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus catuense (Catu virus),Peribunyaviridae,ssRNA-,2,0.005376685,0.34538922,-0.34001252,Low spillover / Low severity
+Orthobunyavirus catuense (Moju virus),Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus cuchillaense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus encephalitidis,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus enseadaense,Peribunyaviridae,ssRNA-,3,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus gamboaense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus guajaraense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.16650367,-0.16490227,Low spillover / Low severity
+Orthobunyavirus guamaense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus guaroaense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus horizonteense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus insulae,Peribunyaviridae,ssRNA-,3,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus jamestownense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus kaengkhoiense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus kernense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus keystoneense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus khatangaense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus koongoli,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus lacrosseense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus lumboense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus madridense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus maritubaense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus melajoense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus mitchellense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus mpokoense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus nyandoense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus oribocaense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus oropoucheense,Peribunyaviridae,ssRNA-,3,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus patoisense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus sedlecense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus shuniense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.16650367,-0.16490227,Low spillover / Low severity
+Orthobunyavirus simbuense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.16650367,-0.16490227,Low spillover / Low severity
+Orthobunyavirus squalofluvii,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus tacaiumaense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.16650367,-0.16490227,Low spillover / Low severity
+Orthobunyavirus tahynaense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus teteense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.16650367,-0.16490227,Low spillover / Low severity
+Orthobunyavirus thimiriense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus timboteuaense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus turlockense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthobunyavirus wyeomyiae,Peribunyaviridae,ssRNA-,2,0.0016013996,0.16650367,-0.16490227,Low spillover / Low severity
+Orthoflavivirus apoiense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus bagazaense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus banziense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus boubouiense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus bravoense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus cacipacoreense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus careyense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus cowboneense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus dakarense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus denguei,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus edgehillense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus encephalitidis,Peribunyaviridae,ssRNA-,4,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Orthoflavivirus entebbeense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus flavi,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus flavi (Yellow fever virus vaccine strain 17D),Flaviviridae,ssRNA+,2,0.005376685,0.7500907,-0.744714,Low spillover / High severity
+Orthoflavivirus gadgetsense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus ilheusense (Ilheus virus),Flaviviridae,ssRNA+,2,0.005376685,0.91841316,-0.91303647,Low spillover / High severity
+Orthoflavivirus ilheusense (Rocio virus),Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus israelense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus japonicum,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus jugraense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus jutiapaense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus kadamense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus kedougouense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus kokoberaorum,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus koutangoense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus kyasanurense (Alkhumra hemorrhagic fever virus),Flaviviridae,ssRNA+,4,0.005376685,0.8903748,-0.8849981,Low spillover / High severity
+Orthoflavivirus kyasanurense (Kyasanur Forest disease virus),Flaviviridae,ssRNA+,4,0.005376685,0.9201137,-0.914737,Low spillover / High severity
+Orthoflavivirus langatense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus louisense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus loupingi,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus meabanense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus modocense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus montanaense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus murrayense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus nilense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus nilense (West Nile virus NS5-E218A mutant strain),Flaviviridae,ssRNA+,2,0.005376685,0.75816035,-0.75278366,Low spillover / High severity
+Orthoflavivirus nilense NATtrol Inactivated,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus nilense RepliVax WN,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus ntayaense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus omskense,Flaviviridae,ssRNA+,4,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus perlitaense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus phnompenhense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus powassanense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus royalense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus saboyaense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus saumarezense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus sepikense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus tembusu,Flaviviridae,ssRNA+,2,0.005376685,0.79591495,-0.79053825,Low spillover / High severity
+Orthoflavivirus tyuleniyense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus ugandaense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus usutuense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus viejaense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus yaoundeense,Flaviviridae,ssRNA+,3,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthoflavivirus zikaense,Flaviviridae,ssRNA+,2,0.0016013996,0.7680168,-0.7664154,Low spillover / High severity
+Orthohantavirus andesense,Hantaviridae,ssRNA-,3,0.0029756394,0.94343483,-0.9404592,Low spillover / High severity
+Orthohantavirus asamaense,Hantaviridae,ssRNA-,3,0.0016013996,0.8722689,-0.8706675,Low spillover / High severity
+Orthohantavirus bayoui,Hantaviridae,ssRNA-,3,0.9914488,0.9702098,0.021239042,High spillover / High severity
+Orthohantavirus caobangense,Hantaviridae,ssRNA-,3,0.0016013996,0.9310327,-0.9294313,Low spillover / High severity
+Orthohantavirus chocloense,Hantaviridae,ssRNA-,3,0.0016013996,0.8722689,-0.8706675,Low spillover / High severity
+Orthohantavirus delgaditoense,Hantaviridae,ssRNA-,3,0.0016013996,0.9310327,-0.9294313,Low spillover / High severity
+Orthohantavirus dobravaense,Hantaviridae,ssRNA-,3,0.0016013996,0.8722689,-0.8706675,Low spillover / High severity
+Orthohantavirus hantanense,Hantaviridae,ssRNA-,3,0.9978276,0.9582875,0.039540112,High spillover / High severity
+Orthohantavirus khabarovskense,Hantaviridae,ssRNA-,3,0.0016013996,0.9310327,-0.9294313,Low spillover / High severity
+Orthohantavirus mamorense (Laguna negra virus),Hantaviridae,ssRNA-,3,0.005376685,0.9331707,-0.927794,Low spillover / High severity
+Orthohantavirus maporalense,Hantaviridae,ssRNA-,3,0.0016013996,0.8722689,-0.8706675,Low spillover / High severity
+Orthohantavirus nigrorivense,Hantaviridae,ssRNA-,3,0.0016013996,0.8722689,-0.8706675,Low spillover / High severity
+Orthohantavirus oxbowense,Hantaviridae,ssRNA-,3,0.0016013996,0.8722689,-0.8706675,Low spillover / High severity
+Orthohantavirus prospectense,Hantaviridae,ssRNA-,2,0.0016013996,0.9310327,-0.9294313,Low spillover / High severity
+Orthohantavirus puumalaense,Hantaviridae,ssRNA-,3,0.0029756394,0.94343483,-0.9404592,Low spillover / High severity
+Orthohantavirus sangassouense,Hantaviridae,ssRNA-,3,0.0029756394,0.94343483,-0.9404592,Low spillover / High severity
+Orthohantavirus seoulense,Hantaviridae,ssRNA-,3,0.9978276,0.9582875,0.039540112,High spillover / High severity
+Orthohantavirus sinnombreense,Hantaviridae,ssRNA-,3,0.9914488,0.9702098,0.021239042,High spillover / High severity
+Orthohantavirus thailandense,Hantaviridae,ssRNA-,3,0.0016013996,0.8722689,-0.8706675,Low spillover / High severity
+Orthohantavirus tulaense,Hantaviridae,ssRNA-,3,0.9978276,0.95679283,0.041034758,High spillover / High severity
+Orthohepadnavirus hominoidei,Hepadnaviridae,other,2,0.0016013996,0.8665526,-0.8649512,Low spillover / High severity
+Orthohepadnavirus marmotae,Hepadnaviridae,other,1,0.0016013996,0.8665526,-0.8649512,Low spillover / High severity
+Orthohepadnavirus sciuri,Hepadnaviridae,other,1,0.0016013996,0.8665526,-0.8649512,Low spillover / High severity
+Orthomarburgvirus marburgense,Filoviridae,ssRNA-,4,0.0060108164,0.96809375,-0.9620829,Low spillover / High severity
+Orthonairovirus bushkeyense,Nairoviridae,ssRNA-,2,0.0016013996,0.74056745,-0.73896605,Low spillover / High severity
+Orthonairovirus chimense,Nairoviridae,ssRNA-,3,0.005376685,0.53403795,-0.52866125,Low spillover / High severity
+Orthonairovirus dugbeense,Nairoviridae,ssRNA-,3,0.9978276,0.86341536,0.13441223,High spillover / High severity
+Orthonairovirus esteroense,Nairoviridae,ssRNA-,3,0.0016013996,0.74056745,-0.73896605,Low spillover / High severity
+Orthonairovirus gossasense,Nairoviridae,ssRNA-,2,0.0016013996,0.74056745,-0.73896605,Low spillover / High severity
+Orthonairovirus haemorrhagiae,Nairoviridae,ssRNA-,4,0.0016013996,0.74056745,-0.73896605,Low spillover / High severity
+Orthonairovirus keterehense,Nairoviridae,ssRNA-,2,0.0016013996,0.74056745,-0.73896605,Low spillover / High severity
+Orthonairovirus khani,Nairoviridae,ssRNA-,2,0.0016013996,0.5556849,-0.5540835,Low spillover / High severity
+Orthonairovirus qalyubense,Nairoviridae,ssRNA-,2,0.0016013996,0.5556849,-0.5540835,Low spillover / High severity
+Orthonairovirus thiaforaense,Nairoviridae,ssRNA-,2,0.005376685,0.53403795,-0.52866125,Low spillover / High severity
+Orthonairovirus tomdiense,Nairoviridae,ssRNA-,3,0.0016013996,0.5556849,-0.5540835,Low spillover / High severity
+Orthonairovirus yezoense,Nairoviridae,ssRNA-,2,0.0016013996,0.74056745,-0.73896605,Low spillover / High severity
+Orthonairovirus yogueense,Nairoviridae,ssRNA-,2,0.0016013996,0.74056745,-0.73896605,Low spillover / High severity
+Orthopneumovirus bovis,Pneumoviridae,ssRNA-,1,0.0016013996,0.14717305,-0.14557165,Low spillover / Low severity
+Orthopneumovirus hominis,Pneumoviridae,ssRNA-,2,0.0016013996,0.44233716,-0.44073576,Low spillover / Low severity
+Orthopneumovirus hominis LIDdeltaM2-2,Pneumoviridae,ssRNA-,1,0.0016013996,0.44233716,-0.44073576,Low spillover / Low severity
+Orthopneumovirus hominis LIDdeltaM2-2/276,Pneumoviridae,ssRNA-,1,0.0016013996,0.44233716,-0.44073576,Low spillover / Low severity
+Orthopneumovirus hominis deltaNS2-L19F-4M,Pneumoviridae,ssRNA-,1,0.0016013996,0.44233716,-0.44073576,Low spillover / Low severity
+Orthopneumovirus hominis deltaNS2/delta1313/I1314L,Pneumoviridae,ssRNA-,1,0.0016013996,0.44233716,-0.44073576,Low spillover / Low severity
+Orthopneumovirus muris,Pneumoviridae,ssRNA-,1,0.0016013996,0.44233716,-0.44073576,Low spillover / Low severity
+Orthopoxvirus camelpox,Poxviridae,dsDNA,2,0.0029756394,0.1590972,-0.15612155,Low spillover / Low severity
+Orthopoxvirus cowpox,Poxviridae,dsDNA,2,0.005376685,0.21607374,-0.21069705,Low spillover / Low severity
+Orthopoxvirus ectromelia,Poxviridae,dsDNA,2,0.005376685,0.40241367,-0.39703697,Low spillover / Low severity
+Orthopoxvirus monkeypox,Poxviridae,dsDNA,3,0.005376685,0.28507185,-0.27969515,Low spillover / Low severity
+Orthopoxvirus raccoonpox,Poxviridae,dsDNA,2,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Orthopoxvirus skunkpox,Poxviridae,dsDNA,2,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Orthopoxvirus taterapox,Poxviridae,dsDNA,2,0.0016013996,0.27183682,-0.27023542,Low spillover / Low severity
+Orthopoxvirus vaccinia,Poxviridae,dsDNA,2,0.005376685,0.21009022,-0.20471354,Low spillover / Low severity
+Orthopoxvirus vaccinia NYVAC,Poxviridae,dsDNA,1,0.005376685,0.21009022,-0.20471354,Low spillover / Low severity
+Orthopoxvirus vaccinia Recombinant modified vaccinia virus Ankara (MVA) encoding rabies glycoprotein and chronic wasting disease agent epitope,Poxviridae,dsDNA,2,0.005376685,0.21847874,-0.21310206,Low spillover / Low severity
+Orthopoxvirus vaccinia strain VET3-TGI,Poxviridae,dsDNA,2,0.005376685,0.21009022,-0.20471354,Low spillover / Low severity
+Orthopoxvirus volepox,Poxviridae,dsDNA,2,0.0029756394,0.35574102,-0.35276538,Low spillover / Low severity
+Orthoreovirus avis,Spinareoviridae,dsRNA,1,0.0016013996,0.4929852,-0.4913838,Low spillover / Low severity
+Orthoreovirus mammalis type 1 Lang,Spinareoviridae,dsRNA,2,0.0016013996,0.24539927,-0.24379787,Low spillover / Low severity
+Orthoreovirus mammalis type 2 Jones,Spinareoviridae,dsRNA,2,0.0016013996,0.24539927,-0.24379787,Low spillover / Low severity
+Orthoreovirus mammalis type 3 Dearing,Spinareoviridae,dsRNA,2,0.0016013996,0.24539927,-0.24379787,Low spillover / Low severity
+Orthoreovirus mammalis type 4 Ndelle,Spinareoviridae,dsRNA,2,0.0016013996,0.24539927,-0.24379787,Low spillover / Low severity
+Orthoreovirus nelsonense,Spinareoviridae,dsRNA,2,0.0016013996,0.24539927,-0.24379787,Low spillover / Low severity
+Orthorubulavirus hominis,Paramyxoviridae,ssRNA-,2,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Orthorubulavirus laryngotracheitidis,Paramyxoviridae,ssRNA-,2,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Orthorubulavirus mapueraense,Paramyxoviridae,ssRNA-,3,0.0016013996,0.5082766,-0.5066752,Low spillover / High severity
+Orthorubulavirus parotitidis,Paramyxoviridae,ssRNA-,2,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Oryzopoxvirus cotia,Poxviridae,dsDNA,2,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Ostreavirus ostreidmalaco1,Malacoherpesviridae,dsDNA,1,0.0016013996,0.16400951,-0.16240811,Low spillover / Low severity
+Ourem virus,unknown,unknown,3,0.0016013996,0.53746307,-0.5358617,Low spillover / High severity
+Pacuvirus chilibreense,Peribunyaviridae,ssRNA-,2,0.0016013996,0.42239526,-0.42079386,Low spillover / Low severity
+Paraavulavirus hongkongense,Paramyxoviridae,ssRNA-,1,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Paraavulavirus wisconsinense,Paramyxoviridae,ssRNA-,1,0.0016013996,0.5082766,-0.5066752,Low spillover / High severity
+Parahenipavirus langyaense,Paramyxoviridae,ssRNA-,3,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Parahenipavirus mojiangense,Paramyxoviridae,ssRNA-,4,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Parapoxvirus bovinestomatitis,Poxviridae,dsDNA,2,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Parapoxvirus orf,Poxviridae,dsDNA,2,0.005376685,0.25572205,-0.25034535,Low spillover / Low severity
+Parapoxvirus pseudocowpox,Poxviridae,dsDNA,2,0.0029756394,0.1590972,-0.15612155,Low spillover / Low severity
+Parechovirus ahumpari,Picornaviridae,ssRNA+,2,0.0016013996,0.45448717,-0.45288578,Low spillover / Low severity
+Parechovirus cebokele,Picornaviridae,ssRNA+,2,0.0016013996,0.45448717,-0.45288578,Low spillover / Low severity
+Paroo River virus,unknown,unknown,3,0.005376685,0.7283998,-0.7230231,Low spillover / High severity
+Paslahepevirus balayani,Hepeviridae,ssRNA+,2,0.0016013996,0.8236326,-0.8220312,Low spillover / High severity
+Pestivirus ovis,Pestiviridae,ssRNA+,1,0.0016013996,0.75010335,-0.74850196,Low spillover / High severity
+Pestivirus suis,Hepaciviridae,ssRNA+,1,0.0016013996,0.8259759,-0.8243745,Low spillover / High severity
+Phlebovirus bujaruense,Phenuiviridae,other,2,0.0016013996,0.68514764,-0.68354625,Low spillover / High severity
+Phlebovirus florisense,Phenuiviridae,other,2,0.0016013996,0.68514764,-0.68354625,Low spillover / High severity
+Phlebovirus gabekense,Phenuiviridae,other,3,0.0016013996,0.68514764,-0.68354625,Low spillover / High severity
+Phlebovirus limboense,Phenuiviridae,other,2,0.0016013996,0.68514764,-0.68354625,Low spillover / High severity
+Phlebovirus napoliense,Phenuiviridae,other,2,0.0016013996,0.68514764,-0.68354625,Low spillover / High severity
+Phlebovirus riftense,Phenuiviridae,other,3,0.0016013996,0.68514764,-0.68354625,Low spillover / High severity
+Phlebovirus riftense strain MP-12,Phenuiviridae,other,2,0.0016013996,0.68514764,-0.68354625,Low spillover / High severity
+Phlebovirus riograndense,Phenuiviridae,other,2,0.0016013996,0.68514764,-0.68354625,Low spillover / High severity
+Phlebovirus salangaense,Phenuiviridae,other,3,0.0016013996,0.68514764,-0.68354625,Low spillover / High severity
+Ponteves virus,unknown,unknown,3,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Porcine enteric calicivirus,unknown,unknown,2,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Protoparvovirus carnivoran1,Parvoviridae,ssDNA,1,0.0016013996,0.053172525,-0.051571127,Low spillover / Low severity
+Protoparvovirus rodent1,Parvoviridae,ssDNA,1,0.0016013996,0.053172525,-0.051571127,Low spillover / Low severity
+Protoparvovirus ungulate1,Parvoviridae,ssDNA,1,0.0016013996,0.053172525,-0.051571127,Low spillover / Low severity
+Quang Binh virus,unknown,unknown,1,0.0016013996,0.22234039,-0.22073899,Low spillover / Low severity
+Quaranjavirus araguariense,Orthomyxoviridae,ssRNA-,3,0.0016013996,0.7187638,-0.71716243,Low spillover / High severity
+Quaranjavirus johnstonense,Orthomyxoviridae,ssRNA-,2,0.0016013996,0.538677,-0.5370756,Low spillover / High severity
+Quwivirus caviidbeta2,Orthoherpesviridae,dsDNA,1,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Ranavirus perca1,Iridoviridae,dsDNA,1,0.005376685,0.15075298,-0.1453763,Low spillover / Low severity
+Ranavirus rana1,Iridoviridae,dsDNA,1,0.005376685,0.15075298,-0.1453763,Low spillover / Low severity
+Rat leukemia virus,unknown,unknown,2,0.005376685,0.49191403,-0.48653734,Low spillover / Low severity
+Respirovirus bovis,Paramyxoviridae,ssRNA-,1,0.0016013996,0.5082766,-0.5066752,Low spillover / High severity
+Respirovirus laryngotracheitidis,Paramyxoviridae,ssRNA-,2,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Respirovirus muris,Paramyxoviridae,ssRNA-,2,0.005376685,0.71403205,-0.70865536,Low spillover / High severity
+Respirovirus pneumoniae,Paramyxoviridae,ssRNA-,2,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+Rhadinovirus atelinegamma2,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Rhadinovirus atelinegamma3,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Rhadinovirus humangamma8,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Rhadinovirus muridgamma4,Orthoherpesviridae,dsDNA,1,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Rhadinovirus saimiriinegamma2,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Rio Segundo virus - unclassified orthohantavirus,unknown,unknown,3,0.0029756394,0.55383193,-0.5508563,Low spillover / High severity
+Roseolovirus humanbeta6a,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Roseolovirus humanbeta6b,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Roseolovirus humanbeta7,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Roseolovirus suidbeta2,Orthoherpesviridae,dsDNA,1,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Rotavirus alphagastroenteritidis,Sedoreoviridae,dsRNA,2,0.005376685,0.35473818,-0.34936148,Low spillover / Low severity
+Rous-associated virus,unknown,unknown,2,0.005376685,0.38814107,-0.38276437,Low spillover / Low severity
+Rubivirus rubellae,Matonaviridae,ssRNA+,2,0.0016013996,0.7614661,-0.7598647,Low spillover / High severity
+Salmovirus salmonidallo2,Alloherpesviridae,dsDNA,1,0.0016013996,0.11780387,-0.11620247,Low spillover / Low severity
+Sapovirus sapporoense,Caliciviridae,ssRNA+,2,0.0016013996,0.30087975,-0.29927835,Low spillover / Low severity
+Sawgrhavirus minto,Rhabdoviridae,ssRNA-,3,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Schmallenberg virus,unknown,unknown,1,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Seadornavirus bannaense,Sedoreoviridae,dsRNA,2,0.0016013996,0.24193619,-0.2403348,Low spillover / Low severity
+Senecavirus valles,Picornaviridae,ssRNA+,1,0.0016013996,0.7371444,-0.735543,Low spillover / High severity
+Serang virus,unknown,unknown,3,0.005376685,0.7283998,-0.7230231,Low spillover / High severity
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),unknown,unknown,3,0.005376685,0.71287334,-0.70749664,Low spillover / High severity
+Severe acute respiratory syndrome coronavirus 2 virus replicon particles trans-complemented with spike protein (?S-VRP(S)),unknown,unknown,3,0.005376685,0.71287334,-0.70749664,Low spillover / High severity
+Severe acute respiratory syndrome-related coronavirus (SARS-CoV),unknown,unknown,3,0.005376685,0.71287334,-0.70749664,Low spillover / High severity
+Siadenovirus gallopavotertii,Adenoviridae,dsDNA,1,0.0016013996,0.09415098,-0.092549585,Low spillover / Low severity
+Simian-Human immunodeficiency virus,unknown,unknown,3,0.005376685,0.7346445,-0.7292678,Low spillover / High severity
+Simiispumavirus pantroschfo,Retroviridae,other,2,0.0016013996,0.23695526,-0.23535386,Low spillover / Low severity
+Simplexvirus atelinealpha1,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Simplexvirus bovinealpha2,Orthoherpesviridae,dsDNA,1,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Simplexvirus humanalpha1,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Simplexvirus humanalpha2,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Simplexvirus macacinealpha1,Orthoherpesviridae,dsDNA,4,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Simplexvirus saimiriinealpha1,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Snakehead retrovirus,unknown,unknown,1,0.0016013996,0.43583807,-0.43423668,Low spillover / Low severity
+Sparrowpox virus,unknown,unknown,1,0.005376685,0.59032935,-0.58495265,Low spillover / High severity
+Sprivivirus cyprinus,Rhabdoviridae,ssRNA-,1,0.0016013996,0.6119292,-0.6103278,Low spillover / High severity
+Sripuvirus almpiwar,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Sripuvirus chaco,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Sripuvirus madureira,Rhabdoviridae,ssRNA-,3,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Starlingpox virus,unknown,unknown,1,0.0029756394,0.462385,-0.45940936,Low spillover / Low severity
+Suipoxvirus swinepox,Poxviridae,dsDNA,1,0.0016013996,0.27183682,-0.27023542,Low spillover / Low severity
+Sunday Canyon virus,unknown,unknown,2,0.0029756394,0.55383193,-0.5508563,Low spillover / High severity
+Sunrhavirus kolongo,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Sunrhavirus sandjimba,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Swine vesicular disease virus,unknown,unknown,2,0.005376685,0.7141478,-0.7087711,Low spillover / High severity
+Teschovirus asilesi,Picornaviridae,ssRNA+,1,0.0016013996,0.7371444,-0.735543,Low spillover / High severity
+Thogotovirus dhoriense,Orthomyxoviridae,ssRNA-,3,0.005376685,0.84679073,-0.84141403,Low spillover / High severity
+Thogotovirus ozense,Orthomyxoviridae,ssRNA-,3,0.005376685,0.84679073,-0.84141403,Low spillover / High severity
+Thogotovirus upoluense,Orthomyxoviridae,ssRNA-,2,0.005376685,0.84679073,-0.84141403,Low spillover / High severity
+Thottimvirus imjinense,Hantaviridae,ssRNA-,3,0.0016013996,0.8722689,-0.8706675,Low spillover / High severity
+Thottimvirus thottapalayamense,Hantaviridae,ssRNA-,2,0.0016013996,0.8722689,-0.8706675,Low spillover / High severity
+Tibrovirus coastal,Rhabdoviridae,ssRNA-,3,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Tibrovirus congo,Rhabdoviridae,ssRNA-,4,0.0060108164,0.74284023,-0.7368294,Low spillover / High severity
+Tibrovirus tibrogargan,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Tilapinevirus tilapiae,Amnoonviridae,ssRNA-,1,0.0016013996,0.8284394,-0.826838,Low spillover / High severity
+Tilligerry virus,unknown,unknown,3,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Tindholmur virus,unknown,unknown,2,0.005376685,0.50761956,-0.50224286,Low spillover / High severity
+Tobamovirus fructirugosum,Virgaviridae,ssRNA+,1,0.0016013996,0.6486617,-0.6470603,Low spillover / High severity
+Tribec virus,unknown,unknown,2,0.005376685,0.4577304,-0.45235372,Low spillover / Low severity
+Tupavirus klamath,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Uukuvirus tyulenyense,Phenuiviridae,other,2,0.0016013996,0.68514764,-0.68354625,Low spillover / High severity
+Varicellovirus bovinealpha1,Orthoherpesviridae,dsDNA,1,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Varicellovirus equidalpha1,Orthoherpesviridae,dsDNA,1,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Varicellovirus equidalpha3,Orthoherpesviridae,dsDNA,1,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Varicellovirus equidalpha4,Orthoherpesviridae,dsDNA,1,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Varicellovirus humanalpha3,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Varicellovirus suidalpha1,Orthoherpesviridae,dsDNA,2,0.0016013996,0.18878245,-0.18718106,Low spillover / Low severity
+Vesicular stomatitis virus,unknown,unknown,3,0.005376685,0.38814107,-0.38276437,Low spillover / Low severity
+Vesiculovirus alagoas,Rhabdoviridae,ssRNA-,2,0.005376685,0.64960074,-0.64422405,Low spillover / High severity
+Vesiculovirus bogdanovac,Rhabdoviridae,ssRNA-,3,0.0029756394,0.6456019,-0.6426263,Low spillover / High severity
+Vesiculovirus chandipura,Rhabdoviridae,ssRNA-,3,0.0029756394,0.8192172,-0.81624156,Low spillover / High severity
+Vesiculovirus cocal,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7943939,-0.7927925,Low spillover / High severity
+Vesiculovirus indiana,Rhabdoviridae,ssRNA-,2,0.005376685,0.54265195,-0.53727525,Low spillover / High severity
+Vesiculovirus indiana VSV-?M51-GFP,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Vesiculovirus indiana VSV-GP,Rhabdoviridae,ssRNA-,2,0.005376685,0.54265195,-0.53727525,Low spillover / High severity
+Vesiculovirus indiana VSV?G SARS 2 SPIKE,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Vesiculovirus indiana VSV?G-LASV-GPC,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Vesiculovirus indiana VSV?G-SARS-CoV-2.Delta,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Vesiculovirus indiana VSV?G-SARS-CoV-2.V590,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Vesiculovirus indiana rVSV?G SARS-CoV-2 pseudovirus,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Vesiculovirus indiana rVSV?G-ZEBOV-GP (V920),Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Vesiculovirus indiana rVSV?G/EBOV-GP-NLucP,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Vesiculovirus indiana rVSVind-GML,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Vesiculovirus isfahan,Rhabdoviridae,ssRNA-,2,0.005376685,0.64960074,-0.64422405,Low spillover / High severity
+Vesiculovirus jurona,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7125528,-0.7109514,Low spillover / High severity
+Vesiculovirus maraba,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7943939,-0.7927925,Low spillover / High severity
+Vesiculovirus maraba 0MG1 strain,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7943939,-0.7927925,Low spillover / High severity
+Vesiculovirus newjersey,Rhabdoviridae,ssRNA-,2,0.005376685,0.75048274,-0.74510604,Low spillover / High severity
+Vesiculovirus newjersey rVSVnj-GMM,Rhabdoviridae,ssRNA-,2,0.0016013996,0.7680722,-0.7664708,Low spillover / High severity
+Vesiculovirus perinet,Rhabdoviridae,ssRNA-,3,0.0016013996,0.6119292,-0.6103278,Low spillover / High severity
+Vesiculovirus piry,Rhabdoviridae,ssRNA-,3,0.0016013996,0.7943939,-0.7927925,Low spillover / High severity
+Vesiculovirus radi,Rhabdoviridae,ssRNA-,3,0.0016013996,0.6119292,-0.6103278,Low spillover / High severity
+Vesivirus exanthema,Caliciviridae,ssRNA+,1,0.0016013996,0.30087975,-0.29927835,Low spillover / Low severity
+Vesivirus felis,Caliciviridae,ssRNA+,1,0.0016013996,0.30087975,-0.29927835,Low spillover / Low severity
+Vespertilionpoxvirus eptesipox,Poxviridae,dsDNA,2,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Wanowrie virus,unknown,unknown,2,0.0016013996,0.53746307,-0.5358617,Low spillover / High severity
+Wesselsbrons virus,unknown,unknown,3,0.005376685,0.56022036,-0.55484366,Low spillover / High severity
+White spot syndrome virus,unknown,unknown,1,0.005376685,0.3730332,-0.3676565,Low spillover / Low severity
+Xenotropic Murine Leukemia Virus-related virus,unknown,unknown,2,0.005376685,0.49191403,-0.48653734,Low spillover / Low severity
+Yacaaba virus,unknown,unknown,3,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Yatapoxvirus tanapox,Poxviridae,dsDNA,2,0.0029756394,0.1590972,-0.15612155,Low spillover / Low severity
+Yatapoxvirus yabapox,Poxviridae,dsDNA,2,0.0016013996,0.21270111,-0.21109971,Low spillover / Low severity
+Zegla orthobunyavirus,unknown,unknown,2,0.0016013996,0.53746307,-0.5358617,Low spillover / High severity
+(Ortho) reoviruses,Spinareoviridae,dsRNA,2,0.0016013996,0.4929852,-0.4913838,Low spillover / Low severity
+Adeno-associated viruses AAV,unknown,unknown,2,0.005376685,0.38814107,-0.38276437,Low spillover / Low severity
+Aino virus,unknown,unknown,3,0.0016013996,0.43583807,-0.43423668,Low spillover / Low severity
+Alphaviruses,Togaviridae,ssRNA+,3,0.0016013996,0.7374263,-0.7358249,Low spillover / High severity
+Aphthovirus,Picornaviridae,ssRNA+,2,0.0029756394,0.5948497,-0.59187406,Low spillover / High severity
+Aura virus,Togaviridae,ssRNA+,2,0.0016013996,0.6629425,-0.66134113,Low spillover / High severity
+Bebaru virus,Togaviridae,ssRNA+,2,0.0016013996,0.6813303,-0.6797289,Low spillover / High severity
+Borna disease virus,unknown,unknown,2,0.005376685,0.5008956,-0.49551892,Low spillover / High severity
+Bovine coronavirus,unknown,unknown,2,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Bovine diarrhoea virus,unknown,unknown,2,0.005376685,0.45848188,-0.45310518,Low spillover / Low severity
+Bovine enteric calicivirus,unknown,unknown,2,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Bovine enteroviruses types 1-7,unknown,unknown,2,0.005376685,0.6326398,-0.6272631,Low spillover / High severity
+Cabassou virus,Togaviridae,ssRNA+,3,0.0029756394,0.6689128,-0.6659372,Low spillover / High severity
+Calicivirus,unknown,unknown,2,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Canid herpesvirus 1,unknown,unknown,2,0.0016013996,0.4610962,-0.4594948,Low spillover / Low severity
+Canine coronavirus,unknown,unknown,2,0.0029756394,0.57169485,-0.5687192,Low spillover / High severity
+Cardiovirus,Picornaviridae,ssRNA+,2,0.0029756394,0.62714666,-0.624171,Low spillover / High severity
+Chikungunya virus,Togaviridae,ssRNA+,3,0.005376685,0.7861652,-0.7807885,Low spillover / High severity
+Coronavirus,unknown,unknown,3,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Cowpox virus,Poxviridae,dsDNA,2,0.005376685,0.21607374,-0.21069705,Low spillover / Low severity
+Dengue virus,unknown,unknown,3,0.005376685,0.3730332,-0.3676565,Low spillover / Low severity
+"Dengue virus types 1-4 Synthetic RNA (ATCC VR-3228SD, VR-3229SD, VR-3230SD, VR-3231SD)",unknown,unknown,1,0.005376685,0.3730332,-0.3676565,Low spillover / Low severity
+Duvenhage virus,Rhabdoviridae,ssRNA-,3,0.9914488,0.8192172,0.17223161,High spillover / High severity
+Ebola virus,unknown,unknown,4,0.0016013996,0.53746307,-0.5358617,Low spillover / High severity
+Ectromelia virus,Poxviridae,dsDNA,3,0.005376685,0.40241367,-0.39703697,Low spillover / Low severity
+Enterovirus,Picornaviridae,ssRNA+,2,0.005376685,0.66059226,-0.65521556,Low spillover / High severity
+Felid herpesvirus 1,unknown,unknown,2,0.0016013996,0.4610962,-0.4594948,Low spillover / Low severity
+Fowlpox virus,Poxviridae,dsDNA,2,0.005376685,0.21607374,-0.21069705,Low spillover / Low severity
+Getah virus,Togaviridae,ssRNA+,3,0.005376685,0.6754201,-0.6700434,Low spillover / High severity
+Hamster H-1 virus,unknown,unknown,2,0.0060108164,0.55825526,-0.5522444,Low spillover / High severity
+Hanta virus,unknown,unknown,3,0.005376685,0.6386546,-0.6332779,Low spillover / High severity
+Hepatitis A virus,Picornaviridae,ssRNA+,2,0.0016013996,0.45448717,-0.45288578,Low spillover / Low severity
+Hepatitis B virus,unknown,unknown,3,0.005376685,0.7283998,-0.7230231,Low spillover / High severity
+Hepatitis C virus,Hepaciviridae,ssRNA+,3,0.0060108164,0.71013045,-0.7041196,Low spillover / High severity
+Hepatitis D virus,unknown,unknown,3,0.005376685,0.7283998,-0.7230231,Low spillover / High severity
+Hepatitis E virus,unknown,unknown,3,0.0060108164,0.40667698,-0.40066615,Low spillover / Low severity
+Hepatitis G virus,unknown,unknown,3,0.005376685,0.7283998,-0.7230231,Low spillover / High severity
+Human Immunodeficiency virus (HIV),unknown,unknown,3,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Influenza A virus subtype H5N1,unknown,unknown,3,0.005376685,0.38788795,-0.38251126,Low spillover / Low severity
+Influenza A virus subtype H7N9,unknown,unknown,3,0.005376685,0.38788795,-0.38251126,Low spillover / Low severity
+Influenza virus,unknown,unknown,2,0.005376685,0.38788795,-0.38251126,Low spillover / Low severity
+Kairi virus,unknown,unknown,3,0.0029756394,0.2704094,-0.26743376,Low spillover / Low severity
+Kumlinge virus,unknown,unknown,4,0.005376685,0.5670951,-0.5617184,Low spillover / High severity
+Kyasanur forest disease virus,unknown,unknown,4,0.9978276,0.7283998,0.26942778,High spillover / High severity
+Mayaro virus,Togaviridae,ssRNA+,3,0.005376685,0.71433777,-0.70896107,Low spillover / High severity
+Mokola virus,Rhabdoviridae,ssRNA-,3,0.9978276,0.8223962,0.17543137,High spillover / High severity
+Monkey enteroviruses (SEV),unknown,unknown,2,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Monkeypox virus,Poxviridae,dsDNA,3,0.9978276,0.28507185,0.71275574,High spillover / Low severity
+Morbillivirus,Paramyxoviridae,ssRNA-,4,0.005376685,0.805954,-0.8005773,Low spillover / High severity
+"Mouse rotavirus (EDIM, epizootic diarhoea of infant mice)",Sedoreoviridae,dsRNA,2,0.005376685,0.35473818,-0.34936148,Low spillover / Low severity
+Mucambo virus,Togaviridae,ssRNA+,3,0.0016013996,0.6813303,-0.6797289,Low spillover / High severity
+Murine leukemia virus,unknown,unknown,3,0.005376685,0.49191403,-0.48653734,Low spillover / Low severity
+"Murine poliovirus (Theiler's encephalomyelitis virus, TO, FA, GD7)",Picornaviridae,ssRNA+,2,0.0016013996,0.45448717,-0.45288578,Low spillover / Low severity
+Myxoma virus,Poxviridae,dsDNA,3,0.005376685,0.40241367,-0.39703697,Low spillover / Low severity
+Ndumu virus,Togaviridae,ssRNA+,3,0.0016013996,0.6629425,-0.66134113,Low spillover / High severity
+Newcastle disease virus,unknown,unknown,3,0.0029756394,0.4288475,-0.42587185,Low spillover / Low severity
+Norovirus (former Norwalk virus),Caliciviridae,ssRNA+,2,0.0016013996,0.19889921,-0.19729781,Low spillover / Low severity
+Orf virus,Poxviridae,dsDNA,2,0.005376685,0.25572205,-0.25034535,Low spillover / Low severity
+Paravaccinia virus,unknown,unknown,2,0.005376685,0.56022036,-0.55484366,Low spillover / High severity
+Parvovirus,unknown,unknown,2,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Piry,Rhabdoviridae,ssRNA-,3,0.0029756394,0.699764,-0.6967884,Low spillover / High severity
+Poliovirus,Picornaviridae,ssRNA+,3,0.0016013996,0.45448717,-0.45288578,Low spillover / Low severity
+Porcine enterovirus type 1 (Teschen disease),unknown,unknown,3,0.005376685,0.38814107,-0.38276437,Low spillover / Low severity
+Rabies virus,Rhabdoviridae,ssRNA-,3,0.005376685,0.82739204,-0.82201535,Low spillover / High severity
+Rat coronavirus,unknown,unknown,2,0.0029756394,0.4288475,-0.42587185,Low spillover / Low severity
+Rat rotavirus,Sedoreoviridae,dsRNA,2,0.005376685,0.35473818,-0.34936148,Low spillover / Low severity
+Reoviruses,unknown,unknown,2,0.0016013996,0.53746307,-0.5358617,Low spillover / High severity
+Rocio virus,unknown,unknown,3,0.9914488,0.57169485,0.41975397,High spillover / High severity
+Ross river virus,unknown,unknown,2,0.005376685,0.7283998,-0.7230231,Low spillover / High severity
+Rotavirus,Sedoreoviridae,dsRNA,2,0.005376685,0.35473818,-0.34936148,Low spillover / Low severity
+Rotaviruses for animals (other),Sedoreoviridae,dsRNA,2,0.005376685,0.35473818,-0.34936148,Low spillover / Low severity
+Rubivirus,Matonaviridae,ssRNA+,2,0.005376685,0.788625,-0.7832483,Low spillover / High severity
+Sealpox virus,Poxviridae,dsDNA,2,0.0029756394,0.1590972,-0.15612155,Low spillover / Low severity
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RNA,unknown,unknown,2,0.005376685,0.71287334,-0.70749664,Low spillover / High severity
+Sheeppox virus,Poxviridae,dsDNA,3,0.0029756394,0.35574102,-0.35276538,Low spillover / Low severity
+Simian immunodeficiency virus,unknown,unknown,3,0.005376685,0.7346445,-0.7292678,Low spillover / High severity
+Sindbis virus,Togaviridae,ssRNA+,2,0.9978276,0.7887266,0.20910096,High spillover / High severity
+Swinepox virus,Poxviridae,dsDNA,2,0.0016013996,0.27183682,-0.27023542,Low spillover / Low severity
+Tanapox,Poxviridae,dsDNA,2,0.0029756394,0.1590972,-0.15612155,Low spillover / Low severity
+Turkey coronavirus,unknown,unknown,2,0.0016013996,0.55825526,-0.55665386,Low spillover / High severity
+Uasin Gishu disease virus,unknown,unknown,2,0.005376685,0.5969344,-0.5915577,Low spillover / High severity
+Vaccinia virus,Poxviridae,dsDNA,2,0.005376685,0.21009022,-0.20471354,Low spillover / Low severity
+Vesicular exanthema of swine virus,unknown,unknown,3,0.0016013996,0.4610962,-0.4594948,Low spillover / Low severity
+Wesselsbron virus,unknown,unknown,3,0.9914488,0.462385,0.5290638,High spillover / Low severity
+West Nile Virus 2 (Strain: 1986) Lysate,unknown,unknown,2,0.005376685,0.3730332,-0.3676565,Low spillover / Low severity
+West Nile virus,unknown,unknown,3,0.005376685,0.3730332,-0.3676565,Low spillover / Low severity
+Yabapox virus,Poxviridae,dsDNA,2,0.0029756394,0.1590972,-0.15612155,Low spillover / Low severity
+Yellow fever virus (vaccine strain 17D),unknown,unknown,2,0.005376685,0.50354975,-0.49817306,Low spillover / High severity
+Yellow fever virus Synthetic RNA (ATCC VR-3253SD),unknown,unknown,2,0.005376685,0.50354975,-0.49817306,Low spillover / High severity
+"Yellow fever virus, wild type",unknown,unknown,3,0.005376685,0.50354975,-0.49817306,Low spillover / High severity
+australis,Kitaviridae,ssRNA+,3,0.0016013996,0.8391422,-0.8375408,Low spillover / High severity
+bovis,Polyomaviridae,dsDNA,3,0.0016013996,0.26754788,-0.26594648,Low spillover / Low severity
+canis,Polyomaviridae,dsDNA,3,0.0016013996,0.26754788,-0.26594648,Low spillover / Low severity
+equi,Polyomaviridae,dsDNA,2,0.0016013996,0.26754788,-0.26594648,Low spillover / Low severity
+europaeus,Caliciviridae,ssRNA+,2,0.0016013996,0.30087975,-0.29927835,Low spillover / Low severity
+felis,Paramyxoviridae,ssRNA-,2,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+hominis,Darmviridae,dsDNA,2,0.0016013996,0.16399416,-0.16239277,Low spillover / Low severity
+influenzae,Orthomyxoviridae,ssRNA-,2,0.005376685,0.64547855,-0.64010185,Low spillover / High severity
+japonicum,Virgaviridae,ssRNA+,2,0.0016013996,0.6486617,-0.6470603,Low spillover / High severity
+macacae,Polyomaviridae,dsDNA,2,0.0016013996,0.26754788,-0.26594648,Low spillover / Low severity
+meleagridis,Caliciviridae,ssRNA+,2,0.0016013996,0.30087975,-0.29927835,Low spillover / Low severity
+muris,Polyomaviridae,dsDNA,2,0.0016013996,0.26754788,-0.26594648,Low spillover / Low severity
+ovis,Pestiviridae,ssRNA+,3,0.0016013996,0.75010335,-0.74850196,Low spillover / High severity
+phocae,Paramyxoviridae,ssRNA-,2,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+pneumoniae,Paramyxoviridae,ssRNA-,2,0.0016013996,0.7039049,-0.7023035,Low spillover / High severity
+salmonis,Spinareoviridae,dsRNA,2,0.0016013996,0.24539927,-0.24379787,Low spillover / Low severity
+simiae,Darmviridae,dsDNA,2,0.0016013996,0.16399416,-0.16239277,Low spillover / Low severity
+suis,Polyomaviridae,dsDNA,3,0.0016013996,0.26754788,-0.26594648,Low spillover / Low severity
+theileri,Picornaviridae,ssRNA+,2,0.0016013996,0.7371444,-0.735543,Low spillover / High severity

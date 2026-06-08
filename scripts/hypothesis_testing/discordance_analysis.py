@@ -35,7 +35,7 @@ def run_discordance_analysis():
         known_rg = int(row["rg_label"]) + 1 # 1-indexed
         
         # RG model features
-        rg_features = row[feature_cols].to_frame().T
+        rg_features = row[feature_cols].to_frame().T.astype(float)
         # XGBoost predict_proba
         rg_proba = rg_model.predict_proba(rg_features)[0]
         prob_rg3_rg4 = rg_proba[2] + rg_proba[3] # Index 2 is RG3, Index 3 is RG4

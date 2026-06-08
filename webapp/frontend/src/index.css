@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-canvas: #FAFAF9; /* stone-50 */
+  --color-ink: #292524; /* stone-800 */
+  --color-ink-muted: #78716C; /* stone-500 */
+  --color-risk-light: #FFF7ED; /* orange-50 */
+  --color-risk: #C2410C; /* orange-700 (Rust) */
+  --color-stable-light: #F7FEE7; /* lime-50 */
+  --color-stable: #3F6212; /* lime-800 (Olive) */
+  --color-blindspot-light: #FEFCE8; /* yellow-50 */
+  --color-blindspot: #A16207; /* yellow-700 (Ochre) */
+}
+
+@layer base {
+  body {
+    background-color: var(--color-canvas);
+    color: var(--color-ink);
+  }
+}
