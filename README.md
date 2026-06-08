@@ -94,12 +94,16 @@ python scripts/case_studies.py           # 17. Run case study predictions
 
 ## Datasets & Provenance
 
-| Dataset | Source | Features Extracted |
+| Dataset | Source | Features Extracted / Purpose |
 |---|---|---|
-| **ICTV MSL 2025** | ictv.global | `genome_type`, `taxonomic_family` |
+| **ePATHogen** | ePathogen.phac-aspc.gc.ca | Biosafety Risk Group labels |
+| **ABSA** | absa.org | Biosafety Risk Group labels |
+| **WHO BMBL 6th Ed** | cdc.gov/labs/BMBL.html | Biosafety Risk Group labels |
+| **ICTV MSL 2025** | ictv.global | `taxonomic_family`, baseline nomenclature |
 | **Virus-Host DB** | genome.jp/ftp | `host_breadth`, `infects_humans` |
+| **Virus Genome Type** | genome.jp/ftp | `genome_type` (Baltimore classification), `is_dna` |
 | **Olival 2017** | ecohealthalliance/HP3 | `is_enveloped`, `is_segmented`, `is_vector_borne`, `is_zoonotic` |
-| **NCBI Entrez** | biopython/Entrez | Cross-database tax ID resolution |
+| **NCBI Entrez** | biopython/Entrez | Cross-database tax ID and name resolution |
 
 > **Note:** Raw data files are tracked in this `v2-real-features` branch to ensure full reproducibility, but larger raw databases may require manual download if run from scratch.
 
