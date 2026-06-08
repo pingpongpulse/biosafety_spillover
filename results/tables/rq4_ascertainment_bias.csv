@@ -1,0 +1,4 @@
+Metric,Score
+Baseline Macro-F1,0.7239726982293074
+Macro-F1 w/o Human Evidence,0.6921433814975935
+Absolute Drop,0.031829316731713964

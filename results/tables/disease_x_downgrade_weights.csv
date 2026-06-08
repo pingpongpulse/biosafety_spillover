@@ -1,0 +1,8 @@
+Feature,Value,SHAP_Contribution
+is_dna,0.0,0.12725021
+host_breadth,1.0,0.0828605
+is_enveloped,1.0,0.057473104
+genome_type_enc,5.0,0.04917241
+is_zoonotic,1.0,0.0072141406
+is_vector_borne,0.0,0.0
+is_segmented,0.0,-0.10977665

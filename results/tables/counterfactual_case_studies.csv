@@ -1,0 +1,4 @@
+Virus,Scenario,Base Predicted RG,Base Prob(RG3/4),Counterfactual RG,Counterfactual Prob(RG3/4),Shift
+Alphainfluenzavirus influenzae A/California/7/2009(H1N1)-PA(I38M),Change from RNA to DNA,4,0.64547855,2,0.24797842,-0.39750013
+Dengue virus quadrivalent vaccine V181,Remove Vector-borne Status,1,0.3730332,1,0.3730332,0.0
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),Change Family to Filoviridae,3,0.71287334,4,0.662297,-0.05057633
