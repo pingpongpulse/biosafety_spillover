@@ -169,24 +169,12 @@ const BioRiskEvaluator = ({ result, setResult, explanation, setExplanation }) =>
     if (active && payload && payload.length) {
       const data = payload[0].payload;
       return (
-        <div className="bg-white p-4 border border-stone-200 shadow-md rounded w-96 max-w-lg z-50 relative">
-          <div className="flex justify-between items-start mb-2">
-            <p className="font-serif font-bold text-base text-stone-800">{formatFeatureLabel(data.feature)}</p>
-            <span className={`text-xs px-2 py-0.5 rounded font-medium ${data.shap_value > 0 ? 'bg-lime-100 text-lime-800' : 'bg-orange-100 text-orange-800'}`}>
+        <div className="bg-white p-3 border border-stone-200 shadow-md rounded w-auto z-50 relative">
+          <div className="flex justify-between items-center gap-4">
+            <p className="font-serif font-bold text-sm text-stone-800">{formatFeatureLabel(data.feature)}</p>
+            <span className={`text-xs px-2 py-0.5 rounded font-bold shadow-sm ${data.shap_value > 0 ? 'bg-lime-100 text-lime-800' : 'bg-orange-100 text-orange-800'}`}>
               SHAP: {data.shap_value > 0 ? '+' : ''}{data.shap_value.toFixed(4)}
             </span>
-          </div>
-          
-          <div className="space-y-3">
-            <div>
-              <p className="text-[10px] font-bold text-stone-400 tracking-wider uppercase mb-0.5">Instance Evaluation</p>
-              <p className="text-sm text-stone-700 leading-snug bg-stone-50 p-2 rounded border border-stone-100">{data.bio_translation.instance_reason}</p>
-            </div>
-            
-            <div>
-              <p className="text-[10px] font-bold text-stone-400 tracking-wider uppercase mb-0.5">Global Model Weight</p>
-              <p className="text-xs text-stone-500 leading-snug">{data.bio_translation.global_reason}</p>
-            </div>
           </div>
         </div>
       );
@@ -371,7 +359,17 @@ const BioRiskEvaluator = ({ result, setResult, explanation, setExplanation }) =>
                 <h3 className="font-serif text-2xl font-semibold text-stone-800 mb-2">Biological Feature Scorecard</h3>
                 <p className="text-sm text-stone-500 mb-6">A unified matrix combining baseline traits, global structural weights, and instance-specific SHAP explanations.</p>
                 <div className="grid grid-cols-1 gap-6">
-                  {Object.keys(featureScorecard).map(key => {
+                  {[
+                    'is_dna', 
+                    'genome_type_enc', 
+                    'taxonomic_family_enc', 
+                    'is_enveloped', 
+                    'is_segmented', 
+                    'is_zoonotic', 
+                    'host_breadth', 
+                    'is_vector_borne', 
+                    'infects_humans'
+                  ].map(key => {
                     const val = formData[key];
                     let mappedVal = val === null ? null : val;
                     if (key === 'host_breadth' && val !== null) {
@@ -420,13 +418,21 @@ const BioRiskEvaluator = ({ result, setResult, explanation, setExplanation }) =>
                               <p className="text-[10px] font-bold text-stone-400 tracking-wider uppercase mb-1.5 flex items-center gap-1.5">
                                 <Activity className="w-3 h-3" /> Instance Evaluation
                               </p>
-                              <div className="text-sm text-stone-700 leading-relaxed bg-white p-5 rounded-lg border border-stone-100 shadow-sm h-full">
+                              <div className="text-sm text-stone-700 leading-relaxed bg-white p-5 rounded-lg border border-stone-100 shadow-sm h-full flex flex-col justify-start">
                                 <span className="font-bold text-stone-800 block mb-2 text-base font-serif">{data.value}</span>
-                                <p>{data.explanation}</p>
+                                
+                                <div className="mb-4 mt-1">
+                                  <span className="text-[9px] font-bold text-stone-400 uppercase tracking-widest block mb-1">Current State</span>
+                                  <p>{data.explanation}</p>
+                                </div>
+
                                 {shapFeature && shapFeature.bio_translation.instance_reason && (
-                                  <p className="mt-4 pt-4 border-t border-stone-100 text-stone-600 font-medium">
-                                    {shapFeature.bio_translation.instance_reason}
-                                  </p>
+                                  <div className={`mt-3 p-3 rounded-md border ${shapFeature.shap_value > 0 ? 'bg-lime-50 border-lime-100/50' : 'bg-orange-50 border-orange-100/50'}`}>
+                                    <span className="text-[9px] font-bold text-stone-500 uppercase tracking-widest block mb-1">Model Impact (SHAP)</span>
+                                    <p className="text-stone-700 font-medium text-sm leading-snug">
+                                      {shapFeature.bio_translation.instance_reason}
+                                    </p>
+                                  </div>
                                 )}
                               </div>
                             </div>
@@ -434,23 +440,18 @@ const BioRiskEvaluator = ({ result, setResult, explanation, setExplanation }) =>
                             {globalPred && (
                               <div>
                                 <p className="text-[10px] font-bold text-stone-400 tracking-wider uppercase mb-1.5 flex items-center gap-1.5">
-                                  <Network className="w-3 h-3" /> Global Baseline Insight
+                                  <Network className="w-3 h-3" /> Virological First Principles
                                 </p>
-                                <div className="text-sm text-stone-600 leading-relaxed bg-stone-50 p-5 rounded-lg border border-stone-100 h-full">
+                                <div className="text-sm text-stone-600 leading-relaxed bg-stone-50 p-5 rounded-lg border border-stone-100 h-full flex flex-col justify-start">
                                   <p>{globalPred.reason}</p>
-                                  {shapFeature && shapFeature.bio_translation.global_reason && (
-                                    <p className="mt-4 pt-4 border-t border-stone-200 text-stone-500 italic">
-                                      {shapFeature.bio_translation.global_reason}
-                                    </p>
-                                  )}
                                 </div>
                               </div>
                             )}
                           </div>
                         ) : (
-                          <div className="flex flex-col items-center justify-center text-stone-400 py-8">
-                            <HelpCircle className="w-8 h-8 mb-2 opacity-50" />
-                            <span className="text-sm font-medium">Data Gap (Unknown Parameter)</span>
+                          <div className="flex flex-col items-center justify-center text-stone-400 py-8 bg-stone-50 rounded-lg border border-stone-200 border-dashed mt-2">
+                            <HelpCircle className="w-8 h-8 mb-2 opacity-50 text-stone-300" />
+                            <span className="font-bold uppercase tracking-wider text-xs text-stone-500">Data Gap (Unknown Parameter)</span>
                           </div>
                         )}
                       </div>

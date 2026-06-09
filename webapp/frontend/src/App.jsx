@@ -17,7 +17,7 @@ function App() {
             <Shield className="w-8 h-8 text-lime-800" />
             <div>
               <h1 className="text-xl font-bold font-serif text-stone-800 tracking-tight">BioRiskNet</h1>
-              <p className="text-xs text-stone-500 font-medium tracking-wide">META-THESIS V3 • ACADEMIC RESEARCH PLATFORM</p>
+              <p className="text-xs text-stone-500 font-medium tracking-wide">META-THESIS • ACADEMIC RESEARCH PLATFORM</p>
             </div>
           </div>
           <nav className="flex space-x-1">

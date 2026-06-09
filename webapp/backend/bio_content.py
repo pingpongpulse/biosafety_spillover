@@ -108,15 +108,8 @@ def get_shap_explanation(feature_name: str, shap_value: float, raw_value: float)
         instance_reason = f"Trait evaluation: {'Amplifies' if shap_value > 0 else 'Constrains'} biosafety severity."
         signal = "NEUTRAL"
         
-    # Append the raw bio explanations
-    raw_global = GLOBAL_IMP_BIO.get(feature_name, "")
-    if raw_global:
-        global_reason += " " + raw_global
-        
-    raw_instance_dict = SHAP_BIO.get(feature_name, {})
-    raw_instance = raw_instance_dict.get("positive" if shap_value > 0 else "negative", "")
-    if raw_instance:
-        instance_reason += " " + raw_instance
+    # Removed redundant appending of GLOBAL_IMP_BIO and SHAP_BIO
+    # The hardcoded strings above already contain the full context and keyword formatting needed by the frontend.
 
     return {
         "global_reason": global_reason.strip(),
